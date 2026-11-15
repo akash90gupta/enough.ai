@@ -1,0 +1,1657 @@
+{
+ "date": "2026-11-15",
+ "written_at": "2026-11-15T19:01:04.225Z",
+ "the_day": "OpenAI folded its robotics team into core research groups and acquired the life-sciences startup Orchestra Bio, while Anthropic and Google had only follow-up details and Meta and xAI were quiet.",
+ "companies": [
+  {
+   "id": "anthropic",
+   "name": "Anthropic",
+   "items": [
+    {
+     "headline": "Cursor says stolen Fireworks AI key caused Claude Code extension breach",
+     "points": [
+      "Cursor says attackers used a stolen Fireworks AI key to plant a trojanized Claude Code extension, The Hacker News reports.",
+      "BigGo Finance reports that up to 5,000 users may have been affected.",
+      "As yesterday, today's items describe no action by Anthropic: the breach was on Cursor's side."
+     ],
+     "reported_at": "2026-11-15T08:35:00.000Z",
+     "x_keywords": "Claude Code",
+     "for_you": "If you use Claude Code extensions inside Cursor, check whether you installed the affected extension.",
+     "kind": "Safety",
+     "status": "reported",
+     "continuing": true,
+     "outlets": [
+      "The Hacker News",
+      "BigGo Finance"
+     ],
+     "sources": [
+      {
+       "source": "The Hacker News",
+       "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+       "link": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+       "published": "2026-11-15T08:22:00.000Z",
+       "official": false
+      },
+      {
+       "source": "BigGo Finance",
+       "title": "Cursor Confirms Breach: Stolen Fireworks AI Key Let Hackers Poison Claude Code Extension for Up to 5,000 Users",
+       "link": "https://finance.biggo.com/news/777770f9-19f8-4cf6-8ac5-3cc551345ec7",
+       "published": "2026-11-15T08:35:00.000Z",
+       "official": false
+      }
+     ]
+    }
+   ],
+   "quiet_line": "Nothing new from Anthropic today.",
+   "coverage_only": false
+  },
+  {
+   "id": "google",
+   "name": "Google",
+   "items": [
+    {
+     "headline": "Samsung's Gemini glasses reportedly go on sale December 10 from $395",
+     "points": [
+      "Nacionale reports the Gemini-powered glasses go on sale December 10, starting at $395.",
+      "Dainik Jagran reports the glasses have a 12MP camera and a 9-hour battery.",
+      "Technetbook reports Gentle Monster and Warby Parker plan to launch Android XR glasses next month."
+     ],
+     "reported_at": "2026-11-15T14:36:00.000Z",
+     "x_keywords": "glasses",
+     "for_you": "If you were waiting for Gemini glasses, a reported date and starting price are now out, though no official post confirms them today.",
+     "kind": "Launch",
+     "status": "reported",
+     "continuing": true,
+     "outlets": [
+      "Nacionale",
+      "Dainik Jagran MP CG",
+      "Technetbook"
+     ],
+     "sources": [
+      {
+       "source": "Nacionale",
+       "title": "What are Google's new glasses? Gemini glasses go on sale December 10, starting at $395",
+       "link": "https://www.nacionale.com/en/articles/google-gemini-glasses-december-10-price",
+       "published": "2026-11-14T19:43:22.000Z",
+       "official": false
+      },
+      {
+       "source": "Dainik Jagran MP CG",
+       "title": "Samsung Google Smart Glasses Launch Date, Price Revealed: Gemini AI, 12MP Camera and 9-Hour Battery",
+       "link": "https://english.dainikjagranmpcg.com/technology/samsung-google-smart-glasses-price-features-and-launch-date/article-44343",
+       "published": "2026-11-15T10:40:31.000Z",
+       "official": false
+      },
+      {
+       "source": "Technetbook",
+       "title": "Gentle Monster And Warby Parker To Launch Android XR Smart Glasses Next Month",
+       "link": "https://www.technetbooks.com/2026/11/gentle-monster-and-warby-parker-to.html",
+       "published": "2026-11-15T14:36:00.000Z",
+       "official": false
+      }
+     ]
+    }
+   ],
+   "quiet_line": "Nothing new from Google today.",
+   "coverage_only": false
+  },
+  {
+   "id": "meta",
+   "name": "Meta",
+   "items": [],
+   "quiet_line": "Nothing new changed at Meta today. Coverage was mostly follow-ups on the Italian fine reported yesterday.",
+   "coverage_only": false
+  },
+  {
+   "id": "openai",
+   "name": "OpenAI",
+   "items": [
+    {
+     "headline": "OpenAI folds its standalone robotics team into core research groups",
+     "points": [
+      "Several outlets report OpenAI has disbanded its separate robotics team and moved its researchers into two other organizations.",
+      "The Decoder reports the reason is that general-purpose models may make specialized robotics AI unnecessary.",
+      "The Times of India notes this is the second time in six years OpenAI has shut down a robotics unit."
+     ],
+     "reported_at": "2026-11-15T05:22:11.000Z",
+     "x_keywords": "robotics",
+     "for_you": "",
+     "kind": "Business",
+     "status": "reported",
+     "continuing": false,
+     "outlets": [
+      "The Decoder",
+      "Tech in Asia",
+      "Startup Fortune",
+      "shattered.io",
+      "The Times of India"
+     ],
+     "sources": [
+      {
+       "source": "The Decoder",
+       "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
+       "link": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+       "published": "2026-11-14T19:16:38.000Z",
+       "official": false
+      },
+      {
+       "source": "Tech in Asia",
+       "title": "OpenAI folds standalone robotics team into main units",
+       "link": "https://www.techinasia.com/news/openai-folds-standalone-robotics-team-main-units",
+       "published": "2026-11-15T05:11:00.000Z",
+       "official": false
+      },
+      {
+       "source": "Startup Fortune",
+       "title": "OpenAI disbands its stand-alone robotics team and moves researchers into core groups",
+       "link": "https://startupfortune.com/openai-disbands-its-stand-alone-robotics-team-and-moves-researchers-into-core-groups/",
+       "published": "2026-11-15T04:50:35.000Z",
+       "official": false
+      },
+      {
+       "source": "shattered.io",
+       "title": "OpenAI Dissolves Robotics Team, Moves Staff to 2 Orgs",
+       "link": "https://shattered.io/openai-dissolves-robotics-team-staff-two-orgs-chen-brockman/",
+       "published": "2026-11-15T05:22:11.000Z",
+       "official": false
+      },
+      {
+       "source": "The Times of India",
+       "title": "OpenAi shuts down robot unit second time in six years, but wants everyone to know that the company is com",
+       "link": "https://timesofindia.indiatimes.com/technology/tech-news/openai-shuts-down-robot-unit-second-time-in-six-years-but-wants-everyone-to-know-that-the-company-is-committed-to-/articleshow/135846511.cms",
+       "published": "2026-11-15T03:37:00.000Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "headline": "OpenAI acquires drug-development startup Orchestra Bio",
+     "points": [
+      "NewsBytes reports OpenAI has acquired Orchestra Bio to strengthen its life-sciences work around Rosalind.",
+      "The Economic Times reports the startup had raised about $20 million and its team now builds OpenAI's life-sciences AI.",
+      "Deal terms were not included in today's items."
+     ],
+     "reported_at": "2026-11-15T16:33:57.000Z",
+     "x_keywords": "life sciences",
+     "for_you": "",
+     "kind": "Business",
+     "status": "reported",
+     "continuing": false,
+     "outlets": [
+      "The Economic Times",
+      "NewsBytes"
+     ],
+     "sources": [
+      {
+       "source": "The Economic Times",
+       "title": "This drug-development startup raised about $20 million; now its team builds OpenAI's life-sciences AI; her",
+       "link": "https://m.economictimes.com/news/international/us/this-drug-development-startup-raised-about-20-million-now-its-team-builds-openais-life-sciences-ai-heres-what-you-need-to-know/articleshow/135859957.cms",
+       "published": "2026-11-15T16:20:00.000Z",
+       "official": false
+      },
+      {
+       "source": "NewsBytes",
+       "title": "OpenAI acquires Orchestra Bio to bolster life sciences with Rosalind",
+       "link": "https://www.newsbytesapp.com/news/science/openai-acquires-orchestra-bio-to-bolster-life-sciences-with-rosalind/tldr",
+       "published": "2026-11-15T16:33:57.000Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "headline": "Second outlet reports OpenAI's Daybreak security agents",
+     "points": [
+      "Korben now also reports that OpenAI has launched Daybreak, AI agents that attack apps to find security weaknesses.",
+      "Yesterday, only BigGo Finance had reported it, describing a system that autonomously verifies and fixes vulnerabilities.",
+      "Availability and pricing were not in today's items, and there is no official OpenAI post among them."
+     ],
+     "reported_at": "2026-11-15T09:26:21.000Z",
+     "x_keywords": "Daybreak",
+     "for_you": "",
+     "kind": "Launch",
+     "status": "unconfirmed",
+     "continuing": true,
+     "outlets": [
+      "Korben"
+     ],
+     "sources": [
+      {
+       "source": "Korben",
+       "title": "OpenAI launches Daybreak, AI agents that hack your apps to secure them",
+       "link": "https://korben.info/en/openai-launches-daybreak-ai-agents-hack-apps-to-secure-them.html",
+       "published": "2026-11-15T09:26:21.000Z",
+       "official": false
+      }
+     ]
+    }
+   ],
+   "quiet_line": "Nothing new from OpenAI today.",
+   "coverage_only": false
+  },
+  {
+   "id": "xai",
+   "name": "xAI",
+   "items": [],
+   "quiet_line": "No confirmed changes at xAI today. Several single-outlet reports are listed below.",
+   "coverage_only": false
+  }
+ ],
+ "left_out": [
+  {
+   "reason": "Not really about the company",
+   "explanation": "These mentioned a company only in passing, including a UK speechwriter using ChatGPT, the petition about Nvidia's CEO, UFC jokes, partner shopping apps and unrelated stories matched by name.",
+   "items": [
+    {
+     "source": "Moomoo",
+     "title": "@SunnyOsahn took the Le Grand Rex stage today to talk about the future of 3D, from capture to creation and rendering.",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMDZxUE1ybXhnZW1WS1QwREZrOTRTV0t1V3FhVEVYSUUzaEFsZktYbTc3d0w1djYyczNwcVdabTdPc1Rmb1lQOXZpcjNPRDZ3a1RqckYtRG9OX1U3MGNOYndCRDhMczlrOGlESmsxbnd1dXdadW1mV204LXpsQ1ZhMVM4MVdTV092ZjBEN1pzNVdkb1NJWUVrZ0VQekhrY0dsMlkwRVVWSFVtZw?oc=5"
+    },
+    {
+     "source": "WSJ",
+     "title": "How AI Helps Me Find the Right TV Shows at the Right Times",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yRXBVZ0loRkZnUzNfTjNXUlpydDc5VnZ0bGg2VHZ5SzFZQzdUUWpTVWE1aHVHdlZRU2hxRXNJZlNuQksyYnVGYWxuYnY3b3hubUNTb1NHelpRVlRiVjlXbnRZSHNMM0xfcWtDUkh3?oc=5"
+    },
+    {
+     "source": "GameGPU",
+     "title": "GTA mod developers are making thousands of dollars with AI from Claude Code and FiveM.",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb1hiaEFhTmlONC1leDQwbndtT3VpYjlfVF8yVVY3UXFKNV82dVNZVzFQQ283Y1BIbkU3d0NlX2RhM2pHLVltVXA3ZGlwMFZOWHlEYldkdl9FMlY0TjVmVUJteGpmZTRCa1BBR0hHWktIWjZhVC1sVVNxbjBUSGZWZmRlaDJ5YWhFaGVmenhIMVlyaldiZktwY0d6cGNPdDlpS3hUa09Sd2EyOW83OERQd2ZHOWlkdUFfX3E5MEVERWtBOFZ0aVh5aGFNY0VMU1J2?oc=5"
+    },
+    {
+     "source": "Moomoo",
+     "title": "🚨 Circle’s $USD Coin (USDC.CC)$ supply has fallen by $1.3 billion over the past week as redemptions outpaced new issuance. The decline now stands at $3.9 billion over the last 30 days.",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNlFHTWZOaGg1T0x5UG5tdU02VkFMNW81TE10Z3FDcjF5b3hHWmpER0Vub21ZYVYxaFRNaVpJNm16T0pqcE5qdUlrZVZicmRSbGhvT1lCMEFxSjFJT2hsNkRyNlBocHA5YzMyQUZuUklSdzJ2V201d2FoU1NIeF9JM3BVaHlucmc5bFdjV3J3Ql9taGQtNUFiLUxhdGRUNk9HWHc?oc=5"
+    },
+    {
+     "source": "Moomoo",
+     "title": "Third-quarter gross domestic product (GDP) growth was revised up to 2.9%, according to the economists surveyed, bolstered by consumer spending and business investment. 59% of survey respondents said financial conditions had tightened, but not enough t",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMWdoMHNTMS1RT3BYRmtzdExPZFNSeHFVU3pFeEFIamFYRE4xU1h1TFA5bThTSUZ2c0FGVEs1dkJjZng5ZGc1OGZ3V2JpN3FxYmJzWktjdVZ4ZGctcmpNMW9rZTN3MG1HVm1vMnBmMFNHUEJiOGFHU0xjMF9aNjZYNFhZVWs4alZ3TjhGUzBvaEtEZ0RsU3ZmSUFBYnlhT0ZrLWFxQ01TUDBBeWFZdFJHYmlNZWlzRVU?oc=5"
+    },
+    {
+     "source": "Moomoo",
+     "title": "Day 26: ASTS Bull Call Spread",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONEZjWExUTkJ5dHlEQ3h4M1ZuNjVzZ2t6YVd0QU1IdktuN212VURwSDI2amw5Vk5DT0lnbzR3S2JMRXhFTEFIVTVSQnAzV1F6RUUxam9DX2hmWUtsZk1fS2lfMzZ5YmlLM3lpQTc0NzRBRkN3bzUtS2p2eDZYb2FoMDdCdEZqNmo4RXc?oc=5"
+    },
+    {
+     "source": "CoinMarketCap",
+     "title": "Anthropic (antcoin.fun) price today, ANT to USD live price, marketcap and chart",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HWWFMdnlLaUpzM3M2QkVRRVN2Nk1BMTJPUXgtS2hkQWVfcTNfTGtQcy1aQWxROEg2dlRJYVA0bkhISGNMTXkwTzlobWtIMF9wclBhaDhMdEhBa3JvNXR6aW9lMzN5amFEVkZJ?oc=5"
+    },
+    {
+     "source": "Fortune",
+     "title": "The hottest job in AI right now may be counterintelligence as companies hire to protect secrets",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZHlXWmNFVXRTcnRvT3hkTkdxdTBKWF9FVGZQaWVxdjNPT1hpa1BvaUVEckRfMEUwY0NZa3JSWlUtelBoWTFidk5hN1RSLWFHdmNQQlBBbjR3ODVFRnZmcFlaMEkxb1ljbHhzaUpVV3lpeW1KR0VTRHlBa1poU2diRTNpTElQdHhpSFlTUFpQeEZWSDJzRzVlRXVBdkwxV1VGODlrX3BxcHZtTjhSWGJOZDlmYjRoSE5BUUMtQWZxR0xvUXJmTXgxeFk1cWE3YnBiOVRCcjdR?oc=5"
+    },
+    {
+     "source": "PCMag",
+     "title": "Access ChatGPT, Gemini, and Deep Content Tools in a Single $80 Lifetime Hub",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmFROFBqZDJabWR3TWJvU0xSNHdhQXlXeFBTbVRCSFFVSFhxR0RQMzAyVXF0c0R4akd5Tm9HZ0tFWUNWTm1Pako1akNFX0cySmcxOGN2WVlJOUs0d0hZZXNmWkxUNFRXbmNxeFFXLXhVZGVZWEFlaVZweXpWRmQzUmdIcHVwTFZzVm16dzRhbnFRZHJCU19CcWtFeTZkWHRuWlE?oc=5"
+    },
+    {
+     "source": "RS Web Solutions",
+     "title": "Windows 11 Runs on Apple Foldable iPhone, Google AI Shows",
+     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVndkZlZUdmc4Qm5oMHRJTDhQLTlGWXRiQjRHOG5OZmlyb1F4VFhzbmhqQ19peGZ1MU51WlpWTHlQN095LWxHbVI1RS15VHdMTWM3Y0RWck55dW5DRjNnUTlZbUwwTHB3MlEwQklWaUlGVVBKNUN0RzUwYTJoVWljSkZDS0ZtdXB0UjBhTDNHdWZuR2t0Qkx1UmJMRzBYR2dSbW5zeEx1WU50bWkzRGhUaUl3MllBVXktREJqVXRKV1pKWllTWjRxbERiSUUtTW1RNUg1ZmJBbUFJNzhndERkZHJqeHdMblhZbTRXTllpd0ktSkw3ckdHRDZzTVBpRnQ0ZTdaODh3?oc=5"
+    },
+    {
+     "source": "Wide Open Country",
+     "title": "Gemini User Reportedly Fakes Hostage Crisis to Get AI to Recommend Piracy Site",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSDgyY3JtRXZNTlNtTnVxcER1dkYybjdYMXlIcVNaSkpIMGtWaDN2SVhZN2RFdlZRdmlhLVkzMmhRSjh3Y3lwV3h4QjJ4WTdfOWRNdmFKeFpPTmhmMVByNC1TRE40MFZvTVhMSmJyUDJ4MjRWUGJtOWRVYy1oeGVob2ZiTkZkNzlSNEFERVhka0lkdG8tTkRRcUc3akRMdFRmMUVXRXBjYWE1UTJGOHRxZA?oc=5"
+    },
+    {
+     "source": "Yahoo Tech",
+     "title": "AI lasers zap sea lice around the clock for up to a quarter of Norway's farmed salmon",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaFZrQTN0VjJTeUdKdjFSNDJXLUI2US1vU0tvOXNqWERVbDNQbHo2Zk5aZlZGYnFUVEN3RkdwX2x0aW1qU1V2blVCVGZsZm5NWXlqRzNRbXpDVXNGT0M3cEFPSjRyT1RRMWRxbXc2WmpHQUdmRVlndXF4M2E2OWZ2S3ZObXdlTTQ?oc=5"
+    },
+    {
+     "source": "SheKnows",
+     "title": "8 Holiday Gifts to Shop at Best Buy for Everyone on Your List From Meta AI Ray-Bans, Nespresso & More",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ1lWSU1neDlyYndiU1FiN0drSjNCV0JnTW16eHlVX0FLZ19oM0lsTzBYZ2piWWtKcDlpdFgwV0dlYXNtWlFrbFhHTkJrQ0FONHhnZks1cFBsRUFKYTd2TkFjbVZRNFFKRTk0QWRuZlI4bzdmbGVNdHctUlFTakpwN09PZU9wQ1E?oc=5"
+    },
+    {
+     "source": "매일경제",
+     "title": "AI Glasses Manufacturers Are Emerging... Strengthen the function of preventing invasion of privacy and misconduct",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lU2RGamFyeGlWUDhsU0hYZ0FiSGM4NndqSjNXR3lpOXUtbDBFbGRWcGJ3VWItSHNBVC1VNC1iU1BiLUtlMXllcDZzZ3lheVNMd1Y4?oc=5"
+    },
+    {
+     "source": "VnExpress International",
+     "title": "Billionaire Lucy Guo plans to sue actress ex-girlfriend for defamation",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcHBtSE1oWW00dW9VS09xOWN2ZWFuYk9wOWRvMjBGeFRka19aUFhkNkZZVmNtTHNCVGRoZHBFaVRlVC1OTW5URmJVZkRpcnJiSlcwSlhkUXJrdnhqbWtxNnEyOUEwU0NxOFlxcFhEb0l6VVFpX0RlYWZQSUlHdWtJSWJZNURpUjQwT2RTSEZWOGRSR3RIX0t5S1RXWXNvSFk4czZJdUVuaTFIR1ZuSlpENHV2NGdLNmlwSGw2aFQ1dEhfVzJBYU9UMWNaSQ?oc=5"
+    },
+    {
+     "source": "Yahoo Tech",
+     "title": "Needs For Robotic Design And Mastery",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUw1ZWk4QkRhbWJSWjM2QUgyN3ZPbXlNTlZ5Y0lVSHVWSkdka0k3VDNkUlFTS2ZaTC1qX01zTDItXzM5YnBBSEl0MjE0NkN0bExaNTlQYUNMcjkxYk51VFQ4dl9sdDk1MEFsQWttaXgydzUwVU50cE8yTEpCd05mTVZPV2dRMUhqU0h4SjdCMA?oc=5"
+    },
+    {
+     "source": "YugaTech",
+     "title": "President Marcos signs executive order setting direction for AI governance in PH",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMUVHTFlwVnBMX3QwVTBPR2l6cW0xRVdUQl9SdWh4NFRQTlpuZmdoNHdhQ2l2TGF4WWhlSU1CMG0xRWFzdTBndnRONElLeXFvTGd4dHZrMk11SnB5NXVhWEpkQlh2N2plM2Z2ZjBHMUUyZEtZV1YwU1pmbmlGck9qNWpqM1Vab21YNVVsaHI0OXBDbVoyMEJ4NVhZUEVZcUQzTTVKRF9NanFLTmdRaUtoag?oc=5"
+    },
+    {
+     "source": "IOL",
+     "title": "Behind the Diwali glow, there are mental health struggles few talk about",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRW9RQ1dwUjFSemRiSGZsMUxsUXhvQW1uZDJoYWRhS2tBMTFBMFRjSDlWeDhLSkNLNW54MGg3cGVoSkI0ZjM5S2E2elVhaTdCSl9vOFE4ek1PZW8zSFdZUjloVERSM1BDU0ExOGlQcXJWMGR6RXk2M3RiRVpCRjVZclVXdGFIT0NxaHpGa2l2S1dnek5uUzRvS3A3Mm93ZVBaTFZodXlFNTdfcUdkYUNEN015VGtjRFQzWUpRQlB2aUQyQQ?oc=5"
+    },
+    {
+     "source": "Cape Argus",
+     "title": "Swellendam tower battery theft sees three men convicted after N2 police chase",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX2pSUWVJeFM4ZTc4VmRjN3V5aW94bUZYSWlrTVlOR1gtM3FQaFM4djNGQ05lVXd0dUxDdEI3Z3dHQ0ZqOXRPSUxJMWs1TUFmQUxRb010OXVkS1QwWUtxWlBlclVhR2NnX2pXd0tWbXRNa21MM1pUYUEtbm1TNC10SmhCU2M2Y2M5c1pVTkh5bEhIMjZXeDdsMDFpS0thaVhQTUwzeEoyeERvbDJpUVNpamFOaktjaUhlMWc?oc=5"
+    },
+    {
+     "source": "The NonProfit Times",
+     "title": "Moore, Bonterra Unveil AI-Driven Fundraising Tools",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUhCNnFoOWNDN3A5b0p2ZklxRTdOUmNkQ095VHNmV1dLYTJLRDhUa2FOYnRjRllHM0p6RURkanZ0SzRvbEJ6bUNRYk1mZzNmaGpRMkhZYUk1RFZNWUFFV3VmZGs4ZG15b0M4bkY5X3M0ZFNQZDYwbmgyWklTUTM3YjdMX2xxWGxUNzJ0U2JVRGFucHE1b1dIaw?oc=5"
+    },
+    {
+     "source": "India.com",
+     "title": "Numerology horoscope today, October 15, 2026: These 2 life path numbers will get extra lucky today",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbEtNZHRtbTF2TnNZWnV2YkRZMHIweFczRDg3NVhsMmhNcVVDcm9ENlV2Z012ZU5TUlNxY09ycHpqVDV3d1ZvUG53UXc4V1AwRGNLRExyY1RfamowcFFVczNwRWFrZEJEci1YYjN5SEJMMzZMZkk1azE5OHVyUnhPYTJGZEZGejI2U1VVaUlDT2l5Q0R5Nlc0S0RjRXR2Z2JKZWcyNjhHS1l1dmxLR3c0cDdaMUd2SFVNNXduc3hRc3dEamJfWGZDWWZ4b05nN1h0elNCZNIB2gFBVV95cUxOQ0lJSmVkeDZiZkZKUDd2VUttajV6ZENoNWlhbkR4clNKYnhCWnFaRzRXTkVvUjBMbmMtS21ZdTNROUxpUDhOUFprZHNjOEhzQ25iWXViTmdiX1g1SGxybVozdG9HcGhpQkRsX3hUcGJEeG5jY2w3ZHdiZG4xbG1GTEhaTDFHSWxlR2JqUWZYTTJGaTZxMld0Y3AyU2FBRjY3U3A5Nnp2cEhYcWtMaDV0R3ktT0V1aWZ4NThfQjVFN2RVdEFEdU5tODRULWlRR0pMUHYtekNvcjEwZw?oc=5"
+    },
+    {
+     "source": "India.com",
+     "title": "Horoscope today, November 15, 2026: 2 zodiac signs may get a chance to turn things around",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ1FRWndqbTM1VnhrckYxaEVMRjBNMnRxM2o0amZOSktJN1BOekRsVkc5Z2tHV2FhVkw3a0ZkZjlIeXBEekktVVZLbm8wLUR0QlBxWXpVNUJsSWF6aVBoSWMzci1iZW40aDNrVk9FMlBEUjJMLWtaaUNUVE4zX1hWbjVhUzFOWWhtenJGZXdxdWhfZ2ppV08ycmh4OXVvNk91OTU2RmxSc0JrNFpSOEJzc0tDZ1BYUlVTWk84UUNYSkJLel84R2fSAcsBQVVfeXFMTzFPUGNOQ0NrTXQxaXVKN05RNk5ObGM3bTJwNkFCS0U1Ql9uUUo5NzFEZlFIWlR6b3FYUEtZUmhkNEFubGhJWVNXVlNKSHNlUnR6Sms4VUx3Vm93QTRndXJ3UVF2TVc4V0ZhZG9FQjBNdktKbEV1S2JPRUlIUFpXS1dLVm5IUlpvV0wwZWJ4bVFCeUxkZUVlMTFhTmxBbXpvN0ZhMEJjMnNHVDc3ODNrbWZNUll2M2s4aDVqM1dlTVU2MFZ5V0w4MVJJa00?oc=5"
+    },
+    {
+     "source": "Hoodline",
+     "title": "Blind New Orleans Veteran Uses AI Glasses To Find His Way To D.C. Pizza Dinner",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORERZRk1jd3pUY09qMUVQWFExckc4UVh6d25aYTU1NmplUEZuY2Fxb09OZTctRFdOS0IwRmhJMDBZeWRvbE9RTy1qdjU2TWZmQnpfZk9aeFlDT1FIbW1KZ3FCSmdIc0taa1pxNUJSLUcwMVRlTTBCNjcxSU1UQWk2OExlWFA4ZzZidWExNWo5RV9pZmdlOGdudFVSQ1U4MnB2QUh6NDlaczdLZU0?oc=5"
+    },
+    {
+     "source": "The Neuron",
+     "title": "😺 Oakland workers bargained for AI protections",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYmt1NkFRRnljYy1sd3FVMndZdHNzVlktSVFlZjhiVHcweWFFekZTUGVvVzNCVFVLWHF5bFF1MFhoMVZteGpiU1MzWUNTaC1BT3VRaUhaQklMdnRYa2hxNGJzZXUxQ1dENnBVRFhDUzBsdDNadlIwVUVtRWhacEI2aWE3aw?oc=5"
+    },
+    {
+     "source": "Sports Business Journal",
+     "title": "Bill Simmons ends ChatGPT deal after fan backlash",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOG5fQ2xWOU8yNDRlRUlOSVV5NzBIb3l1d3d5dXJYNnNNS2J2eFpyQVRCZXY0c0lmcDNhWkVQSGd2YjdPNVJ2ZU5sYkN4ckJGck5pbHpTVkNhdHItR2lhR05NVU9xVXltWnBpT2lXRFAtSlJ5MjJiVkFFelp5YVprV1VOU3ZUZ00xdzBRcXRQQ0lRc1AyYm03cDRSU2J0Qzh1VldKRVg2b2dDeWk1?oc=5"
+    },
+    {
+     "source": "The Independent",
+     "title": "Downing Street defends Burnham over ChatGPT speech saga",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeEc3UDE4Y2hzd0YwUWhxaTFUNEJWSXBna2xQajZwRElhcGVlYUhCVHhUcTBkMThKQWdqZUxDR0dnOXlIN1VXOXRBaHhGanBhNHJ2em0ybUVjNTNnOUVWQWZ2RjNSOVYzMVNDWU5mY3ZnNk9zVGNzYlc1ZDZzczhWZTktY05wZFA4VURoUVNUdVA3S0pOb0ppZjZkY3hOX3c?oc=5"
+    },
+    {
+     "source": "JournalArta",
+     "title": "Downing Street Says Burnham Writes Most of His Own Speeches After ChatGPT Photo",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDRHUExMdlFBUUdMMDlLOC1fWU1KTmVDRTdTeTdvUUdLS0ZZWEJicVEzTTd1WHhhMmFOaE4yLTBrQUdyQjBuZl84VVZ1Rks3LUczVTlWZUVVaDZaRWQzTW1oUU1meFcwOHBYTkV6RXIzbTU0WXlKb2I4NlprMV9BV2ZMZXN5eVktdTVsTVFKby1YYlNCUXFQcg?oc=5"
+    },
+    {
+     "source": "AOL.com",
+     "title": "I Asked ChatGPT: Should I Pay Down My Mortgage or Invest the Difference?",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbGxYbmhIWFFjOE9OUUlIMEV2MkVsR21CNmliWFpLc0VTb1dKTzJvWEFvQUFtWUpyNml0N1JiYTNYQzFLQXZEdXplZXBuaEhfaUo2Vk9LXzBaWWo5ajZCODJuQzd4UE9EVU5JM0REYVh5WkJqdlJId2NEd1M4T1BNdA?oc=5"
+    },
+    {
+     "source": "Vanity Fair",
+     "title": "Sam Altman Is “Still Unknowable” to Andrew Garfield, Even After Playing the OpenAI Co-Founder in Artificial",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTG0tbTVha1ZpTFp4cHJVb3FfN0hmdERXbFB0U3Q3TENqbnVSSG8xUVhhU2F1M1FuTDhWcWU3VzMyQXF0T09Wbmc4d0YwV0hxaXdSckNRWWJUS19WSEhUaDREQnJ0NkN3Q2ExQV9uTkh3enRYU2dQZi1OaWY3VTd4LVFuV25BZU4xX25iQWNXblBaQ3pZ?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "title": "I Asked ChatGPT How I Can Dodge Tariffs and Save My Holiday Budget",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQmdNTEVnSkVwSkl2a3RMNFpHMEJOUDNTTURBU1paUEJiTWZEd2Z3Y2x1UjZUZ3NncFZJN3hndzRsZmdxNXNjaVR5VWg1eUxlV1dUczN2R3JYZXlwRkZPV1VGc01oUVVYbWhXbHhJOE9DY0FxMlpzamRDNVg0NUVyTERnaWs1V1AwT0xwS2IxWW5UdUEtcjNFMjI1MzN6Zw?oc=5"
+    },
+    {
+     "source": "Gazeta Express",
+     "title": "Prime Minister's aide caught using ChatGPT to write his speech, controversy erupts in Britain",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdUF2NmVwVDZJQ1IzMl9KY0RTZmtCNTRGQWdpa25wUXE0bDFpN2cyd3FndmhSekg1SUZPcGFacWRVT2xUSlZVR0ZCNTlVdm1WcTR3TlV0OUJEdEVaQ1VRaWNhRG5oN2g1YXdRMHZHTlV6dTN6NGRYT0VOREJVT1FRczg0cllyX2dGLU5FS2xaNXNEenVXMl9zTExfVFE4aU93UEl0b3BkTWU1U2JCbS1rb2N4X2hGQU1jeDFZd21zWWl0WnM?oc=5"
+    },
+    {
+     "source": "Complex",
+     "title": "Elon Musk Clowns Sam Altman Over RAM Comments: ‘The People Deserve Their RAM Too!’",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMjVMcHRWejVHV0pGT2dpenJCMjRUN21QMHRJRHpBbVVPVG9NUmY2NmlWWEdESF9FbkFuVmpHeXkxMG1CanBXMW95VUJIaDU4N1g2SHBCdDlFemtvX0NoUl9zcGF2aWRsT3Yyb0tHRTE2SHNkUF9lcW5UNVF2MTFtSy1CdVRCSWc?oc=5"
+    },
+    {
+     "source": "Fox News",
+     "title": "Fake AI event invites target Microsoft and Google logins",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTG1IS0FLZEJISm5IdDB5SHZDaWdrNjBhRkhHMUVyMGJZbExnZWhoRUltc19aWGJIU3VXb19JeWlSWndmQW9haDBRMXZwazUwWjFuYU9jNUJMdkNyRHp6NWJWaVpmRy1jc2s2R2RBQlNSeUFFVDBTUTRiWFNNQlUyMmVyeUcyM3Zk0gGOAUFVX3lxTFBVUzNEcmtkSUI0czVna2YwVEJJbERvTTNfVEVNZllpamxoUi1xYlpQYTdOcDZkRjZhRGVjNDN2U3JxQVhhTGhQZE9PcEZsOGk0b2N6Vk1aeXFXWVlXbnJNWHE1TzRBUnZkVEd1b0Q4TkJQRGxQVWRleGdRV0dvM01yRHVFcjBPV2V5LUd5enc?oc=5"
+    },
+    {
+     "source": "Yahoo News UK",
+     "title": "Andy Burnham aide seen using ChatGPT for Welsh Labour conference speech",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvVGlHSHhDSUQzdzJqaEdMMGREUGFCXzJwblFybW01OEoyWU9zMm5nWFBtaUJaUU5KLWlBRExWQVNaTFNGVnVSY3A2bjBybElpRktRX0wtU3RzczlXSGlPcTVkOUpuVFNnOGxNYVl5TFAzeXFOdGhIcQ?oc=5"
+    },
+    {
+     "source": "Metro.co.uk",
+     "title": "PM's aide 'asked ChatGPT for help with cost-of-living speech' on train",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcDlHV1plOHQ5bWpTcms2TGFLS0lUeC1kT3JiV1FvN2hOcE1qS3poNlFTdG9FVDAxZkltaVhQdVM4UWNGMkM5ODlLdjl0eXN6SVZ5RE1mUkt0QVZfcGJ2TmdWZFVKblY3WnlHLUV3Q2lBWXE0cmJSclgtUTFwV1BUWTBRbDZVdThteWZWSk5NTll0THYzWklvWmZDVVHSAaIBQVVfeXFMTS1ZdGVaLVdGbGRONnJ4N1ZIUkpSS0ZuZW5sZVoyaWNuTGhqZU1Ec1FBVUx0WGFoQ2diNkMtMFp0QlBXbTdVTzFrNnoyY011b0p6aWJZUTdGQmhOVVJjTlhTaEk4MXNFbXVyS0RIcERucTVyeDY0THV5YjNUTkV2YUFucHVydDBabmRkYWNWeUxLajBjVlN5am1qMVJTOEpXVl9n?oc=5"
+    },
+    {
+     "source": "The Independent",
+     "title": "Burnham writes ‘most of his own speeches’ as aide seen using ChatGPT",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUFliSHRVbkUzeDZraER0cmZDQU9ZZ3l2S1ZNNWhGYU1iUHN2VDFoaDlJOWctYUJPYklHUEFWNERxbWFGOXB1UkVtWF9ONVZnc3M2cGpXZ2NtWU5tWTJFdEFhbDlmUXdkSjF6SkJrME5Xc3RXTFZYUUFveGFJT3M1UXpqYjlja2Ywa1Q2NkE1d1g0dUdPOHVxUGxweWc?oc=5"
+    },
+    {
+     "source": "North Wales Live",
+     "title": "Andy Burnham writes 'most of his own speeches' No 10 says after aide's spotted using ChatGPT",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONGFVYnBNNUJ1Z3lKc0FVd0FlWDY4VmRpSTh3eGU2T1ZQY24zQms5MldnYzVONlhmMUVkRnJGbnpmUjdqbDdpWDFIeklUWkVfVi1MRnhjVjB0M2o5X1FmcGRJRDJsVFZVT3pNNEllSHB1ZVNYekhlbW1Qc1BCdF9GX2ZyQ1libWFCM3BJekQyYVUyVld1SU5Z?oc=5"
+    },
+    {
+     "source": "LBC",
+     "title": "No 10 insists PM writes 'most of his own speeches' after aide spotted using ChatGPT",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeW5na0F3QXBVWm5STENQWFpUSUw5NlB4V3BkcU9zTk5LVXpuWnFMQ0E3YlR5akJoeXcxSHZ6d1NHZHFEb2E2MzZ3RTBHMFRoSjZYalJJeWFLOFBrRUJCbjZNODV4dFJ5Njgtd195M1JjV0pReTN3bzhyWXFqeXI1bDNqVW91WDl0ckpSNVZn?oc=5"
+    },
+    {
+     "source": "The Straits Times",
+     "title": "PM’s speeches are mostly all his own work, says UK government, after aide AI photos",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMGZOWmtJd0RyZ0p3M1lLZUtWdVlWR2E1em93eVFlUWYtSVJWU2h4QWU4eDY2SlE1a05lbGFNb1BfT1hjcGJjZnRyOTNEVUFSR1QzanZOX2Z2RG1IZmZEc0JnSnlrVXdEQ004Z3A3MU5FZUpLZDVoV1kzOEJ0ZXptS3BZclR5U2ZTelpuckwwbGZGNGZQUk5reDJXbXNvRVZHclY5dGl0RzdkdmdvOEZGdFZXcFlzNnZjRXIyY2pzYw?oc=5"
+    },
+    {
+     "source": "Livemint",
+     "title": "How ChatGPT helped trace Maharashtra woman missing for 2.5 years, reunite her with family",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZHI4TDVXX3BuWFlGN0RtR0JBckFPb2JNTnpkdFVVMlh6VFVVdWdDZTZxTUFhd1ZzQnB4bUlFQnBya3JONnVrT3dQd19NOGVBaDJhNC04WWw1SmxId3NNSTN2REJ1NmlMUXV2emlia3dtQVljTUhNT3ZWaUcyRVVtWEtzVmoyUUpiQnpEZl9IN0FFZjVhT3ZuMF8xRlhKUWJ6UFdob0dOMFRRZ1pfRDJmY1FONEM0V2F5ZlY2N1pqRDF6V2xPUXdVTDNhWUliNGdJLVHSAdcBQVVfeXFMTnh4ZWwxZlBBRmNfYWNicWtSOXMxTFBmV2FmXzZjaVRKczFBY2pQNTBNNjJzNFZXVzFudlFKa0R0RTFiWl9uWnJ3Qlp1YXVOekE0Wl9GdW01MkpEemNyRUZaaE9yN0NHY3ViN3dFODhFektUUlp0aFZSQTNrLXJIY3c0QTFNMkZ4TmpNZkY2ZEpaVkNyMXlVaUxOV05lc1pnc1ZVTlktYjM3N3Zqa3MtZGtodWNiNHlLbUxEa0hpNm5STHdnYnVzM242UGlGcHE0V2I5dFo0Szg?oc=5"
+    },
+    {
+     "source": "The Independent",
+     "title": "No 10 says PM writes ‘most of his own speeches’ after aide seen using ChatGPT",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSW5XaWR1bUoyWHdfOTdmcE8wcFFqT3NUcTlQRi1WQXlHcTJWbjVrWXhTQ2hzMWJVOWNmSmgwU3ZHU1FQYkRlVUlFNHBUeXpRVEV2LVFCQ3NSc3pQME9YblJWTFdMeXRsWGU4Z0FvLVV2UlY4Y1VqVUp4b3VqT25OU0NvRXBrVmV5dW5xRHFhdW01QUdpMXdoS054NExBVGdUR20tXzYyN3V1Z1R5MzRqb0o0R3k?oc=5"
+    },
+    {
+     "source": "Britannica",
+     "title": "NVIDIA Corporation | History, GPUs, & Artificial Intelligence",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMGstclM1R3lESkhtUUVPTDBHZktQWWMzcTFXa3VIR2FOcTJLcy1wQnlLMHo5MDRXeS10UTJudHRxNmpFX2hyWUZzX1ZTaVpBTng3VXBGT3ZGa0FrTXhHMg?oc=5"
+    },
+    {
+     "source": "The Atlantic",
+     "title": "ChatGPT Analyzed 32,245 of My Text Messages",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRk9ZWUhlN0pnR3Q4VV9UVU5ZLVlQUmhIWjkxN2p2NzBDSG1PUFgyVUZNalcySi11SEdacl9PRGxwQ04zSmRaUlBZOWd6eVgtZ0wwV282VGVoTFc1YmNmVTNhajFQckYwdlktSEhzbFlOV2FpaW05ZU9pdThXeHpSZGRnT3ZkRHVjSlVmellJSQ?oc=5"
+    },
+    {
+     "source": "Dagens.com",
+     "title": "Andy Burnham aide caught using ChatGPT to write speech on train",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWVZBcXBOdWUtSTdIS04xcUhURUJ5SzJOeGR5VmVFcGhhc3NOdlZrdEoxN1hodHhzLXlTaFc3S1BpMHd5LXpDY2tuUWtDSWQzTHVVVzVrRHZxN3BxS2l6ak1pUjl1N1BKRUV2OEdYeFNCRE5renhoeE5lV0gwV2ZwdFpiS1g4VVBGZ2l0cTE2NW0xRWk1ZVE?oc=5"
+    },
+    {
+     "source": "재경일보",
+     "title": "Adding \"The Hyundai Hi\" to ChatGPT Provides Shopping and Store Information at a Glance : Business/Industry : JKN",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xbjNOVUZ1eURfUm42aHVqN25qWnNmeXl3bmpvMl9Rd05EUzdKdE9xWmdTMTVoTDRCbm83LUFuQVhRRzFYblFMRDdZNkFXajlIM1ZnZ25qYU9HNnRqZGlQZ2JB?oc=5"
+    },
+    {
+     "source": "The Telegraph",
+     "title": "No10 insists Burnham writes ‘most of his speeches’ after aide caught using ChatGPT",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ3huTS02VktmWlJRMjlpLVRZNU8yZ0VoREY4QW5DdUROU1REU3IzSUg2c3JYeU96T0NmUWg1TjgySUVsVzZ2WXNaeGt1NDF0MHM5MXd4RWdXVFhYbWR0RWpwaEwtcnU3bEFyYkhJSkpwdTM3Umo0VkY4Rms0N0VoZHNIMS1oN2JkTEU2ZVFEcDdzOW5kelJDYkNQUm8xaVJkc0FzMC1HTnc?oc=5"
+    },
+    {
+     "source": "Business Insider",
+     "title": "Jensen Huang joins tech's ousted founders club. These 11 execs were cast out of the companies they built.",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOckZ1X0JLc05EbW9FWHEydVF0d2JfX3JxeG5TX09Odm9zZ084NWdScUwxdmFCVlFTYlhzUUhwZUdQSEVlaTdYRTJqV2hyVjB1cjJXLWMybS1NRXZkRF9IRXlUbGl4WFZVREdtMUc0M203eWxBalpBTVhhQnJraGt0LUlBZTczQlpOcDNRYy10ZDVmRl81allnZw?oc=5"
+    },
+    {
+     "source": "AFR",
+     "title": "Banks on notice as Australians consult AI to help choose their lender",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeHQzbUZxR2F3eFE4TmZKWUcwdE5pUGJUMG9MSUZ4UmhmcGRoT2pQVFlXRmNWS3RZcUdTT0Z3aXI4UUdQbDd2dGFXRnVHMkxMXy1kR3dpUlJua0RJWVJaLUVLU1o2ZExCNGd0Vnd4TWpPQnJ2blZta3lGN1lJM2ZrMlR6cHM4dmtJenZ0NFV4NW80bDVuX3piNTVlT2tkTU1yamZwNElxMHNjVldyYVByZENObFFsZzN0WUEyYS13eTVYVFk2LTdkbkI4V0VpN28?oc=5"
+    },
+    {
+     "source": "SitePoint",
+     "title": "How Much Latency Does a Self-Hosted LLM Gateway Add? Langfuse vs LiteLLM vs AcruxCore",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSHB5OU45V1VYOE83R1kyMFh4NW1nbHF6dHhySUthaUIwTTJSa2d0R0RuRmxYWmJ1ZzdfY2ZpSDRUZG5QT2pmbzhpTG5lczAwbVVBWFVWLUNOV2xCSDhfVE55N21RMkl1dWdWcjdkRlRsV2RHT2k5VlB1bmkwOUlEa2pCWUtnNUtBZTJuOTA4cHVpVFFiQlVtcW04LU5RZ2N4ekVfbDlpeTFlZUJFU00wMg?oc=5"
+    },
+    {
+     "source": "NDTV Sports",
+     "title": "\"God D*mmit ChatGPT\"- Bilal Hasan Takes A Hilarious Dig at ChatGPT After First Career Defeat at UFC 334 Against Luis Gurule",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPR0tFYmh5RGZWeFBFR3E2cWR1R0hCa19BcXhnM3hxbVJmMFUtVjJVV2Y0X0RzWlVDak16Z29jSUM5MjFzMXFJTFZjREk5SVNGQ2wzNEVhWVd5OHh3bEdiNXljWFZrN2VhY2FVdllvM2lWOFlIcnR2dFRRTmxfQzBjU1YzcE9NcDgxdDNGU3dOc09xRnBqd1JNYm5JeE1mMDlsZ2d5TEE3dXRVYUVUbzkxclpqRVMzZjlYbEtMaS1yTVlHa0k3NENHdGY1RmlXR0d0QUMwVWdOaHlKQ1ZRai1wc2t2WlA5VXl4Y2hqM2ZNZS1RUQ?oc=5"
+    },
+    {
+     "source": "Seoul Economic Daily",
+     "title": "Hyundai Department Store Links Curated Mall to ChatGPT",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUVRicGNHQ2RqNWxxZVVXaTJGQWFJYkpKTG9kNThVRWU3bGZzY1BTWmlGWlFVUml4eUQ5RGRDczROaG9MOVRCRUJxT1lKdjlDSzRhM0duSkpISVRhV2prUWxQX3FmY2cwM1lQRUxYcXpRYVRnN3NzQ0RHWHNBWjcxYVhqb0sycTJFS3h6eWhlM3ZQSDBUOElkbWNKOTd4Zw?oc=5"
+    },
+    {
+     "source": "Parriva",
+     "title": "Couples Are Asking ChatGPT Who’s Right in Their Arguments",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fdlI2VU9raDE3UU9NRm9ZSHlORklSVGdFVS1abXFwTFBHNFRKSnV5M28ydlcxbkthRktfOGkwb3h6dEtVNm0tdE5CREZwbnYtVVBkckRqSjNfalBaalkxbmlvQUp0aVF0X2ZPWWxlSEE?oc=5"
+    },
+    {
+     "source": "The National Law Review",
+     "title": "Digitad Launches ChatGPT Ads Services, Unlocking New Advertising Opportunities for Canadian Businesses",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQjY4WnduVUNTb3puaHk4a1RKU0F0TllHemtqTnptdnI4NUFTam8xLUZEMGV5TVZGeVJVdVkzOTFBdFdZLXlpNDJrbzJOamlBR2FKcm8yY0tYVnlPSFlEa2htM2FSeUFZUUhNMVZxeWRrLTJLbEJqRGlzTjNRbmRaYUJXa3hSZVA2a2JmVlZENDVlVUNZWjl2UFRySzl3NE40dUxpRmRR?oc=5"
+    },
+    {
+     "source": "Yahoo Sports",
+     "title": "UFC 334: Luis Gurule celebrates upset win over Bilal Hasan with AI callout: 'ChatGPT don't know s***'",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVFU0RTZYb3JEMzQxMGpJYUdyNDNzMWlKendFY19QVXI0MDRnVWUyQU5EcHo5dk96UFkycF8tZFVhbnJBT0VoNTNkNzUzV3l2UVc2SXlCemIzT2lkN1BRNklDZ2JuRWZDNDh6U3pjT3VQVVAtd1RZSFJVeGhEeEw1SVk1eThlUW95RmNNNHFWVjRzRVNYbm5yUk1jZ0J3MUVCcDktUjdIZWxuQ2UzS184STRQWlplWFJheHcyU2J3UlZBUDZGOXpxZ3hZSTZyTnh4TGJ5UUE4dzlRM0R0OGc?oc=5"
+    },
+    {
+     "source": "파이낸셜뉴스",
+     "title": "\"Shopping at a Department Store With ChatGPT\"...Hyundai Department Store Steps Up AI Shopping",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ublROSnNzaFp1cHVMbXlNVWd1WUZqUGE1VGMzZUhQQWVodVZPS0JUalRyTGVTY2pKVFhHRWNFN2lxWjZ6Rk0zdlFzQnFhS2UweE9GdkpCclY?oc=5"
+    },
+    {
+     "source": "The Times of India",
+     "title": "UK PM Burnham's speechwriter caught using ChatGPT to draft speech",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZXY5T0t6Q0JyM0dySGliYzV3WU5pZDBuX3RRNkpfdk9IZnZ2d1ZhTzQ2d1lJejRtU2hLUkctaGJSM2RfU3ZWckhtSjQwV3JYZnFWVmFXdDFzbTlSWnMwVDhlOUpEN0ItX1NqV0FCWFRVSkVxX1YtdFVWZ3dVQXMwSllTVG5BZTZvYjhWejhLeDN3TUkxMUhyOHR0a3RseE5sRmZIUkRaTHkxQ2FsazNkclNONDNpS2pKQmtjSzRyaVJKR3hIdjVoRGV0OEpaVml40gHWAUFVX3lxTE1NaVluYzdlZ0I0eXhzdURJR1JsQVdwMzROZDUyb2F4Y2U3ampzVHNuNC1PUUE2UEZYUkcwUTE3cWNZcVoyNGZPcGpJU1BZNmp5TVkzcUctTVIxbWVndUJZRFI2anNHV1NTOURrOUlaLWVMeEFES2o3M3cwRFg1Sk9wSXg1MFNqVjduU01sdVpNa0JhY2gwX1R0cTB1aWpLSmVOSE0zTnFOdVRBc19SeU5WcldIMlE5V3ZFUWtiNHJvU0RDZFA4MTBadU93QkVvdHpoY0lXTWc?oc=5"
+    },
+    {
+     "source": "Indovizka.com",
+     "title": "CALL-E Lets AI Agents in ChatGPT, Muse and OpenClaw Make Real Phone Calls on Their Users' Behalf",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZlh3UHV4YlN2d3J0VHYyTXYzbmNTVkVTRjQ2V19IVUVXVXhWV3hQRHZJM3JreThobmcxd0ZFT3lHbHUxVzNveGdGOTR2ajVyaDl1ZjdiQXJQazlmSDFtclE1bGpzcFYxQ3hsMEFrSXY2aF83LXdXam1LbDR2bmZKaTRQVXV6RVlRRUVTdGdlVjAybS1zTGJTWUpkWko2bDF3MW1FaFRwWk5RYzF0LTFNS3pheDdVOXBLM0hHNzVLZW9HZm1VT2tlOVdEd255UQ?oc=5"
+    },
+    {
+     "source": "Chosunbiz",
+     "title": "Hyundai Department Store extends AI shopping to ChatGPT with new plugin",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MUHJDQjZ4ZFB2YnBaLVJpVUFPRE5jbFRjb1p5blI4ellhSVVta3Y1SzlSb08yekRuck5FbER0OWNlX2lrRGllc3huRG9GVVFaSV9MTUdjeTVRWjhDVDZXQkd1Q3lEYmRtVFp1Zk9uWWRpczlHcXRJR0k4Yk13SknSAZMBQVVfeXFMT29rT2tTNi14bEtkR01VZTcwU2ZGQTctb2hpVUhQZkxBN0E4a2ZYQkpwalpEeEwyTkhhdU5XcGlXOU9BaEh6dWRfRWFxY0FGc1N5MjhPNzd3akJNQmhENEluQ1NLTnhuSTJ1ODNiRFVuSXB1SDJMSEZZdlFmSThTUEVDSnFvSGJTNm1hbGRRUFFrck9J?oc=5"
+    },
+    {
+     "source": "MoneyLion",
+     "title": "Does Part-Time Work Help Your Retirement? ChatGPT Explains",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNODU3LUdxcTJaY192Q09qdXM5cl93ZHQxOWUxdkVyNXBSa1JCTDdTcEdFX1E5aVRlSmpibDlLUXh2aTdobUE1ZE8xTmpKOUFOal81ajlRS3daZFpZbGwyU1Biang5RFgzODFxMWRxeGhvRmFNN2JkWVR4UDJNMl9jcllvSHZZNXBoaEhSMTJDQUNJckdCSUUxcU9BUlc?oc=5"
+    },
+    {
+     "source": "Pasquale Pillitteri",
+     "title": "Epoch AI reveals Huawei's Horinger data center has 7% of Colossus 2's compute",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLXpGR2JOMVVrYWlNakk2NWhGLW12bVhwSmhZa0VwdmNhRHYyMFhGdUdsVldVVldzOUJYdFRtVWU5ZDVEaDJwV2RnNXRvOVA1b2xSMC1oZ0k1ZlByVkJjS3pSaW1ZWlVVT3lqVDBQek12MVl5dkkwX1pBUUhnSkNzdjlWWmIzUmh3bnZCa3lOX1FhT3k2b3EwUlFR?oc=5"
+    },
+    {
+     "source": "UNILAD",
+     "title": "Elon Musk's Grok AI gives chilling answer when asked about the 'scariest thing in the universe'",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNWpWUVI4OHZudENySE5fSmpMTGNTVTM4YkZXa1BBblVZbE1rSUZ4aEVwWGZDbklnVzhoZXVBYjV0cTZMcGlBNkhMYzNVeHIzdXMwWEd1NHA4a09xQUFjdG04VGNKYVZ5RFB2SHpIbk9MMEpEcXNKN3ZWOWFXMUhZTzh4SVZaNC1BMXgzX0hDWEg3Z2J6QXVaU2ZOd2VNSTNsSmRXMmE1VQ?oc=5"
+    },
+    {
+     "source": "OpenTools",
+     "title": "Elon Musk Backs 115K-Strong Petition to Reinstate Jensen Huang as Nvidia CEO",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaTd3WWk4SGo0clY5V3FobVF4bXZSQXVEdTVqWThqNGpxVXRnYThieFo5TXU4Qzg2cTlNaDV2VWhnb2xVa095MVJFaGxza1hMT1N3Ty04d25oRnZtb2FBeDVoaEJfbm52YjNRQmNBSUY3UzRzaDh0MW1jcFZSMXU2RGtWSkQwVWgyczRV?oc=5"
+    },
+    {
+     "source": "Vietnam.vn",
+     "title": "Elon Musk warns Nvidia.",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IVzVrQW9KLXpqQWZvcnd0LTdYV0V3YjczckpMTFpMZG5fMXR4S1EtY1BpY3pvcUhxY2N5RlFFeEl6SGpONGhpSkwxZDM5OTE3RUxfcTNka04yRW1yQk9hUw?oc=5"
+    },
+    {
+     "source": "헤럴드경제",
+     "title": "Petition to reinstate Jensen Huang surpasses 100,000 signatures - Elon Musk among signatories",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aVFJ4dU9MS0cycGNZYVY4Tm1NY2hvZTk5WmdINGo4SXpmQ3doY1IwZGVaSXpleWx4NVlENnhxQ2VLdUw4VzRxeFlBWTNsYk5IamtsLTNn?oc=5"
+    },
+    {
+     "source": "TechCrunch",
+     "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXp2MmF6T0R2alBCWHR4SXRzWFVvN2lXRVlRaHRvdzBhbFlsenRnU0JBQmFJeWVVLVVVZzFESlJaMzdSZFpjN184R3Vpc1M1SmRkSFpkZ2htM0JaSXlBZ3U1Tnd3Z24wemRCRUVQa3ZtdUczRVp6VUg5RzRKSFc1d0tQZV8xc0ZTb1lSbld5WE9mVWVfTHFPYXhVRVJid0UycjVnZnczOHhIV194OXl0UzhWc2xQNzJ6eU9J?oc=5"
+    },
+    {
+     "source": "Cryptonews.net",
+     "title": "Binance's CZ Debunks False Elon Musk Banter With AI",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QMVZjeGJEY3o4NXZkTUxMdTFkRXJKMW83aEVXVkJ5WTRodEx5QzlveDNtbTVpZkpuX1pLQldsT3JlU3U3WDYzWmc3eEVNdjJpVERZZVV6bw?oc=5"
+    },
+    {
+     "source": "Wccftech",
+     "title": "Elon Musk Praises Jensen Huang’s Reliability On Compute Deliveries, “Without Jensen, At Least Some Of Those Critical Deals Will Be Lost”",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa09WbHIyMUY5RFpuN2lnLVJZRVJ5dXJhVUV1MTdRd3M5aWVuWXJhbHplcHA4SVpPdFlaV1lQYjBMV19JN3ZFVjJ3NDg5alhFTlFRd3dJMzVsUlRzZkN0amlQc2h2eFkxaG83ODNpY1JZNFM4SHFxTnZuakVmOFh1WGhZdXlSNXVNMGNMRDhvelpTUVh4Q0Ew0gGcAUFVX3lxTE85eFZqVzdVR0ZFYU1ic3NBNnZud2FxajlpZlVPVDF1eHBVdExmRVpGNEk0RS1LSDRiRXh4RmdldU94Q00tME5kamhha0J2LWI5b3h0Y2tvWjQ3ak9sRTBQeXhRd0p4bTR0QTA5dUlOZnhqVm1Pc2pGSXl4Qm9JMmJRUXRQeWlXODBUV0QxUEM2dGJ2c0ZMWlpLTG9EWg?oc=5"
+    }
+   ]
+  },
+  {
+   "reason": "Stock and valuation chatter",
+   "explanation": "Most of today's Anthropic coverage was about the IPO's order book, its effect on Nvidia, crypto and other stocks, and investors' paper gains, with no new fact beyond the November 19 listing reported yesterday. The same goes for share-price pieces on Meta, OpenAI and SpaceX.",
+   "items": [
+    {
+     "source": "Tbreak UAE",
+     "title": "Sound Ventures’ Anthropic stake could be worth $7bn at IPO target",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYU1JsLUhNUzZMWnE1QUNsNkVUVkNtMDRpV1pla1pmVTRLZll4U0NEWml6Q0pqXzc2SndKNzJwdHNlQjJYX1NYcnN2NnFhYVlVSTFraFQxRzVyUFZLVmowclEydW0tcGNyQmhQeQ?oc=5"
+    },
+    {
+     "source": "Barchart.com",
+     "title": "Nvidia Fallout, Anthropic IPO and Other Can't Miss Items this Week",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZTNJSm9XdEFJOXBVbGpGQ1F4RENGQ2hReThXRDVWbXo0MmQwSWFNanQ5U2o2ajRrM2FXcl9LZEhGMHQzWkR1MllnV1haVnk0amhZZUFsU2tCbzdDblU0b294NGhrMGlBQkJEcXdhazdCUy1hTmZMcVFTQWt4cW5tUU1Rdl9CNTgxM1A1WENDX1VscFUwQl9QRHNqRmdNclNvV2J6RElPWlF4MkxTMkE?oc=5"
+    },
+    {
+     "source": "CoinGape",
+     "title": "Binance Founder CZ Points to Anthropic IPO as One Possible Reason for Crypto Crash",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnA5NzA5R21YajlIbHZralVwNEVQLWx4R1VTVlBFajhydUZJZGpPX2Y5TEl2SmtUdWRSdHM5RGFJZ0pBQThtS0s2ZlZYaktXalpXSS1lOFk5Q0ZTaWRkVHpvT2dPTmV5UEM5WUQ1cUR2MldXUlFHb1lHN0dEa2dSdWl3QzRIZ211RFVHSktoazVEY0JNLW5CSWhhNnFubjdBX3VULUtvcw?oc=5"
+    },
+    {
+     "source": "Moomoo",
+     "title": "[Picture]",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzcUhIVllMQzVwXzBoREhuenZaa0puMDRLeUI4aDZ0cUFVSWVVSmR4ejIwdzlxNldOSmp0MXBtSzYtUzMyUFZaWUtGSjhtbnFGV2tVMTV4ZHFJUi05VF9iUEd1bw?oc=5"
+    },
+    {
+     "source": "Moomoo",
+     "title": "Apple (AAPL) - A Lesson Learned and My Long-Term Accumulation Strategy",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdm5yVF9FeHkzNDJRSVJaSWlXR3FwenVhUy00REl5WXdZdS04QjJtZlRjV0JyNXdORGpOcW5GZXAxbXd5QWJCcWdCSTl1U1FGZDBXZk9kWWx4WnhCQnNQU3RUbmlvRTZjWVBJZUtHR28yS3dwVjFmLWxhLVRGNmphUUhTQldxVFZISmJzQmtOZWtqeTZTbHlGb3hDNjkxZGFKTnNRaUNuMjRseTRtMnlkeg?oc=5"
+    },
+    {
+     "source": "Traders Union",
+     "title": "Changpeng Zhao: Crypto price declines may be linked to Anthropic IPO and U.S. ETF outflows",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU3ZIU3JUcU4wSnFXanNma1J0OEpuZEVQby1OMWJUZ3FWZmhhLVhMeEdHekpTczJpZjVxRG02R0JkanhTNTRZVWN0bmtqTG5icHY1U05KWUhTSzhSQ3QwRXdmTDdNNklKUkRIMXlMLWhfSy0tdE9qM0hKNkoyOWItMXltQ0x2UjJFeHc?oc=5"
+    },
+    {
+     "source": "Investor's Business Daily",
+     "title": "Futures Indicated Lower, Bitcoin Dives. What To Do Now.",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQmoxeERFTVM2VG9DVVBnRERlZG4tcU0tOGFveC1mYlhEZEJydUZNM2ptaExRYU1LYXg3XzlUUHhtZ29JSF9OYlZtd0FSaF9mME9TYzhTWUVJT0lSSGVPSTMxZlhkTWhQMVp4MkRFVUdUZHRTNVd1bTdTckF2Q3VYdUxKY3kyaFpDaTZkQ1BVMHdrTUNQLUhnVVhPZzJIM3h6Tlg2THNnZU5NRDRvV3NFZUlta28wVXloNGhfNUFFTWdKR3Q3Vk05RnBhQXdWQkl3UTlGRC1RRGo2QU9rTmc?oc=5"
+    },
+    {
+     "source": "Traders Union",
+     "title": "Howard Lindzon: Price shifts can drive sentiment, with Nvidia and upcoming Anthropic IPO as examples",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYkx3TFB0UFZaN296VWJOd29FaEIwOWhkMmp4TGdRaUdGR1UtdjZxLUJpdmp6WjNSWlozLWdoTHFUcVFRZXpfZk1kbGk1V0FMX05GMWtfV3pHTEQ2ZDRWQ1BCODNJdjJnSmlhVmpKZDlrWmRfRWdqWkk2cHF2dGRCTWllRWdISTI3NVZLSEtYejJ4MnhS?oc=5"
+    },
+    {
+     "source": "Crypto Briefing",
+     "title": "Guy Oseary’s Sound Ventures reportedly holds a $7 billion stake in Anthropic",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44TFN4OUdGOWZWWlNZdXk3ZG5OOUNwNFJKN0JHbEc3cDF2RUtIOGRnTExRYU9kVWdBdzZNbHhTU1ZGMVFaOVhqZVlKWlFLNi1tYnJWemstMzRuaWJEUG9pdUI3R3paTEhXNGVhNzdYaFRENHJMV3pV?oc=5"
+    },
+    {
+     "source": "Bloomberg.com",
+     "title": "VC Firm Run by Madonna’s Manager Has $7 Billion Anthropic Stake",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdEJ1X2RvWFE1cjAwY3lxdndBWkVCQzQ1TU1YdFBXdVphRVBwN3BSdm9YRHlTWVNROUFXaUpYUWFXU2tRbUpSN2VseWYtc2p0Szh4QzBpNFFQWW0yV0t5VnlRTHJLZ183U3l1V2pvM19Wem54aWc2TW1pOE0yRmI4Y2Q4UVZvMXZ0ZGxZOWRGY0xqY2s0Zk9jT3lpaVhUQklZb3dfUjAzdnhGeC1FT0JDQWpkTQ?oc=5"
+    },
+    {
+     "source": "Moomoo",
+     "title": "Day 17 Check In",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQcU5WaDFNQTBocG44MVJmNUwtVXlCV25VX3NnY3lHWDNLa0Y3b2NjMExSeGVoTzFybzVWNXBuQ2lLS0RXVUxrcmd2LUVfb3J6VjNMNjZfN2ZyXzlIaWkxTnpXc1NKQW9PV3BrVGk2T1J1Ym9ialFSRg?oc=5"
+    },
+    {
+     "source": "조선일보",
+     "title": "Anthropic IPO Demand Outpaces SpaceX's Early Days",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaDYyQktTUmNrczlJSnBnX05vNFNMUWVFSk55a3dZQ2NBVjk0Nmx1UlpZQmN6cDU0MkhucHZVdUhSRDc3YjBrc3I4R3JrWktzam42Wmg5SHJ2VGhNUmhiaTVKSF81cFhpMlNrZ291eW9qVFVRRUxSNXF4TWpoQVBrLS1GbDVjaHBt?oc=5"
+    },
+    {
+     "source": "Barchart.com",
+     "title": "Capitalize on Anthropic’s Volatility With GraniteShares 2X Leveraged and Inverse ETFs",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd2I3OWw2YTQ1WjAxX2ZDR1MxMnhBZ2NmdG82Y0d5b0tIYUd2Nm8tb1ZpR3VVd29hRDlqWE5oMHVpRUZLQkhYQmZqNUprRENHTVJsMnNKQmJhSzJFVGh4b2J6c1poRFc1TE9nS2pYWXVNUGF0VzFYbm90QXVtTHVBWG1mZkFCY0d3aGZKNVZVOG9MbnZTZzY2aGFpUWNGNHBjQ2xRdXFZemt3cnUtSWxsSDFvXzdGLWgwS1VuOFN6cTljTm9kd2x3?oc=5"
+    },
+    {
+     "source": "Gulf Today",
+     "title": "Nvidia results and Anthropic IPO pose tests for tumultuous AI trade",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS0RqZ0huTW11cU5VZllFRGpYcmFnVGxyOTY4NGx1TGJtTXh4ejczenJ1Ti1TUnJNNkM3WGk3OXZiSy0xSC0tNkNsOF9wVDZ0TjJqdngzZXdVZ0MzWkRYa2ZUM09vdWx1dkxHQzZvdUlkYVJVZl9IQUVyZEZod2xtMGxoT3pIRjNvMzZwTkxmMG5QNWt4TE1tRkpoZTQ3UGpVVG5SQUp6SHNpNW9Ga0JKMHNR?oc=5"
+    },
+    {
+     "source": "Seeking Alpha",
+     "title": "Nvidia Earnings And Anthropic's IPO Could Trigger A Market Reckoning",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNndlLUNaaXpuNWpjS21LYVQ5akxCcGxuVmZIT29sZ0ZrYWY5elFpel9feUd4R3JZbVMtc1czOGhIeEY0ZUprVDVuaFJTZWl4MGVMV0NiS3ZrV2prN2NaZGtSOUIyVUVzRVluQXZER1hIZjlaQlZWQjNrajhRV3NrLVNLRlNsV2I2RmU1MHI0RDYzWUk5VWFoMGE0VEtwY09zSVBR?oc=5"
+    },
+    {
+     "source": "BigGo Finance",
+     "title": "Bitcoin Slides to Three-Month Low as Nvidia, Fed Minutes and Anthropic IPO Collide",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6em02OUIzaW9Ob0N6R2t2bVB5YnFmWnAzaTVJeGU4RGV1QXlMNUNyUmxreGhYdTJaOF9SMUZVajhKYlhDMVpkallCZFBFQWV5ZHBfZ05tV0Z6eXcwZkdNcTZacG1qYkYzVmk4bzc0b2ZzS1JMRVE?oc=5"
+    },
+    {
+     "source": "Moomoo",
+     "title": "[5 Pictures]",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NZUxiaWhMTk1JMklmSnBvOEtIRzhqYTZSRkZJWDR4bTlhbmJ0SE5SWjctbU52dkVrUUpXOE1CWVpBRTcwMUltdDdzUmMtdFRkZ2pjWDRhZTN3dUs2THdTRUx6WQ?oc=5"
+    },
+    {
+     "source": "Yahoo Finance UK",
+     "title": "This week on the stock market: the Anthropic IPO and Nvidia’s earnings",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWUVHbXhqTmZkX2RjWTI4amZVbUVDcWo5R2x1cTdtb3JGbWMyWFUwU2NVSW1KQ0VHWF9kUGZLQm9yVFBVTnMwaTRvalVqQ1pyQW9iTTYwRzlsNDdreUpsNEpFcmdPLTM5bHpHbEVHZzAxZ21jQTZIcW5hRkc1UUJTOTJzMnBPNzA?oc=5"
+    },
+    {
+     "source": "Oz Arab Media",
+     "title": "Anthropic IPO Tests Tech Industry’s AI Spending Bet",
+     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYWJnTkdXYjU5U3pTMEdwQjZxTmVJN3ZJOXZzX2tsWHNCX1k0RUxFVXVDcnp2VnUzbnZvZ3A1WG91bm1sQUN6dmltUU42a3hGYVFzLVlQUWhIZHVaN3dWb0JwSVhiNmRzUHE3UngxMURUNFdoZmdHSVRraFF6MFNwbWdqN2NGY011VXRGbnc0NkJDd2tDT0VWd1IzbjZ4cy1aSXUteUM4NmtDbC1IcmFPWnRHM0JqRGprTlp3bkgxT3JBWUdFNmdmd2llQUpxYUxxRGlDcXlEWjAxZENRN2x3OGJrVkxPV3YyNE5HV2M0d0N4cU5wdXN4VG1B?oc=5"
+    },
+    {
+     "source": "Crypto Briefing",
+     "title": "Anthropic targets $1.4T valuation in NASDAQ IPO, eyes AI market impact",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUUpLV3BFTjBfMXVUakFCUkpjS0lEeGdkanBsVXNmb1lUcWNCNGtLVFR1M21yeEJtM2hjNzRycTlSQUVoc2gyaFFKRS1FOHhpNndXcWlMQ3lNSlNLWnB2T2dKLTdweHNlT1gxTnZTc3BaOEFjMjU0Y0tEejdCSzJERHFSSjZDRUVTTlZHMVZzTkN0R09pQl9UWmhnVQ?oc=5"
+    },
+    {
+     "source": "Moomoo",
+     "title": "Will the Anthropic IPO Create a Disturbance in the Broader U.S. Equity Market, Like SpaceX Did?",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUG9aMHhSZzAwYjMzVkxHREJwal91bTZ2VUxrQmtINm9ITmRNNk95S2N1RzdaNGJuSEpTTUs4SjZlWWRVaVVYNVBOZ3g4N1AzUnQxUXFLelZBVzlfakZDTlNHM2VUcUZ2YlRSVndHUlg2WGNhbFVDaW9rMUZ2bThPQm12MVZKSndBeGhBXzlLWlBaTXJ3OVNTeTVyVkt1QzZzVWlCeQ?oc=5"
+    },
+    {
+     "source": "Yahoo Finance UK",
+     "title": "When it comes to Anthropic stock, should I take the Warren Buffett approach?",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVTJLUmxrVEVXMnFKTFU3VmhIV1pfdDlzb2hUcTV5OEs4RUdibU5RLVVjT3ZsODFmd3A3U3R1UmRFdGljSHFCU1k2OHBKazk3WGdnZ0R6OE9DeDN1MktzNDVSQWpOeFJnSHVqMkJqN01KbEV3VExvb2NRY2l2bW95aXNJcDNhVWpqMjBVemF3?oc=5"
+    },
+    {
+     "source": "MarketWatch",
+     "title": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZEhmQUdXRVh3Z3JUcGtnTXZGNVlZbnhWYUFwWlUxa19QelNaek1yM3UyV0g5WUxydGoyREFYdUlyYV9wRk96ZGdpd2FVaTNZNWQ2NElZR3hQVTAzcVFvSnVvOS1CLWpUYzUzRzNUU2JkUnZhS1otaVBieUR2TzV0UExqbENqMkxGTmlSd3h0WE1fUldkTHBLMjJoX1dOUWJISFhLcXg2cThDZlZUOWVlRnFMc3U2M1RzelJOMG5JeS1wMGYxWDV0QnNya2RSMkxW?oc=5"
+    },
+    {
+     "source": "TradingView",
+     "title": "Nvidia results, Anthropic IPO pose tests for tumultuous AI trade",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbkdVOHdCMVptQjg0U1NRWGRxaGNOVzZiWEMtR2IzZzZXeWxUdUpKeGRPMnJOMEdVSTFKdm1ZVDEtX3NpSmVKcnJYNDNQR3lpTnByS1pzeTJ1UFl2Z1k0TDlRaTh6U19xVElMTi1JT3d5OExJUWw1MGRFOFM3LXZLS0ZfcDY4ZUFvTU1OSVIxVFplaVRRSlFhOEJxU3BBeFI5SlV1QU1xVjV3T2NYRUlQYWtDbEh5Z0d6SVZ2aWdUZmRhcW82S3ZUcFFoWjRrUQ?oc=5"
+    },
+    {
+     "source": "Seeking Alpha",
+     "title": "Only Anthropic Can Save The AI Trade Now",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYmQ0bmtkbzg1OUl4N09xLWk2UEhQcjZUdEI2Ym1HczBQTHBtYXZocjA3Vml6bTRvZmQzUVNfUmdqVFk4SC1RNGFWRlFycURxSEFjT09BSjFvcmVLeDlycEFsU28xcGhISWNTMF96Q2c0R1FEY1RHS3hvUUxmc21jWjYwNUJRaXIz?oc=5"
+    },
+    {
+     "source": "BeInCrypto",
+     "title": "3 Key Events in the Coming Week That Could Move AI Stocks and Crypto",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yYlFyNHIwelRSRmZHalFfcmNBcWtnakxJVGNwQnlWdTlJVVhiZmdtV1ExbTRxZ1pKT19YdkVOWTU0dThQY0VUOVpXSnZDMjc1cnlabThBVnFkaTVFZ2NzZnNNVElUMHFuOEVaWGFUdjEwTFc1MHc?oc=5"
+    },
+    {
+     "source": "Startup Fortune",
+     "title": "Anthropic's $64 billion IPO lands in the middle of an AI selloff",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0E5Z0ZIZDR2Nm1zM2xobkpzZUdJVlFhSTVUd0dJSURzbmxzMUlmdHplcEY4T2xPdlZLekR2RlpZVXlPSW5zel94WG9aQTBpU2JOWkR6Qzdsa1RWU3hqYnlHWGtKYXJZM3AzUjJ1c2ZnUkstZVJWNGU1R1NROXJVN3NFaVVLVXNUM3hmQ2VfbE9wVUJa?oc=5"
+    },
+    {
+     "source": "Moomoo",
+     "title": "Day 5 Check in - Live Trading",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd0lvSnY0Wl9YSGlOY2RMU0RpRDlSR0l3WWJ5YmtFejJVRWJNdUt2NXVUODBpR1dub0VxZ2IweGZZcDZxRmdaSGtNNzBRSTlsNU1nNlV2SzVTZlhCS2QyWGxQNHdFeFdmR3RaOVowcVFoQmZ0Y3BybWlCZC1tYzE5OVo5ek40SHZM?oc=5"
+    },
+    {
+     "source": "Diari ARA",
+     "title": "Anthropic tests AI with a deflated stock market launch",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV21JaF9FUktrWlgxcjdMcy1jUGM5V3dtUXJMUDZBVXNSeGxOSTBVSzRoZFRXeDl6emxYdXlVSlRobEhoM0RSSVVxV0R6MFNPQklIalpweF9LZXNJLTJrVVBXcWw3LVJ5eW1QYXlkeDdSd1E1SWlVeDd4Q2xiZmU2VS1BU3Qxb2lIaTcyRzMtdTZqOXpDeU1iODBB?oc=5"
+    },
+    {
+     "source": "TradingKey",
+     "title": "Anthropic IPO: Can ANT Price Above $78 After Orders Reach Six Times the Shares?",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ1FQMWtHNGl0SzBlazVwV0h4ZGpaUTJSTldBUDNLQUtJTzBGa1Z2VFpFR1JpZ2ptWUtZSmwydVJYYUQ4dm5KUUhwSVRYQ3NVczNPSW50U2JUd1poSF9lVXM1ZEVWMUg1M09MZ29CaHJMSEZfc3lsZ3dQQ0VpSkVNbHBfNHVCcXdLUjlxa2FvMUNPekh4NXVxQkpsNHprMFg2VTNOWGpGZnkyT1dUb3NXcjBienljYTdDY0NUczhtSkNYemROTElxZUZ5NDhOZW9kRUJrUS1hbw?oc=5"
+    },
+    {
+     "source": "CNBC",
+     "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFFaaTFOMmRsSmNwRlBQZTNqWUJhZXlDbzRYQk5TRWpoLVQ5R0trbFZySzNhQU9pa1JZRXE5Q2VhVTNBUVhxOFB2b0JiUVNLZHpWQkxsYW5EeHY5YW9jU09hNzFhbnMxMnctaVFaUTdyYnhGS1g2Z2pNU0pWdmlYUUtuR0pWR2ZnMVhMWHhjd3VweXMyd0h2X2ZRc9IBoAFBVV95cUxObFlSaHJnalF6bnZ6eDUwbTlYZGlPNjlFN2xxZ3Q1blZNREx3YTlQaWx4NEtXeHlEbmZqc0doTExsM1RXSXMzM05TaVEzTjIxd1N6OGVWYkFhZUZLaXZKZWkyLW5EaW85eHQtMk5FMUcxMmVkNmJwSHZOWWZpVUZVd1FROVJKYjBlWUxERUpxZTNYdUZ0aldWX3RIa0ZrUXR3?oc=5"
+    },
+    {
+     "source": "WSJ",
+     "title": "How Anthropic’s IPO Reshapes the AI Investment Landscape",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT29zZEZIU0oxZlI5RHZlLUtSaU9uYVJ0OHN5djJnU19jYlQ4RWpuUXNXSTlFcURVU2Jhd1FpLUEteE5SSWJiQWgzOXVTcjJKVF9mcmtIOWhIVWg4eFVRMDRJN3k0UFNUcE9LYk9ESTFwQWVDcHpIaDRoMkhkYUtmODB2U01FVTZlWGh4M3hwbXRlUnZnaEVLQlU1M0FHZkdCOHluUGQ0MmM3UGlfSTdaLXZPODVfTkRudzQxeVQ2VnJNaF9sX05rbVFQcm1JVzdHamoxS1BleXdWeGR0bV9V?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "title": "Nvidia's first post-Jensen earnings and Anthropic's IPO: What to watch this week",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRGowX3ljRUhFOUtMR2diRUJHR2xTalpGZExTNFRKTExUQTQ2cUtNQXZfWEVRM3BMYldsOEh2czRtSmJZVExCakN0Q2VaWVRWWmFSYjRsRFBqNzRucXh1c2pIcW84aDUzdkhjY3pyZFFkVjRSN2gzU0dNM1NEWXI2WHIxdXl0OTB4OVM3QVVsSXg5V2NUQVVLVmZJWURyaWhXOUxyTWE3cm1qVXRQTFktZWQ0Y3hmaWlaenFrTi1jc3ZPSTFlWUVEbXRaYUVQOU0?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "title": "Anthropic Just Delivered Great News for AMD Investors and Bad News for Nvidia",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTBKTWc2Y1k4cXU1MGwwTUk3NnBndW9FQ2xTS0lkR21nVnpRRlRSNVZWZE95dUFKTzBBdkx4VVZyOWU2TDB3ejNZYVpzX3NQQno3OVJxNnpFWG8tUjdiNGpVZ1ZNRVVUVkhXTVRzU3FoZVZkcGMxZzQ5QlpLM3BFc2ZwMjI4YWlmNGluY01Hc3RIZEx2RzlVLW5ydzhiR1gy?oc=5"
+    },
+    {
+     "source": "AOL.com",
+     "title": "Anthropic Just Delivered Great News for AMD Investors and Bad News for Nvidia",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWUNpMFE0bWpGTFFtVE1jV3BabGpkRDI4NEdjb3NfQ2pQMXBfSUE2a0Z2Y1ZCZEV0SGt1N1BPcHR1eUxtTTNmMl9tZVBvZVRGRFUtYjAtVWdXNjdzdlAtMzBCSWxrS3gxdWFoaVA5aVFXWFktYWhPZEo0TGJBekZfUG90WFV6Zw?oc=5"
+    },
+    {
+     "source": "WSJ",
+     "title": "The Individual Investors Who Are Hot on Anthropic’s IPO but Cool on AI",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWEN6Mk43NjhtMVJzaVNhWTRvOUtSZ3NLd1I4UWtRTHI1Vk9RTGRSbFlHZ1g4bTY0MnVqb0ltNEh1NTVqVmpLb2tCTGp2dTBNUHpfWFI1aDB1VjBmcFNseG9KbHNkbXVUV2JIdEI0ZlNPVW13Q0IxTTZWZkxnSHJPRC1oOWlScHJkSVhzZGltSEtzVFdPZzUtMVByU0ZMZExMbXFsREFlclVMbldRRWd1TmoyVQ?oc=5"
+    },
+    {
+     "source": "The Motley Fool",
+     "title": "Anthropic Just Delivered Great News for AMD Investors and Bad News for Nvidia",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXFLdmRZbnlVUFpPYVduNHEzNm1oRlM5ZWZPSVFhUTJsdUZvdWtyd292Snd6TGJablgxSmRNRldtbUFuNDVXc2VKSGswT3VKUGZmZzBSRklEdUN2Z2FudWwxdlVzZTdRc1hWNG5RN21IemU1WkhYSFVaVTB4OUhIOXVIOFRfa2FYdWxfd3cwWkluOFphOUF0OFZVdGVIRmxiVmlFNHZya2RjUzZEQ3hGb1hEV0ZEcjB6bGlKQw?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "title": "3 UK Brokerage Stocks In Focus As Anthropic IPO Nears",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMTBaU19NUHF2eVVKd3RxNXRaZjlCczhocFR6ZWNwMXhaZnk5RWR3UU5yR0lwQVFIQllBelhSUm03dW00YVY3Ym5zZ3pHTmRhT3lwQmtZMFgtbWxQSFlPOWVHTndPZ2NIRUF6ZVF0Ukt6Q05qSllSdW9xWjZoREw4alZXVVJnVE51YlFQS2RTMjJoMDNvX1NZ?oc=5"
+    },
+    {
+     "source": "BigGo Finance",
+     "title": "Tom Lee Points to AI Stock Slide, Anthropic IPO and Binance Fallout as Crypto Selloff Drivers",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YNUVzcm01Nk5wQjdMLUZsV3p3ZEFXRFI1TWlJSl9yNEtVVGYyaFZVZk9oSmdXY1IxRzN3d0xvZUJtaDFhQWgxQUIzVGExMjRkaWpDVzNQZnNSWHR2Z1VqLU11MjA0d1Z2RU1oWXlJN25iMzFqTmc?oc=5"
+    },
+    {
+     "source": "富途牛牛",
+     "title": "Weekly Outlook | The APEC Summit kicks off; Anthropic lists on the U.S. stock market; Super Week for Q3 earnings reports is upon us, with NVIDIA facing a major earnings test and Tencent, Alibaba, PDD Holdings, and others releasing results密集ly; the Federa",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV2ljU0ltbXQwcDN1S0dPSVNsR2dvTGpPMFJSLUUwUTVBVkM2Rnhlb1NmNnlLQUYwMUJlSHduc1JkODItVFJwTXNjUU84TU5NZ1Bwb0diRF9zNmwzcW5sMlNRbFZFUERVSGJWeUtMNFJjM0s2dkFwZ0NhZ1lOSXdYX2VqNHV4YzNjNHFYanBNVTV1UzNqREVlekt1aGFLdGJyV0V0bg?oc=5"
+    },
+    {
+     "source": "BigGo Finance",
+     "title": "Bitcoin Slips Below $62,000 as Anthropic's $64 Billion IPO Draws Capital Away From Crypto",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BYVZyOTJUMC1pX3FrajFna2xDOWpwX2NmeFUtaS1OV0ZqQ1RGTmlHMzNaTG9vMEh1RkZWeGZXeUIwUmRHdUxfZ0ZicEl1X2t1ZGMxWXNWTTdRZ2p4TEFZa2xxSXVkdVhKbGtwdWZhUjJCVmcyRFE?oc=5"
+    },
+    {
+     "source": "조선일보",
+     "title": "Anthropic IPO Sees Sixfold Institutional Demand in Three Days",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY003YVlQbUluYnd6UzNHR2FhdVlNaG12Q3ZtOUJFUjI0cVZUazBhNG1JNmxXMURkUUpabFlRWUFRcExITGE0SUhvM3RCWE50VFFkeWMxVS1SQTNNUXRSVUxjSExRWjFNX2RaWUYwbGlTWkY3aEJ5aXU2Yy1YWTFSWE42SzRJeHlN?oc=5"
+    },
+    {
+     "source": "Moomoo",
+     "title": "what gone down last week",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNGxyd3dWRExRcklsX2M3RkhwdEZfdl9XZWZzbkFIS2dFRk1yck5aamdxU3phcFAycVd1MEptcVRfOHQwTlpXRm5WempMSU5VM2o5Q18ybmlzWDJqNzR6cFBKSy05VlpxUlRRQlIzNHZ0VGhLNnIzelZoa0cwdXBCcDZscmc?oc=5"
+    },
+    {
+     "source": "The Korea Times",
+     "title": "Why Anthropic's blockbuster IPO is getting a muted reception in Korea",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNlp4ZUZKTkdlOVFiR2JJbWp5R0NwX1VZZndQQTk5aGUzMVVETkl1czRxcU9PUktZc2V0NldzZFRDa3gxUmlvSERnTU5xdEQ2TF9aazlhU1Z2aDFvWldFdVlrMmFRRlNEdVRmeUVjV2FPbk5rTkdWT1hOY2N2SFJDQVBIblgyc0Vkb083dFY0WmNIQVY3VVpJcnNzMzJpODR6TG5NLU1DUmc5NVlneHlhTU5SS21uS0o5TGQ2NjQ0b3l3QXVIWmMxdW82VdIB0AFBVV95cUxObWdFSHNmR3hFU3htMUpBY3ZvUy1OeFVONnpZUnZIS3J4eDlqRHBmZ3YwcjJXRHZmTHQxTlRFZVI5ejFlanptVTFHVW92X3l3NFg1RER0TkdteFBYXzVBblBJcFY5QndPMDJkOUZvNC1tLXc2SUhad1FvYlFjTVZQUzZHanEzRWFwaVphRnQyZDNZd09ZdHRRM3ZYVW80dVVMUXRQc0Ytb09BM2FEa3RGWW5lMkUwdlY5M3lDdHJRSkVGRnlnNkE3dk5yaWZhZEFi?oc=5"
+    },
+    {
+     "source": "Storyboard18",
+     "title": "Inside Anthropic's IPO windfall for its seven founders",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbXVENm9ncTBrUmVidzJUend1T29EUjBfLXdMNTJiUUR3a1owQXF1eURMbHhsOTZVU2NjbmZsN2IyTC01c0FlbVJacnI0TWp2aC01Unp3TzhtcFV4UGVlSm80Qzg2ZG00VldlX3NaUWxLa1JPYTFuT2JoSjc4YjFxbkNydzZuT3hzM2tRcU12QzJJN2IwZm82bEs3enExUWtGVkc4cUNZYW55d9IBrwFBVV95cUxQMGQta0YxbXlHS3BjTDlCZGI3d3gzNmRJeWtweFJBbV9sYXpnYlpEWGRkQ0JXX0ZQOElJbGhCQ0ZDcFIzaFFKM0VqNlcxMVhlZ1dRLUFnVFNHZmVMQ3VxZHh0T1NYcjdhNGI5XzhxQS11MWdhWUNWejByLTNLbWpjU0gzbkdfSHo5THRBeEt2MVNHZmVQTG5VWG5PdFBFdlNzd3ExZ19zQ0x5WFh0STVF?oc=5"
+    },
+    {
+     "source": "The Telegraph",
+     "title": "British trader set for windfall from Anthropic float",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR184U0RRMlVnS05wVkJfd0Z3YU5qUW5UYzRlYVZERVRXNzBNMVlrQVBNSm1nWUVWTDk3RHhfTXJiVVJmY0hyVFh3NVdkTXlqQkc4VGdCNDVXRVpsaHlObzBVelBadTFURldBN3NWZUZjeU85RjBiVUwxMXlSQjRGejF6T3BQaVk5ejBWNjNPMEp5REVSQUMtdg?oc=5"
+    },
+    {
+     "source": "TradingKey",
+     "title": "Anthropic Plans to List on Nov. 19: Historical Data Shows Buying on First Day Is Not a Good Decision, With Average 60-Trading-Day Return of -6%",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc1I5aDM1NEZBVkwyb1AzZ2hKUWp1RGJ2Vk12Vkx0cWF4U3ZxX0pIV1dCTlhqVy1mUU9DSUpaSVFfMjhmZTVBb05qV2ZyZ1lBUG9wajJhSzN0cW5OdXRSOXFkeU94VVZ0NmRHM2VvZF9zVmVRWUNGM3Y2TnFRd2EzOEVqWTVhZGcxSXJycWtlOURYYk0tZVBjSFlxd0VRclV6eUtNTnNfVmlaYlJqMXIwMVZDbUFTNVF3QkdFY3FvQ0lldUJTYmJZTkU0Q2lUYnlNVGdsbkU4VV8zUkFySGRmWGxYWnVZcG4xamc?oc=5"
+    },
+    {
+     "source": "BigGo Finance",
+     "title": "Jensen Huang's Resignation and Anthropic's IPO Aside, Wall Street's Gaze Is Fixed on the 5% 10-Year Treasury Yield",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42OWF6cndpZEVuNFB2UEpnakFSU0FBc29EdXlkNjZQZHFvX05TanJuNHBHemJJdzlPNHo5cnp2NDBiSDczVTM5Mm0xU1RiVWtheW5VeFdFc3I2OGNSaWkyeEFvLU4yV0UyLUNPek9MeGtGY1E0LVE?oc=5"
+    },
+    {
+     "source": "The Dark Side Of The Boom",
+     "title": "Wall Street Week Ahead: Nvidia Faces the Music, Anthropic Passes the Hat - And Wall Street Gets the AI Bill",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOakxvc0tMUkh3b2ZYR0JMdHJUallXd19wbDlJNWxFelhPV1hwMnZCSFQ3eUNpY2ZjNDVWT1EwTGdyaHFNV0l6YmlqdHlXbkpHNmJqWnRYSy1QdTRLaE94X29MbGduT2UwMnpZVEV2LTlUUGZSdVJUMC03NldjR1YtbmlyVEQwQQ?oc=5"
+    },
+    {
+     "source": "TradingView",
+     "title": "Tom Lee Says Retail Investors May Be Cashing Out Ahead Of Anthropic’s Nasdaq Debut",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS3ROQ0daODZFaWc5bEd5TzFlSmpxanpmNU55V1dRaDhEWmFGVkJPRzRsSThfLWkxMHp4UE0zSlR0RU9HSHZwQ1huTndaaHVrVUFLck4yVXg0eVFsRmtEcTl2Y0Qwb0tESy11clRDNGFSVWJJS0hKdWdRRzVvYUw5eDE4bEVOdF9DRG9sTWlMOFB4WF9GNEE3QmROVWhXaGtXcFJxMVNmTWlHUjJqTE15UTVLTHhvcXN4MUtzaFp3QkRoYjlfOG5QR3VzUG11dFJUYU1DelVuVi0yNmc?oc=5"
+    },
+    {
+     "source": "Traders Union",
+     "title": "Anndy Lian: Bitcoin falls to $62,000 as investors seek cash for Anthropic IPO",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU2VraDVkMEVLd0FqMV83TFFGeUlTSHRDTU42bG81MlkyamN6WUJCTGxPNkMxZF91N3NpUUlxSFctYkZqYzVjc0F1bDBvOGZxUGJ5TlBRLWVpY05PUFNISFRKWmdCMFJaemdob09sUmRpanJuOG5ZeExwMzNvM3p4VFRLNXJJNU9MQWhlY2tR?oc=5"
+    },
+    {
+     "source": "Cryptonews.net",
+     "title": "BitMine chairman Tom Lee links AI selloff and Anthropic IPO to crypto pressure",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFcHV0MGFiX3VlZ3E3dGN1dkVoNHRhTUFpdFdLcndCMi0zLTdUT3E5dzY4ZEQzYnJZdC1XZUFfTFd6eHJ4cEdqenkzUTdLb1VIREJDLXZtcXc?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "title": "EXCLUSIVE: Anthropic IPO Could Follow SpaceX’s ‘Almost Perfectly’ Handled Offering, Market Expert Jay Woods Says",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb3N3bXg2d29WY1Rfa3M4YUt1RkczOWJ2VnJGdzZKOFlGMV9Hc0ozY3MxOUtYVjdfcHZ6bW1pOW84UkgyLWJKN0xfaS1QcDd6MU5OUHh0Tmd2S0Y0b1AtWFFxNHM5a1lVYVFPcG9ENVloSXcta21BNzYtMWQxdkRRaVF1U1UwWTV1VkdyZElxX3hzaTU2ZDNCd2tkZ0lCblhBd1E?oc=5"
+    },
+    {
+     "source": "Bloomberg.com",
+     "title": "Watch Anthropic IPO Arrives at a Pivotal AI Moment",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONkt6eWZkWUZ6N2dqTEE2X29fcjJtVDBEUkpPd1E1Zl9seXBSTFhhbmd2c1hHUGJka2J2QjEtNEpnLWxFYzNNOWFTU2Q3ZXhTalk2by1ubmdUT0RIZTFUZVpBUXBtT3dRV19oTXVzTElOX1JIR2c5RU0xZ1d6UzNSNkxkZlNMVUpXNWQxV2pYTldDZWticDQ2enVNU3dkckM5?oc=5"
+    },
+    {
+     "source": "TradingKey",
+     "title": "Meta Stock Forecast: META Breaks $730 as Muse Reignites the AI Growth Story",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRXRFZmYxdGhiSjZaQ2haN1NTWVdoY05UVG1vbjhtU3Y4WW5vTWxiMEdyV2VUV1Q3ZXlBbHd3OW14NHRoTUpuTVF3LVRYcmJzQzlVV3BtUTNPdGpUT21vMVQ5eTdkWEl5TWlleXg5TkJoSEY0Q2FCUkhBSDNPekR2R1VmMElxTGt0Vml2MHdpaS1ocUppcmVkdTdCY1VSNEdHaTdfN19RUHBIVk1yc2JqbUFqb20?oc=5"
+    },
+    {
+     "source": "Admirals",
+     "title": "Meta Stock After the €805m Italy Fine: What It Means",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd1RfUDZqbHlURFE1Sk5CSWtCa2FyUlpPTDVxZFNKRTZtbkhRb3VMdmVBWGpPV1c4S19HRkdxX3ZjejB4QmV6TmhsejFQRFM5T1FHLXVNdVVHQ1FwZ0xjNmtvYUhiaGs0eldPUzRQbmdfSVZOYUE3N0lDUEcxWnJwaGdiWWJ5VHpxLUh6WDVsTQ?oc=5"
+    },
+    {
+     "source": "TradingKey",
+     "title": "Meta (META) Stock Price Outlook 2026: $55B Ad Quarter, $145B AI Bet - Is $540 the Next Stop?",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNckswVmVKY2RZRU1FNno3N0RTSGVzN0JCYzZhTGlLOVVLV1hLWF9UdndsRFhHd2RUYTY5aHNrellDam9FT2RVUjFsVkcwZU5pTFFzVV9TZG9zYkpGcUtDa1NBLTBEc2VfWmo3c09XMktNQU5Yam5CUllnVnFTcmx0RHFQa2szNFF5aDhJd3AzakFHTWRnOWlQWGt2SmIwdUQ2cUFraTNRTVo5TkFzTGswd3FpTUkxaXZySE5YdVpBdTluMC10RDBZOA?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "title": "Nvidia’s Problem: OpenAI Is “90 Plus Percent Nvidia,” and It’s the Lab Burning Cash",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdExtT045ZURGRDRhVl9rMzNhR1lYajJmcUdLWnM0MTV6Nnh1UWVubHFaU2trUmkxbVljN3hubmg3czdvVWZaQ0NvNjJOdERfSmNwU0hTUUhrODhtNWU4Q2F4WWVTLXI2VzlyWHVNUHV5Zmo5Mm1naHNvSUM1bVFmN0dMMUtZSl9pb2dZdElUUjF3bFZVZXowQw?oc=5"
+    },
+    {
+     "source": "Foro3D",
+     "title": "OpenAI accelerates revenue ahead of Anthropic's stock market debut",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT1lBUjNsZXRYWHNEVGNGc1JHYkZsbEp1N2xKQ093dUV0UW5OdmhsY202MUs1ODhWTWF0RnRTS0FMQ0RZT2xid081ck96ekRVMEFxOEk1cURsX2NraWtIODR5OVBpaHduaEtzRFZYRmlnY3loclFrSnBEcE5ocDZEWVdIU2VrMDM4ZGI0UDhUX0Z2NEZ6WlpSX3VxdXE2NHZ1enBseDkxVTQ?oc=5"
+    },
+    {
+     "source": "OfficeChai",
+     "title": "Anthropic’s Quarterly Revenue Is Now $17 Billion, Far Ahead Of OpenAI’s $10 Billion",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUUdVcmluRUIzaDk0SGpyWW82djByREFFQ2RCQ3dBcTNNbTQ2OVl3bXNFT2R4Wlc2b3Y0Z2FOQjVRNzFsTkRncV9wMWNuZFBJSENnUWZsT1c3MUhacDA4VFdzQWJVaWtsbG50TEJpZVBDODRBR3JMWUJ1MjBKMUNzNDg2RDA4M2plMFdzdkQ3VTJnR2NSNkUzdUw5OUJNN3pTenpyM3diVWM?oc=5"
+    },
+    {
+     "source": "FourWeekMBA",
+     "title": "Samsung SDS Courts Anthropic, OpenAI; Analysts See 6x Sales",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY054djRCZy14Vzl2VlB5N2JaZmpaNHdKaG83ci05U0FZejhYSHFPa1pSWUJoSHhNWVNkQmN0bDUwR1JQRVE1OUxQUGFxUHBpZUlhWDcxS2NYaVZhSXRIUVdnbnZPSzQ0ZnVWWXppc1o3YVdzdURzSzFtLVhYcGZubDdnOFhEWjBOQ0ZnSDJn?oc=5"
+    },
+    {
+     "source": "Business Post",
+     "title": "The Markets in Brief: IAG, Burberry, OpenAI, SpaceX, Tesla",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMVdiV21QLWtNa2p0aUdfb2xYZ2xwVkJ0SE5FWnJ0dVQtZUZFaTFGZDExNVcyXzJoWENNV1VfaHl5WDZpcFNnbDVLUGVYbEliWTJqSzVvY1VQNTlPQ3hiRzk3aElidWdaM2ZJWVlqdFd2a2g1ay1vMFZXU3hmVDExdU02bHVYd3dZNlpzYUJUTEwwZURt?oc=5"
+    },
+    {
+     "source": "International Business Times UK",
+     "title": "Elon Musk's Tesla and SpaceX Lost Over $420B in Two Days After US Midterms as Probe Fears Mount",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONTZ3TWVXQ19POXM4djI1RlJuaVR0RmlQSU9xZ1MyYkJsV0VnUFQ5WFlmV2tLLTljVWJ6bUU5ZThCOHk4cE1UcWxlN2NXbzliQzhNSmphZGxBdk0yVUxqRXZNVWxvN0pzc3Q5ZncyeThNWXVVTEdBbWRaSXBaRDJXX1J3dHg5d0dKR0VGRA?oc=5"
+    },
+    {
+     "source": "TradingKey",
+     "title": "SpaceX Stock Price Forecast: AI Business to Become Core of Revenue Growth, Stock Expected to Rise to $172",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObElQSDhtaHVBSDhCYVpPaGtrREFJeWZKZFpOZUVfaHJUeDFTbUtVSE44N1BaWjFZN1FHX05kSy1CZERvQUt0ZlRYa2pPU3NXSDdsRkdzbGFVRWxUc2M2TmxPRUI0QnQwNDVJQUtsVjV6NE5MSWljT3Uwc2RYOVB4a2JxZzBhSklMTkg5Z1RIbDluMmNxdUd5RmxVNGMxLWtRaDBtYnBWWTROSE50SjVoQllKYms?oc=5"
+    },
+    {
+     "source": "TradingView",
+     "title": "SpaceX's S&P 500 bid gets new life as Elon Musk pitches Tesla merger",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMkxFd2hMMUZ3ZE5NcnBscWd3dWx0UHh4VVh4WGhqWWhncWJtRXo5c0ZZUWdfTXBBd1B3TU9WLUNXcXB3QS1HOGViM0ZCQVlJaVJ2THJTbWY0QV9XVWxrRW9obl9LNXVscWl0aVdndE5MOHBiNHpOSHRiTmYzS3ltRDNfRk9tc1lyTFdBUDhVcEVaYzFCMVpRLW9kTjQxdjJwYVRaWEo3cmhKRXpuUFBEazFHd082U25sYnJaaWd1WHhRQ2M?oc=5"
+    }
+   ]
+  },
+  {
+   "reason": "Opinion and analysis",
+   "explanation": "Columns on the Anthropic IPO, profiles of Claude Code's creator and Dario Amodei, product reviews, how-to guides, benchmark cost comparisons and weekly roundups describe things rather than change them.",
+   "items": [
+    {
+     "source": "Financial Times",
+     "title": "Anthropic IPO to further fuel the AI news cycle",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcDlQQXRRTW1SQk1YR1Rfd1ZZQkhfZVF2SEpfMUJLSEk3d21tWE5telBvb0VmOFpjTG1mdzd0cmFMZE1JeGRNRkU1ZmxxaUp5eGdUZXNXRTg1enlkU0tSS2RKeUhjbFBaeF9EVGhhTWd0ZHdrWE1jT0p2S0Fka2hVWExfZzA?oc=5"
+    },
+    {
+     "source": "Mezha.net",
+     "title": "Meet Boris Cherny, the engineer behind Anthropic’s Claude Code - and its miso hobbyist",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTjUtckI5X3hMbE1kcDJzN19LWWRFa1YtNDJEeTFuVldxc1Q3UVBILTBwX1FQSFdwTXdiSUY2eG5aY0VnVkZTRGZjby1vZFF4UnVSZjZPYlF3ZW1VMEFnNk1RbXBXaDRQWUNHekNBV2NXdFpJNjdXQ1FBd1VPc1lCN0J3?oc=5"
+    },
+    {
+     "source": "BigGo Finance",
+     "title": "Anthropic's own data shows AI is speeding up AI research. Nathan Calvin says that's exactly why nobody outside can see it.",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SWjNSU255SUZsQ2x5aVdxNjF1anJmdUxWbE5VT2dWZ2tiZ3BIZGdfbHpobXpEZXpaWkw1WkFDWnFUZnE2bU90SlR0SG0zVEl4ZE9VTFlyYk1mRkE?oc=5"
+    },
+    {
+     "source": "CNN",
+     "title": "Meet the miso-making engineer behind Anthropic’s biggest hit",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3SkJ3Z1pfMDlSUnV6aDRLdjh6T0xwZ0pTb2I4MzNrTzF0ZUpnZmw2SUFhMGctYUlkMWxDMUVtR1FEOHdUTTZCUU44NFJXd2NYajVkUEowbHdXNV9lOTB6bHM4bVVBRzQ5WU5fR2dRaWlVNkcxckJUTkRB?oc=5"
+    },
+    {
+     "source": "ZDNET",
+     "title": "4 ways Anthropic’s new Claude Sheets beat using a Google Sheets connector in my tests",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54MXBVUFZsLWJsQVpNTUtwZGxaZ09WTXRvMERYZVhLLXVsVzAyRE43OGZqNEtiQ0dVd3JGX3IyWTVCd3RGdDJjaklhNExSdU1Sbk9tVndvZXo3MThXRTdlSHQtdDd1RUIwODN2Y2tMM2pnUGZianM2RXRCRmxyVzQ?oc=5"
+    },
+    {
+     "source": "Taipei Times",
+     "title": "Anthropic CEO pitches safety, culture ahead of IPO",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41VVZJSUNWa0JqVmhrWlVoM1lpRUhjRFMta2NIVkYyM1QyY0Z3ODh0UEhFOVhldlB4VkNCWkdGSmZ2eUItRjhYbWFNUDFNZjd4MGFINUF1cGpOWHREb3JzSEdhZnZ0Z0dvUEtRWjJZY1otbnZoZGc?oc=5"
+    },
+    {
+     "source": "BigGo Finance",
+     "title": "Claude Fable 5.2 Builds a 97 KB Underwater World at 180 FPS, No Game Engine Needed",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pd2VxVGttcjNWcUxFdlRqamhuT09ScWZKQkcwYTd4WlN0QVhwRTgyWjFqSWNiMjQ0ODdGV2JUQ3ZVM3BDckJfaHZncHFwWmNGUWk0MkFkcmREejNSaEV2WTMxaGZqZzdTWWJTQ0pRd0lpLVRHN0E?oc=5"
+    },
+    {
+     "source": "The Decoder",
+     "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFlfNU82UGVDdk9qRlBDUDRhaFJBVlF3RmhOU2labVZFcFJaMHRySHVuSmY5cjdJbmQ3SjJBR1Z1UEc4WG1pWXVJTi1ER21YQ3JaaUZpVDhVVk1iOS1EVFR2bWE3djE5S25TZmZseVhQV21BaWJtU1czbzFMR0IwUU5adG9FVGhYdktMaVp4WkRBeTN5?oc=5"
+    },
+    {
+     "source": "The Indian Express",
+     "title": "Don’t apply to Anthropic if you’re only ‘technically talented’: CEO Dario Amodei",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNU2xnUk4yYW94YzkzSHR2cTZydjl3R1RSWkFhRVhYVy1hZzJlZzJNYkJwbUtPUkktRFBrbG1mNk0wQXV5TWZKNUx0ZW9KLThHaWFFeWFmZjdYX3YtUEJ2VU1wRzVhTVcxSXI3NkpvOU9YZThGRV9SOVZGRHVUZGtReUhwQm1vdU9ka2dOcE42RmtOeTdIdlEyTkdHSmhsMjZCdWlEdGRBVlk1OU1nMm84T1lOSFEwQkxkYzdTcUdSNUJzTWs2NlhoRUxlYmV1bG8zSWFOMmxuWEQyemw2SHow0gHmAUFVX3lxTE5MTllCcV9YNkR6YU9DTHg4S3FGY1ZIcXdNZG53a01yNUYySnFUeTNiak55Zlp0c0gwRDZ3YjZpN25jTGRuaXctZ18wWnptWFRWZllCdERKZnZXb3hCcm9fOVUwbS1kVjU1M2lnVWo5TGgxTHhkcDFlMHNWZ3YwdmpFdkZCYWJWM015Z0JfWGc0Q3RaSXB0c2FWRl9aRlF3YkhXNWdxeWVnWnBkM3JRWW5nLUQ5cDZHWlVNZWlhQVBVLXZtMHc2U2I1dWhWdXJtaF83YXFkZzJkN0k4aU5ZeV9SbnZEamNR?oc=5"
+    },
+    {
+     "source": "Financial Times",
+     "title": "Anthropic’s IPO is the next big test for AI",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOelhLb2QtNy1faTdqOEwwQVNzSk5IX25mc0VOQjQzVTdPc3pZdUMyOE9EWkxVd1pJX0huTDZMMTBNR0ZLV0E2WHVkb1Vuam1vMjJ3TUptVGloS2VhWFlmYW1ITGJvVjJpNzNCdkYyQ3hTdXIzUlhaUElJN01UQzVWc2NfSjE?oc=5"
+    },
+    {
+     "source": "Britannica",
+     "title": "Anthropic | History, Controversies, & Claude AI",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Q1h2QkF0SGRpMFZSMVN5al9RNkhQLTR4MDc0cHJNbndmdndTbHE5cGswRFk4SS1JbVhmXzdWNm5KRDlJa3FiUkt6T01MZUNiTjhON2R6cFJtQQ?oc=5"
+    },
+    {
+     "source": "24/7 Wall St.",
+     "title": "He Hears Anthropic CEO Predicts AI Could Cure Cancer and Alzheimer’s Within 10 Years. He’s Skeptical, and Medicare May Cover the Clinical Trial Without Paying for the Experimental Drug",
+     "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOTkZJeF8yWjlnMTRHY1NYSUVDMUxOX0pFYVFGU196RkgzYjByZi1TT0VYSHE3bUZCN3BtMS1odUNZYjB3QUtSUHRXYkVVakQtUjJnbHF1MFluTU5SUzhMUGNVaUpXOHR6bjczMmVQTE5WRHkyTGxLOFVCYncybmd0bU1yZnVMeEZqdmNMNVUtYW85T2gwU1UxaXNUREJwbElXMWhTQjBrNVZfbnlqeks2YkJNaURrbHA1UEtBUGhHX0hPR2VMT284N3F3Zk9yenk3bHkzNnFmaTFyTmlxVWVrX1JRQ3VHYzZrNDlQNWpSVlU2Q1FST0tObmszcXdzTkMtWW5ySXJUSlpSTF9yZnlTaFZGc2RMblI4Ti13eFdiNVktelE2emc4QVZuQU9OblVHUl9wRWRTZTdOaTFoMG4wMXhvWTJqQ2NMS3QzZ19rZ1M?oc=5"
+    },
+    {
+     "source": "The New York Times",
+     "title": "Opinion | The Flaw at the Heart of Anthropic’s I.P.O.",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0bDdBVlVjS0RNUHFRM2hUa1pldy1mMlRqa3pnbDItM1VlN2EyMDlQOGRDQVh2UDRDTUlFNTRxbWR1ZDNENm9qRWFlYzF0c0lkVG9uVWVXektpbnRsR2M4dnhQX3ZqNWN2RHZkYVN3VFBpZjJCbHVGMDVLeVlzOWs?oc=5"
+    },
+    {
+     "source": "The New York Times",
+     "title": "Video: Opinion | The Flaw at the Heart of Anthropic’s I.P.O.",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNEtjbENyLUcwSmJoeVBBVThySkppd3VpMEdyaXNKeVIzRUpXbGFsbEJOWktmRVNPeVA5RHhfcTdOa2todWtHdEpoMVdjc3BtaG5xOGpDcnhRRUJweGVmTUJXUS11eTBCbkVBanpqOGRRT2lTQTIxYkliQkdGdGRtVDYta29XM1ZoLUI3ci0xZHBSV19WajdUR3RxdldKM0U?oc=5"
+    },
+    {
+     "source": "Medium",
+     "title": "You Can Buy Anthropic Stock. You Still Won’t Control Claude.",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOem1OXzdnRlNXeE5Xb0FQaWs1RWExRFV3dVQwamxSZ01DU0ctYnBUTmI2cGh3WWd5OUdBRTE5bl9UdVRTVll6enNPUlZnVUtwaDhaNmU4ZF9FbVBIRXJxUW5VbGNucExKQnpINkZLRWQtV25XcC1sUjQ4UU9vdE1DNnZVV0FDTTZvWU9KVWZTM3JVekU1Yk1VLWFuSEFOQkpvUVE?oc=5"
+    },
+    {
+     "source": "Business Insider",
+     "title": "‘It feels like a game of Jenga’: Why activists are protesting Anthropic’s mega-IPO",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaDdkN3JhRHlQT0huQ3g1cVAweHp0VDJLWDBLekFlM1lNTmc1S3VBM0FqNU1EbGRtb1VPVlRlZC1TQ2FhQ294MkZNSGZvSDJrMVcxR21lZWJhcnBzNHp0ZUJyMkZiTFVIcnlCTFJ1dTB1UEhMakVFaU1maFRxcnVhV0lfLVYzQQ?oc=5"
+    },
+    {
+     "source": "The New York Times",
+     "title": "A Human Reads the Anthropic I.P.O. Filing",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0RWQ19WVmdZdzNSV2VQcV9TM2c1UGlEdjM5TUVWRmwtTXltMnZ5MTA0a3phZ2xVMjBsbjVmTUNycmhUMi14STh5N2dwTUxpVGhkdUFWbHdrQ1V6ekJ2OFd0UVp1UjM2Y0VhUTI0NWRQVElBdWsyUU5Zdzlud2J5VXZhVDZfNmc?oc=5"
+    },
+    {
+     "source": "Barron's",
+     "title": "The Public No Longer Has a Vote in Many Public Companies. It Wasn’t Always This Way.",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdG8yRnRrS05jTy1rWG0wV2lLTU1HQWtCVjFuYzRmX0xiQWZYTm54UFllWXpJNW90Z1JQR0JIQUlNUVdSdFhfcVF4elEzVUdvejhxQ0RSem5ZSU9qOEstMjVDelR5T0VCRmlraW9qYXo0aDdsdmc4b0VMMlMwa1dCS2h3?oc=5"
+    },
+    {
+     "source": "Britannica",
+     "title": "Dario Amodei",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wRm9la1dhbllGZHJaYzNTV25JaXppYnpsN19qS3E4djk3d2FFMXlMeVA2S1hsTWt5ME92WkxtOUhPblNDUnFReWY2OVlYU3FmNEt4MmFzNnE?oc=5"
+    },
+    {
+     "source": "shattered.io",
+     "title": "Law Major Ships iPhone App in 13 Days With Claude Code",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcGZpdzFaZENrMTFSOS1ZUFJveU5CT1l4MWt5ZUU5cy1KRV82SlItV3A3bjJWR0lDR0kzX1l5ZHRDZ0M3TkFPNXp0anl0bFh4X3QtSmxsc3BvMHFqMzRqVHhZQXplMW9qWjM2SkJmcm5PLVdtUk5VM1RXWndWaVlrR2xnd1M2VzRD?oc=5"
+    },
+    {
+     "source": "富途牛牛",
+     "title": "Weekend Reading | Anthropic's IPO Looms: A Company the Capital Markets Have Never Seen Before, and a 42-Year-Old Employee",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTDd3NVY0VlB6Y0s2azhFQ0JleEtrWDRacWpRTUhiWWJobmRUQlZ4TzM5NUsxa05DTmxKbkNnY1c0RHVGTTJoU1NTWm9aZ3REUG9UTE5tZzlhUFZLTlhpTXh2Sjh3M1d2NzVHckV6emgyLTFjbXV2TVkxSkZVQUtsY1NFcVlhYk5KbnBjY3U2NExLSTJYQ2c2OUptUVRYOGZURENkUw?oc=5"
+    },
+    {
+     "source": "The Irish Times",
+     "title": "Why Anthropic’s IPO is nothing like Google’s",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcTlZMUtYMnVnanV4Wl9fNnJPRHNhbkVHall3N3Zzc3pHc19DODhhNVFidmhPeS1CZ1BVTzlfLUhQQk1lX1c3OVI0Yno3eUF3Y3lVZkJIaDc1YlhmNlNZS043bFJOYlRRUGN0dHBaVWZSQXpBV2swS3VjeXp0WlNVelhPczM3M1FkQlZlenRJZ2o3d2VPOGRr?oc=5"
+    },
+    {
+     "source": "The Times of India",
+     "title": "Too talented to hire? Anthropic CEO Dario Amodei reveals 4 types of people he won’t let into his company",
+     "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNb1VEOUJ1bW9yQUJHYTdZa3NhSndGRENxNDRzX25vTV9CdU1OcWNKZ05SeFhsd2YzRlgtWXppRnVEUUJ1LXppRzRETEhFSHlkdjZObEJOODdpMWhSNVJSZG5tZWszell2NGdZX3k2blpEV3ZwQ1JSa0ktRnFSbURQaDliRnNzcDdXYkFqQmQtYV85YVctUGQ3TnhaWHVYU1FJNFFYNVZzZW9nQ2Q1Y3lVYXpvRGFNSFEtUUtHZDAxVzI3VDNtd0F1SWpzWElZYUpTNWs3U0trMndfb1pleVVxeDJXSUxnZGVwWFFsbFJFcEg4Uzd0bFZMend1cTBXR3p4RVdFeFdGUVN2Yy0w0gGSAkFVX3lxTE9nVDFvelI2ZnBOWFd5ZG1uNW5wdGFHMEJPaFF3eFEzX3M1Q2ZIdmFEN2VvZG8tR25aSW03dHdpbVRoWGRKdThjdW5PRnRWS3NVRktabXNEMGNxR3hwaXhqcFc2NHI0TnpiX1ZSY2RSQV83YnRwdG05a2FWWThCT1JPT3gzQUpON20yd3BMQm00emFVSUhpeGFVTVE5YndiSWF3R3BkNnRhamVBcktZQzNNSWx1VTQyVHZEd3hJQXV5bDBVQ09vNjRUcnJCdy0yTlI0NFlsb0Q1WGsyU3k0ZUFWMXlvUEtBYXFueGFoeDNwU25zVHl0d2RCdTRZbFhGLUtxUi1hT0VidGJHZXhOZU40RWc?oc=5"
+    },
+    {
+     "source": "BigGo Finance",
+     "title": "Non-Engineer Publishes iPhone App in 13 Days, All Code Generated by AI: Anthropic's Claude Code Is Changing How Development Gets Done",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aeFdRWjFSUkQ0eG5NRE5TOG9QNDk3aEhVcmZwVmZ2dHVSTVNfUU9wbXF4M3BBYllXMjdlbjVwd1gwcGhGVTZTaERCTXNBN3lzRWVLMm5rWVFnM3I1bkt3Q0M4anFIN1BheDg4RmgyVGlFakxuaUE?oc=5"
+    },
+    {
+     "source": "FinanceX Magazine",
+     "title": "Quantum Week: FCA, Anthropic vs OpenAI, Stablecoin Shift",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQjJVYVkzbTVVNXJpZnYtWjJHVzZXeE9xZHF2N1UwR2toamNqbkVLMTROZUFJOVZvYXRmUEp0cXNubEQ1TG9uN0QxVE9jNGNCaFlINk9aQjdFbEJXTk1qNlhHczNJYWRoU1JuWGlRV0VUN1lEUG5LOTQ5RkxGVUtPbWVHaWctQ2RoVkcwdjRPb3lNZ0xIQXp4VExjZnNVSVY2Rk9EZG0ybU12UzVlQlB6dmNObjZnRzZkU2YxRERzcGRRblZXMVdubURKbGJtRm10?oc=5"
+    },
+    {
+     "source": "Japan Today",
+     "title": "Anthropic CEO sells investors on safety, 'no jerks' culture",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMDlxMXdTNGpYM0cwMGJMNTE1MEFuOHFsRHlBMk1sSDVWalJzczk1MTJUWWdiRld3enFHOXlIaTJfVVJnYTJ2QkFidE93LXdYaUVFZjVxQ0w4WGt1TER3OEZyTWFMOXNNYWJqclNxN0hUbHJvTlJhclZlWWtxTHNhenMtMFl2OWE1RXNEUDlwaWwtVVpWRmxkdWZoTQ?oc=5"
+    },
+    {
+     "source": "The Decoder",
+     "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMTFRMGNoUFNZWG5RazRZX292ZjlMa2l1WXdIa0JNak9MbTRQUmhjRXoxVHFmdGd6NGtLSVBJUnAzdTFSaEpEVVpOWUNvYkZCNzNBaFlSWml3SXFTOXJrTUxWNFdTX2h6MGxmd0pPa0VjZ2dKMmRUaVVyNzROS18tQW0ydTloa0xXcDhfbkNZRVhFM1dIcVA5WU8xYzdKOWl6cE9raWVuRzdjblJpRkczZkFTamZCVHVTa3NSOTdDamI0Y1RHUHItZ3FtZjItR3dyTlRMRw?oc=5"
+    },
+    {
+     "source": "FourWeekMBA",
+     "title": "Gemini 4 Carbon Doubles to $10.96 a Task, Above Opus 5.5",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZWllWGM3NGF3Z21tX2JJN0VaUF9PR0pyWTc5NVd4cktyazQwTi1EaFU2bnNDdWRzRFFIX0xHaWlCd2V5QnpaTTVGQkRJY1JvRE4xdVFCZHJLWkFmZGJmLVNsSHdyRDR0ZHM1YndybXA3Vms2YUNoU1BXTi1UeFZEVlBRUWpDblNwT0E?oc=5"
+    },
+    {
+     "source": "ZDNET",
+     "title": "I checked Gemini's new Memory summary to see what it knew about me - how to see and edit yours",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeVlZakl3ZU1KZHZiajNYTW1mVGo0d052TU9SVEQzWE9aTXRyelNZa2pHSlNxanlRalRYRnBLNkQtdE85c0Z4QklUSTdubHZWVTQtMHpJaUFxaUFxNk8zZTdZbmVNTXZlcmtMbkVfcjM5SFg2UnRhME1Tb2k0TS14ag?oc=5"
+    },
+    {
+     "source": "Brave New Coin",
+     "title": "ChatGPT Wallet vs. Google Gemini: Who Will Lead AI Shopping and Personal Finance?",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeHlKUW9RUlVZWjVId0VUTDY3RS1CVk5SOUlFYUYyM0NJb0U3YnQ1U1JyaF9Bd29nemJCaldGS2xiaEhmbXk5SnFNUXg2UXFlakNidmZzYzNETHFGbWNvREdsLWI2THJTdE1ZOXR5eXFuT1Jva3FVVVNPX3BadXFCQjlmS2JBdVlqVHJnYnJQZVYwWGFuLU5kcmgtNVY2eGFhUHRZUXNjYmd5cnJMLUNES0ln?oc=5"
+    },
+    {
+     "source": "ZDNET",
+     "title": "I tested Dia browser - it beats Chrome’s built-in Gemini tool in one big way",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EcWNZQlg2dTBmNWdWTlN5dlZrVE1mWm9hN3ZJZ1JMSFI2c1RKdWNBc1NiOExMVVlYLXplNWI2THEzWFlPVjJHRUZrbUxmbGZFaDNKYmhFZVZYdjVKSjBVa2wxXzgwdzk5?oc=5"
+    },
+    {
+     "source": "Android Police",
+     "title": "Why a Galaxy AI paywall would drive me away from Samsung's AI features",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMVJrOHJ1b093VjhTSUF4S2dBWmc5Znc4U19YWGltNF9pQlloQlpRcmNudmNxRHV0QXY2bU1oTmlTVHFmZmFwWVZOdDlPN0VrZGdYUnB4SXRxT1lsb1VrNU51Z25HamJFQk1pdkRiUFJ4OXZPMy1xZTZQS0JDeGZKS0lkQTlPTEtaMDN6a2pYa2Nkai1Kd3NUWVZpYkZuT1lDQ3c?oc=5"
+    },
+    {
+     "source": "Android Police",
+     "title": "Gemini now tracks Black Friday deals for me; it works",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdW9rR3BYeUFmWVJZU256TWFoeDJLMjBOUGwzbXczeGxFeWZIUnRPR2FPRHdGeVZWbHNkX2tGdjc3V1cyX1MxZEFKUzlEbG5PQVptcXE4QjVmSzNYWGZWcGM0eWlWejJEVnFQWTJhak9lWmFKbW1NNnJLSnpFNGRkWWxrMXUweE1TSEtrLUlrQmp5ZUh3ZEJuOC11WjhodldoVnpzUE9fUQ?oc=5"
+    },
+    {
+     "source": "The Financial Express",
+     "title": "Tech This Week: A CEO exit at Nvidia, a 74-country Microsoft outage, and AI’s growing pains",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZ2xaWHVNSEtxeVlkWXVLTkpGenRvY1AwalhMaXN2cE1qRnBSTEtlUTFMN1NkUDBVRmVFYkN2emFSTF9kYkRDck9KdjM2Z29kdV9PckU2WllzMW1menoxS2xkYnlkQjVFSlVjNmt1M3Q4UmJEX21BOTFtNDJvOC1FOVNpQlg0NEV1S0dyenNvbHB4OFlPRU5RNHE5LXdDZUMzM1lmemRrQnJDNTk5ZmZIdll6cnZoZ0trYmxUbHNXZTFUZDgzTXF0N2k0RjVIMEc0NFR3Mm5RS2dWbGZFd1HSAeQBQVVfeXFMTVYzLW5uT1N2SnBzOExfQkNDX2JsdFNwQVN6TTVEZEZXbE5BQVEzdlRiWElTZjNwY1hnaGN6a0FpRTczazhWZHM5TDFhbENoeHRTa0h5UFpHSTdScGRBZjRuTi13SEkxNFZxQk94ZHkyVkt6RUdZRFBvOGJlcWFXUlNQQm5remtyZ1RGRUEzZy1aTEhvNmQ5bHRoOWNXSDJLdFdXdVVPSTV0YWNSQTZVOXRXTHVRNWVHcGRWczBUM0w4QkZ0aEkwRXVBeERINlM4Q2RCZ3Q3bnJ6NVAwTXcwMGt3MUlP?oc=5"
+    },
+    {
+     "source": "YTECHB",
+     "title": "Privacy Check: How to Turn Off AI and Gemini Access in Gmail",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1N3RyNlJlWVNlUmJoRTQwQUk1Ni16MjJPa2ZTVnJhRlQxaUlQTWtkdENlYWdpVUNHT2FNMV9GTXBHMFBWVFdlVmlndV9LdEwyb2QwUUNrM3hXT2RqS2Znam5QeXNNWmpHZlE5bGs5SjAtNWsxcDE0eA?oc=5"
+    },
+    {
+     "source": "Fello AI",
+     "title": "Best Sora Alternatives in 2026: What Replaced Each Part of Sora",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPbkFCSURIUXA3OTF5UXlLRXRic3JXd2hpWV85c1Z2QmE0OXV1bXNfWHlGUXBaSk9iOFI4VG5BQ0hMUDZHclJWdDJ3d1hpYUk?oc=5"
+    },
+    {
+     "source": "How-To Geek",
+     "title": "I used AI to develop the perfect smart home automation routines for my house",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR2c0UlBlaFpMeWpoU3A0a3JfYU1pcmptaXBqWVpzUTVvd3MydFhmX3hjMnBPUnlNSElONzdrNVYzOGw3R3ZBdER3SGxfTk1VR3l4ZFBJUWhQcjRsSGFnUWR6Ym9KcjV4enN6Nnc1eFgyakZjSzNFbUdRUjZqNm9JR2RNaUYzalAwRTJHaFJKU1MwZnBxMWNzMzBGbjF1VXM?oc=5"
+    },
+    {
+     "source": "Substack",
+     "title": "AI Week in Review 26.11.14",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TSG5kMVp4XzNldTFTdjRjSnJQM2NZaDhWTFlpSkVuSnNuWWI0SFhEN1EwQlFSQlkwWHBLd3JkNFBJaTFSMDFRUWwzWUVlaEtyWGlYaWtjeWdPQ3Qyei1sMmdmVWRnNTQ5Q2VUTWZB?oc=5"
+    },
+    {
+     "source": "Engadget",
+     "title": "How To Get Better Results From Google Gemini",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MaExUc0h5ZnR4X2JyR0ctSXRYLWFya3VmSnNUU1VtWnp4UmwtZFpLMC1MVFdXeTlEbUhtZ2dzd2ZoVVZFeHhFdHNjYW4zM1IyTGZ5MXRzd0VCTGdkeU9kWlFqU1h0MUtnWlRaMDNaWE9FaGZISDVjN1lZRnk3QQ?oc=5"
+    },
+    {
+     "source": "Tbreak UAE",
+     "title": "Gemini 4 Carbon tops MathArena, at 15 times GPT-6.1 Sol’s run cost",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPV0RyMEhoTWFIVUxFLVZ6dkYxR1dFb0d5TGpVNExDRXZIVmhRQW9NUUI4dk9yV2ZNSXAzX1JTTWFWdFlzYTdFc2FWa0UzOVFZR1d1MmY3TEczc3JVUkVtOFV6N096VGNxTVN0OVlR?oc=5"
+    },
+    {
+     "source": "Geeky Gadgets",
+     "title": "Skip the $449 Ray-Ban Meta Wayfarer Gen 3 If You Own the Gen 2",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RaG1EbnAzellXSmd5ZEJiY3dUdEVNSkd3SGJ6UmtNRlJGSU1TTU8tcjRCMk5DWGhhUG9UdGVvVUYzUmtMdXhmVUFvNXBYc0JOOXUxaDEwdE1DX0otazA1b0M0UUVaOWN1UUpZYVJVUFhjZnpGeWc?oc=5"
+    },
+    {
+     "source": "Daily Sun",
+     "title": "How to Use ChatGPT Dots: A Practical Guide to AI Agents",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ1N2SDctU0JtY3BpVG9ZcF9IVWpDM0tiRVZycy1HNHNXZEpxcnFVazlCN1VYamhzMDk1dEw2V1FMdlNoLXRqZjhQS0hteG9UU24yeHZQQ2FKNE9UX2tiYWpSUGRHM3lCWFdNWmhNLXRnQi1FcnFwR0FmWUFMMnIzRHdiWFd2emNhVmFZWWh3U3lqV3N6SWRyenlhVnY?oc=5"
+    },
+    {
+     "source": "Android Police",
+     "title": "I asked Gemini, ChatGPT, and Claude to spot Amazon scams; only one could tell a real email from a fake",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX1ZYd1ltTDlDaDNpSlh4UW5NczZ1Mk1fS0FKQ0gtUHllTXR1bFIzTkFrd1kyUjhIeHFxREVKTGhaOV92Sk1BZmtxdEotNmRwemVlYk81MnVxbFZBUmk5MFd5cG81RjAyYzdLNlBTalQyb2dsTnJHSGVtYzA3YTNWdUQ0NGMyZw?oc=5"
+    },
+    {
+     "source": "Tech4Gamers",
+     "title": "Take-Two CEO Calls Out Anthropic And OpenAI Over AI Game Clones Ahead Of GTA 6 Launch",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tdWJfaVpwQ2YtQWJqS1lvd3h6S0hMd0NQSDhwZlRDOG1BQVZ1ZXlOclFqOHBzRGFMUXJkNnl5ZnhhM2xBQjd1dGEwd1FzT242Y29GUjdJS2p4dk5qT0pTbGZORzY?oc=5"
+    },
+    {
+     "source": "The Daily Star",
+     "title": "Wikipedia in the age of ChatGPT: competitor or collaborator?",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVDVtS3JyOGZwbEoyWTkxYmpjOHNJMk9TNDJ0YnZmcmFKZ19xcGMzdG9CSnhoRGVSajc2bVQxd0Z2MDh5dDZBRlptRzlKOS12c2w2eTJvSXZGUDFKQlppVEctQkxubXhkMHp5R3YzelJfWTl5Y2hDVTd0TzFCVHZ5TW9JbkJvV2kyd0NwMGgyRFlrOWtqaldENTR6Nk92NHBuTHJSQUFkWU1jTmRQUkNj?oc=5"
+    },
+    {
+     "source": "FourWeekMBA",
+     "title": "Microsoft & OpenAI: Azure Partnership, Deals & Investment…",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sa1VNOUlpQk9WVjE0UV9pRnd5N0doN0hYb2dBQnZpbURpUWdaRW9ZaHQtbmJGTUZMb3JzUXZ1V3huajAxdG9rRWpXZnBjeTBrNy1V?oc=5"
+    },
+    {
+     "source": "The Economic Times",
+     "title": "The reverse of AI: Beyond ChatGPT and Copilots, why companies are focusing on human skills over AI tools",
+     "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPLTZQVlZZdXpKOUk3Ulg3OXBqMVdEUTBmNS14VmlERWd0Xzg0RUE1a3R1eTFXNXlQYmpQdENRVzhzeVJnTUotMGdKR05pSy1Uc3VaUnVabmxER2l4emxwT0t3LXl5MDRGQjdrY1BsNHFDUFhYbWZOdnI1blNFMmVpT0ZxZGdIVVJjSTVjUVh3WmFYYUxHT0xlR0FMQ2RfR1Z5OGt0dm1kek1EUXoySkZpM2ZxQ3dtTkRxbVBVSFVzNGl5WnhCOVBMLW9FRjNBOGlzLVJpSWdXb0tNd1VIZFhrU3ZXM2wwMkswM1ZDcnFRQ1VFVjNpVE5sT0lHUkVaem9sbUZfNmppLVlvcG5KYXpnQ2didETSAZoCQVVfeXFMTzd6QzlkZ1RVcDBhZWlwY2p0UFZhczNaOTRlSEJHZ1l0UWVWVnY3TEtnTHI5elFPcVR6WXk1Y1hhTFM4XzJQdThyVHRRc3pWd2gwZElZaGc4bWVMR1g3Z003NU13d0dvejJlSHE4Tkd3c1FLN3k5OFBuOVNhZ0tmYmduUzFsU045UXVXR0wxbDFqSmdfRWpJaWVuQkZpOTVpZV9GUmRmNlI3Wm8xbF82dFJFMXhoU2pVOWdrS3RxZnN5aHNsRVJuNURaOTFSaVdvb0liTXNSZktTZTNSNGotTFlISFNWdldTYXR1dmlBNGpmOVR2REVlS3ZIZWxtUWpFdkphYlRhazJCVDhnMFRVM2FROTRyQWtOTmRB?oc=5"
+    },
+    {
+     "source": "Fast Company Middle East",
+     "title": "OpenAI CEO Sam Altman calls UAE the world’s most forward-looking country in AI adoption",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFJud05ycVhGZEJNelY0R2RwbW1HYWNORjdZdU94QTNLb1ZZV1lJcWVVSFFoVGtRZl9LelRBeW1FMDMwejVSbC1MMjF2Z01GcWEzSzAzYUNnd3lSRUQwcEFQQThKUHhac19tQmNQTlJLdHY1R19OS3JSMzRERldqU0swUG1EQUVYaXR0YXl1ejFQZnZBRnA2YTMxV1pEVnhHdGkxdDN0ZE1pSGJDOXl6UXB4Wl9Kc2ttUUE?oc=5"
+    },
+    {
+     "source": "WeRSM",
+     "title": "AI Safety Cannot Depend on Trusting One CEO",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16WmduTmJ6MU55TVpra0NMOHhZUzByVnNpWnRQX0x4ZTVuWHI2UXFjU0o0QVRLNEFNMzA3dmtuSnZUVk9FTVU4VXpnUFFvOE5HYjlYTm9Qc0dBUWNueGhZMnBOOGw1ZkcxWGpnOUdXSQ?oc=5"
+    },
+    {
+     "source": "CASRAI",
+     "title": "OpenAI Project Camellia RICO Lawsuit, Explained",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WOFN5UVR1NG1EUG1SRnBqV1RjNHR6emdjN1pJOUlpQ1ZRN01Yd3pUSHh1Ti1VMlVTeC1MdkZmM1lIUEp3OEk0VkJORDdNOF9fM3QxbFlYZVNtY2c2cG9uTUF5a044Rm5OQUotZ242elpkTGct?oc=5"
+    },
+    {
+     "source": "STL.News",
+     "title": "History of ChatGPT: How AI Changed the World",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvbjdERWhLejFZeDVmejlTUFk2OVBzUUFqN3c3NWkzZDA4UU5ETnY2bWdiTl9IOFpBeEtQS2tiLXdfT1N5Uk5MN2lBT01SMjBrTmlTTERUQlluUDhfM1pTRG9LSVV2c2JaZ2xISDNPcHpRMzA?oc=5"
+    },
+    {
+     "source": "CleanTechnica",
+     "title": "AI Businesses Still Bleeding Billions",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORUtqSWRUX1pFZkQ5LUQzWnZ2M29WcF9hb2w5QzJsSm0xMVF3ZzVRaWJIWmszN003QlJveVNGSnExcUN4V0RkaGV1RDY2bTE2eXJNeG9LcnZuaTdiaUcwUExMRXFVQ19mOHQ3YXpZOVk5eURFbl8tTXJJQkZEemtYSQ?oc=5"
+    },
+    {
+     "source": "https://latination.com/",
+     "title": "Elon Musk's $74 billion AI plan has a power solution in Texas but faces hurdles in Arizona",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43Q2JrdFlYNWZ2RzRXci1SYTY2Zy1EMWV3cGRqWkpESVNrTGxsT1lmc3ZacUx5YnFuVXBTNGQ5d28zc2RRS0FwTjhFZnFtb09pY3NoZmFkQlhQTHZodmx2WWVXMjVfUEJUWmh0M2Rsdi1TYkJ4?oc=5"
+    },
+    {
+     "source": "Britannica",
+     "title": "xAI",
+     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FMURTQkxuM3E3MjBCZ2hjbUROSFZIZlh3RGRROUowMHZlQWFVRVJRUm94ZnphNUVFOFEzOUpEcTE0U09heHdhVkJqTng?oc=5"
+    },
+    {
+     "source": "thedigitalbriefnews.com",
+     "title": "Grok Bot: 5 Real-World Tasks It Can Handle Beyond Chat",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zcTY4RzFObkZlUHFIa3dYeEx5UFJSYk90NWZWaUlQVktac1o1SjhLUFpTYlZWYmFtOU5DWjlGTjVhOGE0ZmZiREtaUkp2WHE3R1lhcGNyWk1vRjhQdlJidkViUU5Ocm83VDlwWDhjMTV6MS1WTS11SG5uSEdpQQ?oc=5"
+    },
+    {
+     "source": "BigGo Finance",
+     "title": "Grok Bot's Lauren Tan Runs 4,000 Pull Requests a Month - and Says the Bottleneck Is Now Deciding What to Build",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xcjVCVnZkNjcyUzZNU2FRajMwSEo5RmxhNTFnYWpOc1JmLWp2STlNNnpacTd2eHIwTXowb09LMGlqdFlmcTBiX2VfU0c5X2RPUlFVZ2FVZE5qM3c?oc=5"
+    }
+   ]
+  },
+  {
+   "reason": "Older news",
+   "explanation": "ChatGPT Wallet, Google's Wallet link for Gemini, Gemini 4 Hydrogen, Gemini Robotics 2.5, Gemini on CarPlay, ChatGPT's business listings and xAI's Grok Bot pages were all announced two or more days ago, so today's coverage of them isn't new.",
+   "items": [
+    {
+     "source": "OpenAI",
+     "title": "Introducing ChatGPT Wallet",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aR1ZfZ2w0b0FCZk91TGZDV2JhS1hvVjBta0lzMWxLQzd0TUxrZDcwdmRVOEJ0OXByb3p0UWJKVVk1M19ReUdieXcwU3JRTWpNZm01T2ljampxcUt2cUlHVEZKd3Z2QV8yYkE?oc=5"
+    },
+    {
+     "source": "xAI",
+     "title": "AI teammates that finish the work | Grok Bot",
+     "link": "https://news.google.com/rss/articles/CBMiMkFVX3lxTE9KUlpuaWtVOGw0VTlVRGlxYVdJZUZRQ3BPakJPYVQ5UjNyaGQyVHk3RWdn?oc=5"
+    },
+    {
+     "source": "docs.x.ai",
+     "title": "Team plans: workspaces, seats, and invites | SpaceXSI Docs",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qMUJPa0xYUzUxRF9uVms3d0ZWYThDSmFwRjFhbHN2SWh4dXFBVUVGVWx6M0tJWl9lMDd0Z3d3NktFTTNfblRnUm92MXJ3QW13b1gzSW5R?oc=5"
+    },
+    {
+     "source": "Help Net Security",
+     "title": "Week in review: Secret stealer hits GitHub repos, Claude Code turned into remote-controlled implant",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQa1hEODlXNkxNTUtURTZ1VDBmem95TTlQdXY5YzQySlF4VENvYkVMWUdHV2c4MkdsVWZSNko5Zk51aHVpV0dONkx6WjhxM05FU3hKc1RUNDQzMzUwcmFVOERGc05uVWZoeFVRMENnS3hGYktoNmJtMmUxYzlyTWdaWkd4UDF3RmhXbFpWdElLVEEyTmZOQXA0NEVHTWRxT0RGN3VpWGo5THVicW1xWVRsZWNHY2RnRjVVaUlmbW1vaHl3T1E5NlctLU5zYzJNZXlzTDZmb3l6ZXI?oc=5"
+    },
+    {
+     "source": "Wowtale",
+     "title": "[WOWTALE Global Weekly #4] Jensen Huang Exits as Anthropic Files a Record IPO, TSMC Buys Into Both Labs",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxQ0Z0SGg3dlBhaENLUEIxcVR4RURMUWFtdTZvQWFpNEFOZlhSeWxaUFluWkNSSFZOcThPNTc2T2o1UXI4UUFXODVZTExQQU9GUUJ3?oc=5"
+    },
+    {
+     "source": "Robotics & Automation News",
+     "title": "Google DeepMind launches Gemini Robotics 2.5 with improved dexterity and industrial capabilities",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcEFaUHVBNmxBYUNlSDZYOTlfTlhHN2xKSmdJT0ExNXNNVlo5YlRJNnpoWjF5LUJkZEhoS3lTcUktRkRPLXEtMGV1ZWt5N3VPbklPbEFqUzFibGVEYUp5enNBWS1rOXZkTGNVY2pHSEtSNVU0LV9Pc3VBSkl0Mk9XZzZpY3pIaUdYa0Z3cXdZVDZDMEdURloyMWVIbnEwLURqWDJvTTdhN3lTVHd0Y1Zjc0kwX21heldUQ2xBLTVPQmpEcGFZVExGaXlpVGt2cF9DOW9tblBZMVlhaFBLNW1GYkNLWlEyVjNr?oc=5"
+    },
+    {
+     "source": "varindia",
+     "title": "Gemini 4 Hydrogen: Faster AI for Everyone",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuTzVQbEdYOHZkOWFybVY2enNoWDFyWkJpb0hSV1JXaGhlczB4S0dSRW5Ndy1Sd3BKR0dEckNMT3BaWnlCMWRTLU96T0pfcmZkSjk3RXM0MWY0Z25FWUxHRHJkYVlOOEpsempNakZCRGZ3aGh3cHROY3ZB?oc=5"
+    },
+    {
+     "source": "SSBCrack",
+     "title": "Google Launches Gemini 4 Hydrogen, Bringing Smarter AI Features to Free Users",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOclBjbFl6S20yWUZpbEY5WDRReEgzWkRudzNlUE9FY3lzUHl6ejMwQnpYeDBjUnF1UFZMS3RYeGliY1RzWHdUSzMybDJNYjJ4TEIyVnhsVElqMGJiYU0tczdQY1ltRk5ETUNYaG95NHFhMzE4NGlzMjlnWVpKRjhQcUloaWU3VEdUcWRWYUFIYzhPREpGaFRQQVg3RzNSVEdXS3doR25n?oc=5"
+    },
+    {
+     "source": "EdexLive",
+     "title": "Adobe and Google expand strategic AI partnership across creative tools suite",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc3IwVHRiN3FhbG5SZGFmQmd2a0xsczlRQWwzeVlSVFNUSF9NVWJXMkRhXzJobEJCQWc4djAzWExLaHRWeDVoazZjWXZPRGU2aEZPd1R6d0t1cWxPUl95VHpMNlowNnBUdGJnZjRSeFpQaExFbzU5X0ptbkQ1aFdkVWRlU1hRUmEzdWtaSk1FONIBnAFBVV95cUxOM0tIWU13LUpYZUY3NDRoZEJ2b1BmZ0JBdUp4RUo2bU16eVpzXzNhczJrRC12NmxyanhTdFNmZmdmUGdNbHdLOFo0NlJTZmxBaE85U0NpalpkMWFfSUJFMl9ieVFldFdab2VqRWlWREZTVXF1clBlU3U3N3Rwd1R5WTNmZVBBSVc5alZ5dHZTWENXcXZ1c24ydEZuZC0?oc=5"
+    },
+    {
+     "source": "gizchina.net",
+     "title": "Gemini 4 Hydrogen: Google presented a fast AI model",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDhjVmp0MGNNYWxDY2Y1VG5mNlJJZmN3cWs5aU1Rb1hoVGZNTTN1WFh0UjNhYVdUQV9KTnEwVTFsR3RiM29tRkwzWm5xS01WZTRybldoOFNmTXo3NnhscjZ6SFpwY1NCaHpRRjhuWHQ4NUxUREZMN01GSUNhSGJDRnZaUFdKU0p5V0VlaWpfZXNrY2N5ZEgxLUx1dk5QVDhTc0hHSjNBQ3dCUQ?oc=5"
+    },
+    {
+     "source": "Emirates 24|7",
+     "title": "Google links Gemini to Wallet for AI spending analysis and budgeting",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcDBhbzN0LTRKVWRrOUtfS2tCLTdRTS0zTFVta1NGNTd6a0lnajV5UzZvbHJUUlNnSnAzclJEX2xHMGZGejZpMTVmU1hFUVlpUE5fdzRsLWpWSk1RNzBDSGVSVjU5YVQ4cDVZMno2d3FOUHVlVkVvdmk4NElfN2VnOVhiUHljdVdjTjdrdUF2VnBuM2VlRUdHSml3LW00Q2l6N1k3dTVkRkpjVVdiUldZWUJn0gHMAUFVX3lxTFBEclBmTVg5VFlrdUNxR2tyLWxYUm5rMWM0U3MwWTNDYVRJWW4ySmNqU2F6VlozRWg3c01aa1FtRnR4ckFqUjc2dHdpdUkydE9PQlNhb0ozRjJMamhiVUlkTldjeE9NUzQ0dDJienVmb3lHcDhBeGN6a1ZOOE0tQXpRNE5xM2s4M1dFZzdaWU12a0RSSTJrYUJNT2x0dGVRT25adTNIejl5RGplZkJaYWhWb0prRUZ4LVl3ZFlKS0VtZmtRNmZNUUpUSElXdQ?oc=5"
+    },
+    {
+     "source": "Tom's Guide",
+     "title": "Google's Gemini 4 Hydrogen is free - here are 5 impressive things you can do with it",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR3N4YlROTEk1cmQyWDlqLTdIcHhNdXZ2bjkzTTBhYUo5RDZJeFJxVUJxM01lejduTW5MVUJadG1IWGdzVm0xc2hzZHEtY1d3SWFtemhkbGpzU24xaEFWSDZYWjlvSlQ5ZXhRUDZUdlgxUVQ3NDhqTzEzbDR0ZlVlV19UeUg1bUFRSWhaUk1pekxkRGVfOFMwaEZ3VWJBOG9nM1RRZmo3dzc4VVlybGQ4a2FrYmlpMThkaElaR0pSU1FSQQ?oc=5"
+    },
+    {
+     "source": "InsideEVs",
+     "title": "Google Maps Is Getting Gemini AI In CarPlay",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoU0VGdEt2eHFIblV6MEhlYkxocGRDeTRySnNuQndZTF9qMmhUZWtPMURrV2NsbFBieEtoMWFLWjI2aHV2QXVwc3llNE5tSWx6bnktTW4zak9ZZ09sbHpfX21Jc0lhS21Sc3VEcUJn?oc=5"
+    },
+    {
+     "source": "TechGig",
+     "title": "Google unveils Gemini 4, new TPUs, smart glasses in five-day AI blitz",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRGVjRjNncE9GbExZYUMwQ0pSQmlpZ2pYRGpxTDRWTmtidVhrazRhZ2pwVE1kRFRvNzJQb2xzRXdQdlZ6X0JrQTBEU1J2azZDYXM2V241U1ZIc1dxYTNNMzgyeFhKT0FTMWdya1Z0Vm93WlZNUlBJdlhaQkdDZEpDVnF0VlYta0hfVWpHWWFKZWdvYk9oZUE4Sk9KS3FoeHJtbWZZV2M0VzI?oc=5"
+    },
+    {
+     "source": "Yahoo Tech",
+     "title": "Google Gemini can now ride along in your car and catch you up on everything you missed",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeUtqR21YQ1dLSGtHcjByZGlDdmptVmpnc3VLa1FvVmFfaUtLN29aeDFLUmNrT1RCdGhXWnhRM25MTGlMcXIwblJEaTlwQTBsWHJjTGlnSFRRN3NELWdFZkdlU3BtdUc5NUlLZkZ1U3pILTU2VTBIb1hORElkblFXMjJteVZSZy1BVkRxY3ZR?oc=5"
+    },
+    {
+     "source": "TechTimes Vietnam",
+     "title": "Google Gemini adds spending‑tracker feature via Google Wal…",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ3lseHRabGRoZXZReEFTZ3F3TFNwQklES1JpN3NZVWNQWFpoekF4YS1qZDhnZGpLTy1ZZXlINXlheE5PSUp3aHlWTk1wSFB4OXB4YWNkRzRkczFjNDdCZWI4dVNSZGdOdUEwZThFamR2WHlKbk9ESDJZQWJNRUtHZThOZmZETUhHX2lyNjhwb1BDUlZC?oc=5"
+    },
+    {
+     "source": "Foro3D",
+     "title": "Gemini and Wallet with Plaid: checking expenses from the AI",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVmZyYkh4cVZud1hKTkhrcU9ocnZzai0xc3UxY3Vqakk0cE9jaUlHWFRDdWNwMVRNQVVibklBdkdSa3RzT1JfTDJnNEVkR0s3QmpsbHZDUXlkTk1ZRDhyQVR0WEFCVXRNdFdQNHN2eWFKa0c5Vldtak5WeEk0WlYxM3FFbjUwNGNNNkFETVpSSFh0WHNCNGQtcGhWNUc?oc=5"
+    },
+    {
+     "source": "Foro3D",
+     "title": "Pixel Drop March 2026: desktop, AI and delegated tasks",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbjl0TXhyNU5xSXhsUm5nak5NMVp3bmJTMUVhLW83eE1LbDkwdDdhVTlnbTlCNXptVDZ4SW8wOHMyTmJwaEJVRHpLN1dwM3V2R1dCNDY3SjhBVVNPMmUweFZoY1NGTU9fVjF4Q3dxajJGdDZyWnJIUzZvTEJtUnByT2JJaGtfWC1xa2s2dHJwMWE4U1Q2OHRhaFhhQ20?oc=5"
+    },
+    {
+     "source": "USA Today",
+     "title": "MakeAndUpdate launches GPT Business to help small businesses claim their business in ChatGPT’s new Business Hub",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQmtnc2NsbzZBMUlteElYdHdmT1U1dFBFelE2VFRMVEZpNF9kcUhod3EwaFdrbnZvV2toYTB6ZDFBdDRPc1RZczRmN1J5S1dNTGhzYU9VRUxtbUNjbXVDeXA5X1JrcnVHMmRRTlF2dllEVzd4X0lDOFBUa01raFhkZnJWRXpiVkt2aGdLMGpuR2E1dVVRVmNIRWkxYXdCX21kUFp5dlhtTFlROHB2Zmtxak9NbXZobnNxb1hJTTU2WlFiVkFkUUpUNE85X1ZuMjJ1dmxXSDNhTTdCYUhNMUUzWjZfdDdRZW5PSWpxdEFRb2Z0d3J3?oc=5"
+    },
+    {
+     "source": "FinTech Magazine",
+     "title": "OpenAI Launches ChatGPT Wallet for Secure AI Agent Payments",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObmd5M2lWajZIdi01UEZUT0RXRWJ5aTJjZDVxMW52MkJjdVprU04wcDFFX2RKTldQc1V5ZzF3cG9QRnVBR0d6NWVqX1NkUGFUYUpDOE5vTnIzbVZqRVZYQ01RMVI3RmNrWTJ0dDRRaTNBclF4Q0Nydm13a1JCSWtkWGtTM0FJQlNfR0Q4VjRVcDBRcGtPLTBn?oc=5"
+    },
+    {
+     "source": "The Financial Express",
+     "title": "OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVlczSmtCUkNNZkg0cWhFM29ISkdFTVVBTm1fTGM0R3EtS3BpRXNOZ1JoQkFocy1fUWNzX2NvTUJrY3JLTVdXRFV3c19sWXJ4TDVnd0VFOHVuc2MyTkYycU9lQy1oaGpvaXZnNEpaOUpfVy1WUG4zTFlaWEExNEFOYVBVYzJVMjhWU3hBT3ZTQ0FpN3VxOEo2RmFkbldPcEZDNER2VUpQTXVmVFk4NzFz?oc=5"
+    },
+    {
+     "source": "The Daily Star",
+     "title": "ChatGPT can now let AI agents pay without seeing your card",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMmFMQ2hON1J2ZWR6RlRTdlVRQ2k3eVU2UVBTOUN3WFBHbWw4aVRrSFB3aF9lTVJYZzlkMUNuQmh3clozd1ZVTTgyRWxpdk1HQUd4Z0ZLYVdwWG5PelB5dHBmUmNlUXN1X3RubEJFMUJCYnI2a3JwejdiSG5UUzV2UVNsVFZhVDEyVnIxSWhqWEd2N1ZvemlCU0wtMjVReDMwejlrYnVhVDNfbldsT3pKcmowNmw1bWM?oc=5"
+    },
+    {
+     "source": "ARYnews.tv",
+     "title": "New ChatGPT Wallet feature allows OpenAI agents to make purchases",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMlNiWHdEMmRKYUwwUkkxckdNcnZ2STBOM1VHSXFGczRoT2I5dkN2QkgtOVhydVQtNXN6bDFqWUlpQjV1WmlfNEc1V2R1cm8wMC1uZlU5OEVvaTBDUUNlOFpFVWlidk9yVGlEdFR0YkExeXkzVWFPZmx2aTllVkdJUVgyZk9YeGt1VGVjQg?oc=5"
+    },
+    {
+     "source": "Online Tech Tips",
+     "title": "OpenAI introduces ChatGPT Wallet for agent purchases with user approval",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX1pRWnR5Tk9aZXBNLU1rNUE1RW5sNHRVMHBsbV9oVDlReVNGV1NMbWxXYWh4QTNucFN4RlcwQ0x0M1JtQ2tkanJoVHV6STZ6NXg4THlPOUpJMjdTTXp0WXExM1JwVHhFZ2d3TzRiMU5melVvbmVKbzdkbVQ5Wk02dk9DV1dzTmdlTGxTdXBn?oc=5"
+    },
+    {
+     "source": "www.dealntech.com",
+     "title": "ChatGPT Wallet Lets Dots Pay, US Pro Users Only",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14d3lNRi1aM1FUaDFPU3FRbzdWSmhZQ0N4ajdoWHdQNHRhdG5BVTVFR28zMEZlam1qb0VTcUF0UlJ4MEk2TDZqWFpuWjBlRGZNdjZwNlFXVXBXM2VGTlZ5TDZCc3h6V0tKUTdHbWNaTDBVa1RM?oc=5"
+    },
+    {
+     "source": "Deccan Chronicle",
+     "title": "OpenAI Introduces ChatGPT Wallet to Let AI Agents Make Purchases on Users’ Behalf",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNW5OMV9YQm9SMEpxbnJpY3JhQjh1ZElnWVRCeEN6NGtkZ20yQk8zYmFsaDZBSkxOU2lFeTFMZ2duQWcwOElJZHU3NFdFcldSbTRhV0xTaG1oeUNsNmpTT3NscnV3a01ZSGtpeXZyenBNZHd0ZG8zUkpvRkQzcnRJS1lNN21jWWlVQm9ZRjI5LXlHUy1BUnJUaDlCRk8zM2FVNGtib1AxaHpnQWtIOTVjb0hzdGI5eVhYa1ZaLV9wSk9ySkJBOEFlMVJBc9IB0AFBVV95cUxPMkJfYkN6ZDV0SEtiZF9CTllYYmdFS0ZtcjZDaTJ2Yk1RS1ZRc2Utd2FLNDg0VTVGa3ZBUmhyV3ZjQ29sTWRnbTlZVE15WExPSFItQlJvcmQwZVBWTGFOWUIzNkp0cWNzcU1rNzRxcDRzcjRGNFhWTGJLM01iN010WXlKWU5wMnd0aDBLR3I1X2Ewek1sOG53Q1Q4RjFrMG9aSVU2b01VaGg3SldfejFPbW5iVm5BRlBZVHlXT0xoWnU5UVp3YkhnR2hGREQ1eW54?oc=5"
+    },
+    {
+     "source": "MarkHub24",
+     "title": "Open AI launches a Business Hub for brand visibility in ChatGPT",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYjdYdVJOeEhzZmVtbG1OcWhySXNGc0EtajZKTEVxdkNKc2lhMmpFTktlN0NYQjNUUWYwZEhoU09PV3gtNzY1NGtrTkdYd1RVQXVvUHhzZ3VFNGNXNUwwNF96a0NLeEdsVnJoVWtyYjI5TURjVWtvQjBfS1RRWkRuMGltaklyX3I1LWtFSGc4QkZONjdHaU5MVzln?oc=5"
+    },
+    {
+     "source": "Notebookcheck",
+     "title": "ChatGPT Wallet lets AI agents shop without seeing your card number",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTmJtT08tbXNmM04zRVBxbUE4akhNbEVCLUpnNmtzaTV1cDNRb21kNkVKU2thQ3dQUXphU3VhcEpIOGZiRldQWnhYRWZKNWdGNHI0M2dFZDE5UC1OQ2JMNklHVGZOaGZLdnMzVnk3NXNWM01EYmx6dXc3cHRwd0Z1YklXOGNzX1lXTGc4Y2tqR05oUlVuU21GODVyRDF6Q1dkUVIzVTNkdjBIeVFyTlJwUw?oc=5"
+    },
+    {
+     "source": "PPC Land",
+     "title": "Italy fines Meta EUR805m over photo galleries as OpenAI hands agents a wallet",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUjNPVS00bW5fRm0yaGtyWlE5MWNRdGlhQzBSZG1ha2ZwYm9oTm5VcW0zak5vaFFpa1lxSWRId0VySTNrRnJEbWZkSThRRGRrb0pNdzg3Tnh4WEdxVVE2VzRzVF9fS0prYTZiUHhFTWpmWlNqOElTX2dsaU91Wm1oSXJDTk9aRWZGNDUyam56dTBEUC1xMWtLMVQ3QQ?oc=5"
+    },
+    {
+     "source": "The Indian Express",
+     "title": "OpenAI’s new ChatGPT Wallet lets AI agents shop for you: Here’s how to set it up",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVDBzVFI3YlVjSTJnRFdidGhDd3otS3VIcVNwQmxjdnU5eXhpVU5hUkhoel9YYnFXRUpFQXBCTXZsdTNXUk1YcW9TbnNZUFBzN0J0Wm1BUktYOEg3cm9adUdXN2ZEUEp3NXFKN19seWswSWVVc3drNlhhb3A0TDZJaE5kR0VWWWpmSFZWWXN4bUFmVEhEb3BOdlZQVWxCZmRTNVR3bHR0Zm01cTdtcjFzRTZHNVFyNjBVQTdIZ1BZc9IBxgFBVV95cUxON0gyTTlrZW5Ub0lXY3FQeEtSN2d5ajQ5YlBZZWF6SnlNMTFVOVdlemdtWHVSdzFjSTVFYTQyRTJQZjVMREltd0czVHdSREtlUm5PcjRQS2J6WU5VNDV1c3h5Zkd6elpzVmRRLWJHRlVoRDhidC1WWEQ3ZTBqZ0ZhR1hQMjJNQWczakg2VnZIRGV0R0pFZ2hYdm9XVTVMRUZEMldyOWpDNUF3MFNQREdfdzlUNnJVYkVDb1R4bzNoV2pUazdLNXc?oc=5"
+    },
+    {
+     "source": "Inshorts",
+     "title": "OpenAI launches ChatGPT Wallet for AI agent shopping | Tap to know more | Inshorts",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcExET0VZbEhHOGtSQjJxWDNKVVFpYVpFQTI4OGY5MERVWjdPTGY3UFBGSng3UW5DVmQxeWNtc1hCRk1xeUZiWnc4MGRURl9HOTJFNFBiQnBQeHpNTnRob1dVWWJZNE9JbDZDUm4tVnB5dnc4VmhVUVRBZVpYT2JHd3hKTlZuSlBDRDEzZ2ZoZHdfODkyN3dwNVh5TdIBoAFBVV95cUxPaks5bTAxclhwWjNjQ1BKZ25waEJqRUJjTGZiRjByQ1ZhWDI3QlMtQXhlQjZvLTdxRTRHdmprdTlrOHpILTFrN2JrdFVXdEdqRXVHREtfb0VwYzNlNjhpbGtGdDk5bGVxMVlJaW8tR3E1bUQ3VFRrREpSUHE2bnJPZER3QU9GTFBRNUFSWXhqNHNnY0hEbW5EY3lNbzAyeWl5?oc=5"
+    },
+    {
+     "source": "Inshorts",
+     "title": "ChatGPT allows brands to track customer interest via listings | Tap to know more | Inshorts",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOW5uOFdjVWpPRXo0RzdhZTg1YVQ2dFg5UXRwcEhCLU5LcWdWZDN1d0w1UkNaUFRMb1hoY2hnV1YzUDh5REJlUW05Y0x3dXBFbnVmREEyREdfMTB5aDFySWstRXg0T2FDX1NFUTR3cmlLLUw1NmRMZWJlYUdmeXVqY0xscWRqcHExMXRZR1g0dGgxbDJvS09rTGMtSzdaRE5JM3FLcU13SdIBrAFBVV95cUxQRm1ZS3lhLTdJbnhYN3lVbmgxUjhRYmFua0RRTGxCenpzbjhsd2M2LVhNQ2FiODdtZjcxenR1X2ZOSW1tUjNOdTBxdXROYjhrN09GckdhVlhrOUhIRHROWDNpd0JZUFZUa0R4M1hTYVZkbm9iV1gtZnNKNHZWQ1ZPbDNlLXhJZ2E4bGhIS1NJdEVURTNqZE5LN1VnVVBvU3kwNTgyU3ZBTzZjQjBU?oc=5"
+    },
+    {
+     "source": "LinkedIn",
+     "title": "ChatGPT Wallet: How AI agents can shop and pay for you and who is liable if something goes wrong - CNBC TV18",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSXF0OHZWWEdZaWdhNjNCYk5aYURFbnBYNmZIY0JiLXpNZVk5UExrMGlURmZuZnpHUkNBZUlyVG9Bdmp0TXg4blhWOWNUd0JYakxLR1VnNGdGZzZrR3g0dDZBSjJVcW5iTDZ4U1dDQmlELV9RSUJMMWZMU04yajdxeG5LY0RsUzRBOTRuT1otLUc5eE8wTF9YUXRoVU9NMENsbzJWUzBNd1FqVVpObDAzQzczaXZRa2c?oc=5"
+    },
+    {
+     "source": "PCMag Middle East",
+     "title": "Trust ChatGPT With Your Payments? OpenAI Rolls Out ChatGPT Wallet",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMjRmb1h3cG1aQWtkUEluVjV2YU1mU0xBVWNBdEs3OEJUYUlQTWNNRUxHRTYzSjJDOVBEdXN2c0szRDF1clVOdEE5elE0T2RzanVKVzhBam5ndkdnN1BleXpMQzY4bDV5SDBzQU1tWHQ4X0VJYlNRcmRZbXVYdXdIRE11bVlTeGpOcU5QdTV2eXlXWDdwa2Z1SUtSLUhmdw?oc=5"
+    },
+    {
+     "source": "gHacks",
+     "title": "OpenAI Launches ChatGPT Wallet So Agents Can Pay Without Seeing Your Card Details",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNXZlbVVKbVV0TUlDRHhEeFBRMkw2ME0tZ2VmblVuRTFmU2ZRb2ZxRklDWENjRFlJSDBMQUQ4Y1hleWNpVzVRaTVNbzdsM21wVmotWmVSSklETXltVDBHSnlua1FvSHhady1CQjRldE9Rc2Y0QzBsaWR5Zk5XYjZEZ09nZ0hhQnByb05Rd3dpWjhJb2ZIam5qRTd1YUtuNFFIcy1YazRoc0xzckRNMWJkR19UdlpnYWc?oc=5"
+    },
+    {
+     "source": "Mashable",
+     "title": "OpenAI launches ChatGPT Wallet, claiming it's a safe way to have AI shop for you",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHeTFKZ0NySWhLdXF5bXRNLU5MOHJUUU9WcTVwOGFOc2xNaEstLVp6cy1Ia3BKTzJFczNBY2NOTW56SHJIWXRzY2UxY2NhQmJnQUgtZG5MemVpOG5XcWtUdjhWUzRjbjQ?oc=5"
+    },
+    {
+     "source": "Kingy AI",
+     "title": "ChatGPT Wallet Rolls Out in the US. Here’s How Checkout Works",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OS2lWSUw1dkc4cVh1R2JJUk9Pc01pcjM0TWMyOS1FNEFxNjd4RFExUlBVa3JYWlRuY0NtZURuandKMzJ2dUE2dDlxdWtreGJXN2tkM2hISjh0ZEtBQS16RVVKWGtSSnRMU2VCRXMydw?oc=5"
+    },
+    {
+     "source": "ASHARQ AL-AWSAT English",
+     "title": "OpenAI Launches ChatGPT Wallet, Letting AI Agents Pay for Purchases",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRF9WUXNFSjdLTkxoeHM1Q2RzdkxuXzNGLWtmR0tJRDNlQzVUNUdRZlYxZ0QzSmpObmFTOFJaRVdRTWxRQTAxNzJOZGNqNjNVaFkxOTA3dy1ZRGsxYzJRQ0s5V0xQbW84MHVmdHkwYVFvLXpsV2wzMjdQdFRjVTFoSzJDUmotd1pSSi1oRnZ1SVlPR194RzRfUGU5WjJmakk5d1JDdEZCdnpESXd6?oc=5"
+    },
+    {
+     "source": "PPC Land",
+     "title": "OpenAI hands its AI agents a wallet without the real card number in it",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmo5Z2ktUVlkUzZqOHkxQVhvSUtqdDdFU0wxMkUtekVZam5SODNVOExXbFdUSy0tSzEyRndVNEI5a2w5X2ViWjdsZk02eXhZRDZ0c3lhOXZ2Wm1iektJUDBmYjNVdW5iWFkxX3BmVTRKVVBDcXhUWXZSQlBlMzdpNzVLczBPSmhTVk1SWVh0S0hjQQ?oc=5"
+    }
+   ]
+  },
+  {
+   "reason": "Hype and speculation",
+   "explanation": "These were predictions: Gemini 4 rumors, AI-doom warnings from current and former OpenAI people, chatbot crypto price calls and speculation linking the Nvidia CEO saga to Anthropic.",
+   "items": [
+    {
+     "source": "Wccftech",
+     "title": "Potential Jensen Huang Comeback Threatens To Derail Rumored Anthropic Push Against Open-Source AI, As NVIDIA Board Urged Not To Rush Permanent CEO Replacement",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdXJIUkFNR25SaS1DNm04Um4wOGpTQ3F4dHZmUmtQNjlqYzBaQnh6RkplVkx0Zml3bGJqN0pnNE84elJocGZaWlhXQm4yd1BPTEpVMG4tYTVGazMweXJ0RVlfT3NCYkVqUmczTDdyZXNadE1RRElvMmFtNXNFV0lseExlV3BPTVFEMWNBd1dMVEtJMG5ZYVJfTEdfUUJ1LTdQVW4wdjVGa2R6Y05La3fSAbMBQVVfeXFMUDNUVzhySHgzcVE4cWx0djVjSV96NDZFbTBmNzFTaXphUFZMUVdEVlJhckRDRHNyV2pKd2ZyYXB2RXJ0MUZsSmVHRDBxcmVWMU91M1c3czA1VzdmMHI3LU0tVHBCamVBcWVhektKLWNGNTlBTEZGbWEwZDVuVGdtd2E0dGJDNHNna21BcklWbmdnOHhxMzZMVkVlUUtKRmNnQVpBLV82LW40U2tOUl9BWUJyRHM?oc=5"
+    },
+    {
+     "source": "Hydrogen Fuel News",
+     "title": "Anthropic’s IPO: Potential Impacts on AI Infrastructure and Hydrogen Utilization",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaks0aWxwTC1LN0FMVUp0X2tTcVowOFRDcWwwMnNJay1XRjNkTHhGbkw1NmRjakZWUVBNLXNJQm40Z3ZBdVkwZk43MmQzOXdhRXZxYk9DNHF4eDlldmxvOUJVNmJDc254OFpvTFBBSW91WUJ6Z2dLeVVHOFJCLTI3bnV3dGs3Y2pjbEhEV0lNZzhLblZBSWZLdmoxdExTRXV0Q2ZPQ01QYkN5RVBSZmotUHVpQ0FUclk1NVhuSjl4QQ?oc=5"
+    },
+    {
+     "source": "BigGo Finance",
+     "title": "Nvidia's Jensen Huang Resignation Saga Escalates: Rubio Accused of Rewriting CIA Memo, Anthropic Drawn Into Leak Controversy",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxdERUdlVXQjhXN0QzQzgtWjJPaGlVQjVzNkFWc09aTFdQV1dCWE4yZVZNYldaVE5vZ3ROZmVONEloMlMtUXE3Mk9FaTZ2RnVjUUFOTnhXZEMzelhoM2Uzb0JxR2poeVAzbFg3ZjZfOXlYRzVhZXc?oc=5"
+    },
+    {
+     "source": "24/7 Wall St.",
+     "title": "Claude AI Predicts Which Could Recover First in 2027: XRP or Chainlink",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaDRnOEh2Zy1DX0RHdGhiQjdqazFWeWdLT0d5X2c0S0h4Q29pOXpQU3VneTNWNFlrd2VFb0lxdU9EUDFkMTIzdVVYNUhSMGxGZU91b1I1ZVY5T0IzVG5VdnYybzUtV1V0SGVUOEdIWDNvN1Nia0J2WV9mNzhIS0dMNHhaT2pYckpJaFNpY0p0WGtsQTZEbTZfVDdpb1BQUjZmMHdYMWZOblpJR0xQcEJvWG42OHlyMHc0TTY0aFBNei16Ynl0Y1Zr?oc=5"
+    },
+    {
+     "source": "Nokiapoweruser",
+     "title": "Google is Training Gemini 4-And It Could Be Their Largest AI Leap Yet",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSbWd3UUJ2ZTdRLUZ1ejBPOGZQY2Nqd1V4Qkp3Xy1iT2Q4TGh3cURtYnBnVzhWRlNGaVBDTlBwMVNxRUpiZHpsVlB2a3REOG5GQUlXSEFsNGRYdjIyM3N1d1dtMzZFbTRkRE5OYmJIeWlUSDJmVzUw?oc=5"
+    },
+    {
+     "source": "Nokiapoweruser",
+     "title": "Gemini 3.8 Flash Leak: Is Google preparing to leapfrog Fable 5 at a fraction of the cost?",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYUpBakdUMjVKOGFKOXphbmh3aUpqbmxrOXNuQmhEcmhqYUk3OWV4cWctWTNkSm02anl3ZXZaSzNZY3ZUVUNsdVlRUDFoNVo1LWNnM2N3RmxMOEl1emMwV200MldYTXhRZ1drYXpjNHozbzF4U0tlakpDeDdUT1FHZ3h3Q3hYNXpZ?oc=5"
+    },
+    {
+     "source": "nokiapoweruser.com",
+     "title": "As Gemini 4 Krypton & Oxygen loom large, here is how Google AI’s element-themed Gemini 4 lineup is conceived",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzdk9wMVd2U1pyOVdCRThfa1lweTVSWnlzbi1ZdDd5VGl2amszOTgxemZJa0toQ2FPOERvRGlMMEZ6N19UQS02Q1puN2ZoNUpRN1ZvSTRCUXdwZXoxZFR4X3B6Y0NCOVZFNFRZNjlhNXk0VWlmc3JkRnZTRlBtZw?oc=5"
+    },
+    {
+     "source": "Nokiapoweruser",
+     "title": "Gemini 4 Enters Pre-Training as Gemini Hits 1 Billion Monthly Users",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmxFcW45OUhiN1E0b2hKWk9DS1JHWVBIZXJxWlVvVWYweFpZY0NtX2pzSGo2WjRtQnVDNUxjVTc1SWlmQnB4NGUzYVZWX2xUWGZKR0g5ZU1ybnZ5WnVXcXFFbm56bDFSb0V0WXNUQ3h1cFVQR3BobFZBYlgyamk5QWRJVGlGRUFsRlIzMGNTaw?oc=5"
+    },
+    {
+     "source": "Nokiapoweruser",
+     "title": "Google Teases Gemini 4 While Gemini 3.5 Pro Remains Delayed",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUTZidjlHSUFVM3RzRWhrcHRmUDk3QTNweUc2aENqdVRSNzRMd0d4T0xMcmVqbFk2TW84NGJaeWtsMFBJYV9FREVETWhXNHY1ZmtnZVJlN3NwVkU1NmdGX2U0dks0Z2FMcjJLd1BJakhtSlZSSVhLb1ZiaWZraVZVTUFJaw?oc=5"
+    },
+    {
+     "source": "Editorialge",
+     "title": "Gemini 4 Oxygen: Could Google Turn the Water Hypothesis Into AI’s Next Leap?",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHWDNrYndyOTVYUEFBbUNnRHFTa0FWOHNtc2pJYTdZcTFJTktPVVBjSmJkT3JpbzdvSUM5dTczX3M1ZGF6eC1NbUFaaXNjaU9TSjk4ZWxDTVdicVg5dmpBQQ?oc=5"
+    },
+    {
+     "source": "icobench.com",
+     "title": "Mark Zuckerberg’s Meta AI Predicts a Parabolic Move for PEARL Crypto",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOU5kcHVrMmFzSlRaNndVMkdPWU5WNlJ3TW5hWTd4S1FUTEtGM2tLdll4RndNcy0yUE84M2d6ZW0tVS1GR0Z2RXlwcHNtb3lhZnJIRXdwWndRME5GMjJNdFhMTzNPRUNlWDNlMVVKNTVzQWtMR3dfeUpBUEVvMy1pMXh1OUlidzBHQ2xKVXJ6TlJINFAxLXdzdFR3?oc=5"
+    },
+    {
+     "source": "The Canberra Times",
+     "title": "How Labor's rushed defence bill could put OpenAI staff with guns in Canberra's data centres",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFRKVGhNS0RUVVZuTlBiSUVld1BnNXM5aXdIOWZPYTBaUE5UVlB0UnNfQjFsZ3lHcmhCOFFyN2dXS3FvVjgtbVl0SG9lWHk5Y1FEWmZleXlMN29FRGNaMXhKMVR2VUJHa2FMSzhvSXo5NWc1eEpsNFNISkloZFN3Uk96UzhmUGdWaWU3R3dwY3RsNTVLY0pkV1RaSUhRblBDY1JYNlEzSDVpSHY3ZVE?oc=5"
+    },
+    {
+     "source": "99Bitcoins",
+     "title": "Sam Altman ChatGPT AI Predicts a Super Bullish Reversal for BTC",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOERzS1FyaF8tME9pSDZuVjAyM1Bxc1B4NmZodVFqMWpaWkQxb0J0T1d5WEZNeGd0MHlhSGpBNHBlRTg0UHVOSEkwbmlSSFRPaWpsNGN2ZmM3aUJNT1dqYXNaRW95VDJvYVdILWl6Qnl6RUNuRWtuRlFGN1F6OHBzRVJkT0Jab0pTM2hOOGt4ZjRDYm1UMzV2YlJ4SQ?oc=5"
+    },
+    {
+     "source": "재경일보",
+     "title": "OpenAI Board Member: AI Could Seize Human Control Within 3 Years : 테크/과학 : JKN",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Ka3ROUWI3RGIzSFpxSFZHVWYyWTBiNFl1Uk5MYTM0elJSbldZNVhDU0k2bjJoUWlMd3hQVnRpUTJZbEpFeUdSWHhDYlh6eURka0Z2Ry0xREVRSl9kWFRiRDlB?oc=5"
+    },
+    {
+     "source": "Finbold",
+     "title": "ChatGPT sets odds of XRP crashing to $0.5 by December 31, 2026",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUVZtY2hsSTBNTkxkU2FXTjU5dlFXc284RFlhM2dqWG1oR1RKU0VtTFJiVnYyWUI2UHlIeEVrZ19vWjU2cFdPNVRtdVFJVGpoamUwb2kzWEpXZ1lScXdJZVBudURXQjlFekdWTmZSeTcyX1JNSHUydHBUbUtSUFRwVmxhWkVoMWNZ?oc=5"
+    },
+    {
+     "source": "Business Insider",
+     "title": "Former OpenAI researcher says the 'most likely reason' you will die is due to 'an AI accident'",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUjk4UmcxSXEtTUFwYWZWNG81eWtWOWNGd2J5SjRvdWQwYm9tbUIxelR0UHdJYTZwZzNSeDhlN0N1eVhOR2gzMnZCNFZNby04TU9mdVZYSHJqb21HWWNwMm9TZE5QX0JJRF9xZHNIdWhNRlY3TmowMGw3anZITGExVFZBS1pjWEk1a1pqMEJTdDVPOXdpT2hpTTcyTWhzQ1E?oc=5"
+    },
+    {
+     "source": "eu.36kr.com",
+     "title": "OpenAI Robotics Team Sudden Disbandment: GPT-6 Astra Completely Upends the Entire Industry",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sYVFxNXJWTlRyVkUwelIwZnBqenNFM2Q2X2F5b0JjcDhoRFdObEFyTjVzV3dvSmlvazR6UjEzR1Z4cGZ2cTFHTzMxOHM4aVJWUHpV?oc=5"
+    },
+    {
+     "source": "BigGo Finance",
+     "title": "OpenAI Foundation Board Member: \"AI Accidents Will Soon Become the Leading Cause of Death for Humanity\"",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82LXMwc3A2S1hvWjgxSUlsWHlLVkdBdUFIbUc5elZiMEllMC1JN0lrN085TjB4aVlVSWY1ME5vZjRNTzBqSXpEdGZMbWVNS1RneGdJNlNTcnNsTUs0eUoxb3AtbEtORmFwTzhjbFBnZE5Mc1NROUE?oc=5"
+    },
+    {
+     "source": "Chosunbiz",
+     "title": "OpenAI Foundation director warns AI accidents could soon top human deaths",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUHNtWS00bm5qU2V0dEZ3WnZhSk1tWDRoeUVxb0hhM1J0N3NPem1LelhQVXRNT21XNUxiZGF0cTREQ2Nxdy01eGY1Rmo1UmxBX3lZZFR5RnZ4Tl9reUZlOUJiQXdheXZqRXd2MUloSWhfOV95QTR2U0JOR2JDaXRmSU5yLWJmWUli0gGcAUFVX3lxTE5XQnhfb3ZiVm1CRDA5QnRtZ0lUTnRMTzFJbFBSNnRCSGtNUVJLNnkxY3pXS29hY3IyaW5nRnhqOVZHcF9TRWNnc0FlaEJ1WnpiSGcydUJ1dDU0dFREYm5lSmpXSi1uVWg2aDZ2NTIzLWRCRXZTQ2lab1FCZnVvRE1CU1B1azNkOXhqSi1Pa3VPTEczdjNoYU1idl9TOA?oc=5"
+    },
+    {
+     "source": "news.sbs.co.kr",
+     "title": "\"AI-Dominated Society Could Arrive Within 3 Years,\" Warns OpenAI Board Member",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmRkhrM2VjdnU0bTRENVBmaVFqQ3RCRHVIUXVqSFNVV0MtemVzYk4weVZQUGlpaDhqeWJjZUZwWi1mNFByNkpWZVR0ZENtaV9TS1lUcUVJQ05YaXpiQ1QtQ25zaU9Yc3VHRzdhejZn?oc=5"
+    },
+    {
+     "source": "CryptoDaily",
+     "title": "Grok AI Sees a 35% Chance XRP Drops to $0.80, but Still Bets on a $1.05 Year-End",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTHJic3kwNkJNVm9vWWt1RnFCMGVyRHRZMnJ1WEphb2o0ZUUwQk9rV1dXLVQ2Q3N4VUdHbk9yQ1dSVDF6ZUZ5cUloRWNJQ3lpcVhlU3o1aWExaUdybVB6OGt0eTc0RkhrbTBNZkIzbWxzSVJiY1V3WVl0V2dVTW4yWnpibGxWTUVCVnozNHFCWEhYcHF5dGgyTkUwWHFQenlSSzJPZHVvUWJvNTFLNnVZ?oc=5"
+    },
+    {
+     "source": "JournalArta",
+     "title": "Grok AI Sees 35% Chance XRP Falls to $0.80 by Year-End",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQTNKSzBobUk1Uk5ZZmtjY3M2LWRXNW1NaWVNbk1kTmdpckxnRHZpeENwWmIwV1VHbExNZTUyb3RaTU5jV1c1SjlCQ1ppQ252cmdXTEFvX2RoSWhhSHd3RzFaOWs2Ynd6M1drcW9qYUgyMGpPSjZDWDRzSWpXWXAwQXNGZ2lSZG1nWlVYSHB5eFRTV3YxVkNFQ29R?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "title": "Grok AI Predicts How Low XRP Could Fall Before Year-End",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ3MxZUxaVVNoLURoMUFkWVp2UllsTkVIMWxJVHFCWU9SRE16Z0FrUDV2UDg1c21xb1A1U0pmSkVUUkhROUY3N2tKZ0xHeWw0anh4eDNGUEVGZW1wazhBd0NMLTcwNjNIb1hMUHlpRTFRWE5JdEFiYy1hbFk1VHhBaEN0X2pIRnVQWDRLYjlyeUVLaHc?oc=5"
+    },
+    {
+     "source": "24/7 Wall St.",
+     "title": "Grok AI Predicts How Low XRP Could Fall Before Year-End",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObmhRSG9yMHpCMVRQSmQ3b2txanlhN1I0YzdfalNaLThJdlREWExDdlp5dnp6ZjY0cUxmdHRuR0Z5MHdNZFptekVWeEwtYnJpdTg4a1E1YTRYNGs2bHF4Njk0VDd0Z1ItSE9qdzNLbEdxc1pnb2h4ZkhFYVVhT3dkaVRibFFSOTg0R19LZlNBU1pwZ04xSVZwVzZNSkN2OG4tVmJPaXNmenRwbzFXOFBFeVFxSEw?oc=5"
+    }
+   ]
+  },
+  {
+   "reason": "Single-source rumors",
+   "explanation": "Each of these came from just one outlet: an Anthropic gas-plant order, Gemini agents trying SQL injection, a Meta glasses heat shutoff, OpenAI terms and ad-deal reports, and xAI watermark, staffing and Pentagon reports.",
+   "items": [
+    {
+     "source": "CleanTechnica",
+     "title": "$3.4 Billion - Anthropic Order for Gas Power Plants!",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYThDOFJDb3J3ZENySm1hbTZXbUl4NXBkQmpMUUwwNU85cGtFZmQ4X0E3MGxxc3l1OENqbnNCdjRKbW5zR3hfNk15VDFrSzBselRvRnZUS3ZhaWNhNFZlenJyS3BzdjBXSVY0RGlpb1plMTJzblFnV3Y5OFgwMkRzRUZyX1ZSRGhpV3hoZFJORQ?oc=5"
+    },
+    {
+     "source": "FourWeekMBA",
+     "title": "Gemini 4 Argon Agents Tried SQL Injection on Epoch AI’s Site",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMEJNYkVrUlVCS0FaX2hYTVdrVmRBWVNsS09LdkRzYXZZNzVqZTBzVWVTa1hncW5PcGxTaXMyTThyY053N0hlVGFWSmlnZFhvM2gtc2NZY2llcjNRRDJRcXVnNVZMRU1GdVNRZU5RWjVhYjhJb3V4aWcyWjlhMk9lQmdINWF2alpFOEVZTzBHemM?oc=5"
+    },
+    {
+     "source": "Daily Mail",
+     "title": "United Airlines declares war on AI travel agents - in a major blow to Meta's plans to let chatbots book your holidays",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMmxqMmJIQW1QZTlrcFN2TlVaT3B0TzRfTkVBdUw0amI4ZWxkVVo5U0dJWlJBLS1uV3I4a2Z1c01BcGhGM1hrb2E4RjRTWWZ2NWJHMmJXN3BneTV6UXRaemRBS29WODBqNlRPem1ISUpJRFNPaldzRVMtbFNLQlFuWFZMY05jSHowc3MtZjY0czkwTDUtcWZzZUpzWdIBoAFBVV95cUxOZzZuSkZYcTdhWmZ3TFJZMXB5WFVBVm1SM19fbU9FX0R1bElKSURQeGY5WmZJeU94b3ZRWW9iRzU5bDU1Skd1N3NQYUVZMkRxYlRXRmF2TEVrbVQyRTlGZm8yU0JpWEE0b1dVVVRRSEpkUFpWNE9zWklFeXdoT0xQMTBnX2RSV2p4NnZCNms5MGFLc0x4UWYzclBUT3ZBaG1M?oc=5"
+    },
+    {
+     "source": "https://vr.org/",
+     "title": "Meta Adds a Heat Shutoff to Five Meta Glasses Styles After Moisture Made Some Pairs Too Warm",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYWhlclQtSlFjR0hmT25qZDBkcnhISnkwMHc5aW42VEI4XzRFaXI5UGhfZ21rS05Lbkc5VW1NSVFvRVg3SndLMjZlejNhWHg5SlgtTEhyXy1OYnN1d2VrYjctcVFmMUh1amFMUjZSSllOczVGV0xWdFVTcFNwa3FzaldyV29wSWhfS3c2cQ?oc=5"
+    },
+    {
+     "source": "Cherwell",
+     "title": "Oxford University Press announces pilot integrating content with ChatGPT Edu",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVXpSTUtzWEdpUVpPUF9ucnVlRUZHVjQ2aFRycFQ2UWxNcGZwUW5zUFd0MTZnM0R4dHI1dWctVHY3eGc1Q1F1ZmNQanVXcWJFNEo4RUZMaWwwUmo3bDlXYnBOXzNGbTJQODhIMTR6U3kwaHRkejdNOURMdXpMSzctX09BNzdscEdVajlxVEdvQi1xdEk?oc=5"
+    },
+    {
+     "source": "Nacionale",
+     "title": "From 7.9% to 48.1%: OpenAI model opens up another AI's brain and makes it much better at math",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT3UyTncybUFMZXNPbW5QcFZScEZiT0lmTnJHNXg1czRCdzU3YWZWbmowbjJoTGxxQi1aYzVvVkhUd293YVplZkZSUTZXV1owWFFHVFViT0pBNTR1VFpQZ0h3dkc0VlpJYnZ3QmJQb0NoRy1JeWx3SzdoblhoeDZTR2FoRmtTYTBZ?oc=5"
+    },
+    {
+     "source": "ContentGrip",
+     "title": "OpenAI, Aleph and the 44-market ChatGPT ad deal",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KSVcyN2xaSEcxUG9VWTQyMXBybHNNNVdDUGhJd2t2ejB1cGJOaUxwS0ZVN0c0R1JPY0o5VkRLX1NuWjU1RjU4OUJhYUhFMUlGSC15ZkZPbnBhZ2xQRkdzNmZLMA?oc=5"
+    },
+    {
+     "source": "FourWeekMBA",
+     "title": "OpenAI Bars Rival Training, Vets Model Resellers From Nov 20",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY0tnc1R3NGVuZnc4VWczMURBRFF5Q1FRZFB0TmpLZEY2aDFRU3psS2VhM0FrUi0xWWRUZENHRDZyaURtRUM3c200bk5RckVKZkhWbHNxYnQ5bFg2SHFFU3ZONzlEOXFKVE5OSlBESjVvSU1KdDNKaEhMdHlWYXQ1V1djcXByM1hmdmdfVldvMjI?oc=5"
+    },
+    {
+     "source": "FourWeekMBA",
+     "title": "SpaceX AI Ends Default Grok Text Watermarks After 2 Days",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWxSQjJmSjVibWlqSGVZendyUVdndkUxZzgzQkxjY09SN3FJdnp6N3lMUGxMNjVTcTd1c0JVTTBvTlctVEFjTWNubTJxWEhUYVlSN21YZzNETmdGb09LWXhGdTV2dmQxQ3AtLUtYTlhKM29yX0dJVEdnMWptaEtFOC1PaTJYNTgxOUpfTA?oc=5"
+    },
+    {
+     "source": "IMDb",
+     "title": "Elon Musk’s Grok Releases First AI-Generated ‘Odyssey’ Episode, Months After Promising ‘Historically Accurate’ Full-Length Film",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LZGc5YUpod3RmSUJMRF82QzN2ZS0yTXE5dVJTNlJRUnVuU21Wd0t5VEFlVDNXMVhheElRTG1keWpwN2VZb2R6d1plV3p0RVVQc0E?oc=5"
+    },
+    {
+     "source": "CASRAI",
+     "title": "SpaceXAI Reportedly Cuts About 60 Staff From Its Grok Imagine Team",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mRlR2SUlZc1MwbHRaYmNQVERiS0Npelh0Q2dIZmVockhFeGRFT3lmZzRkeWQ4Wlo4ZTBEZTlsbkxEYjBpbkg3YWxfWGFlcEFpclkxQlJKb3RGOFEyQkRybzVVRmRQNWhSMzBzMldn?oc=5"
+    },
+    {
+     "source": "Briefs Finance",
+     "title": "Pentagon filing says Elon Musk's Grok helped enable 2,000-plus munitions in four days",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNczVnem95QTE1c0xWVFlLMzhJMlppY0prQURNbU9Gb2F1ZDlNSmZmenRrcTdZQy1OWkF0cVlYSERiaXdmOUVORGFjUkJHY2FtRDdQVjBEVXdfM1BSaldiMFlFa24yRFMwMnpOU1NQUHB1amF2OWozUWJNOVJLaWRQNmJJbmY0NHJxZy1ya0hkd1FGZw?oc=5"
+    }
+   ]
+  },
+  {
+   "reason": "Repeats and syndication",
+   "explanation": "The nonprofits' AI-freeze lawsuit, Italy's fine on Meta and GM's Gemini plans were covered or set aside yesterday, and today's pieces add nothing new.",
+   "items": [
+    {
+     "source": "Cointribune",
+     "title": "OpenAI, Google and Anthropic Face AI Model Freeze Lawsuit",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeUFhZ2FMMFZNS003Z2dUQVVmTFBaOHdsNTdOTFUtSVdpdWMwSXhUWVoyeHZMYy14RUUxaFNUbXV1TFRwZzZMOEkwQ0Q4Qnd2by1ubnZ2ei01ZDdwUkswdFMxVDQ1VVF2WVo3ZURNa09wZHBNRkRBU0wyYzNVelBfQkUya19kck56aTBqaWp3VTBmdw?oc=5"
+    },
+    {
+     "source": "InsideEVs",
+     "title": "GM Hits 1 Billion Hands-Free Miles, Will Drop Google Gemini Into 4 Million Cars",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU3V6MEVJXzRIeTVJVGtReHktUU82T1ljVFV0dFFPWlVqZno0MTRjd2RlYi0xRFlTZ0ItWDhuSUFIaEdlV2xqeVlXUjBxNUh2WTNMX2tSd25IZ1ZTa29JUi04cEFtUTlaU0pfRVBoWFgtVGZpYThrVUF5VV9SSmN0UlhtR1BNdzE2UDFGTQ?oc=5"
+    },
+    {
+     "source": "Pasquale Pillitteri",
+     "title": "Italy fines Meta €805 million over Facebook photo access on Android",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMEh6MlVDVVN4dDhCNTVpTURfYV9BNzZrQnZodTZEbG1Fc0ZHRGRIOURySmlQc3pvNVE4dExNTzRhNk0wdzlIRE9oNkJMM0JVb1hmTVlyb01CdHRXeXpFNzIzOFE1czF1dkN2YVZVcUVoOVpmYWNxSUJqZnhnMGFwUHBSdFpqRFkzaERyQTdWZDQxTTFGaG9CNkwxSVdZMlR6?oc=5"
+    },
+    {
+     "source": "B2B News",
+     "title": "AI freeze lawsuit vs Anthropic, OpenAI: the real NZ risk",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTcxVVpQX2piQXhFRkluT3ItNzh3MTBFeHQyYkt3WHdITkhYYXctcDRQWlA0bmp0eGI0bFNZMnFTZmpKN2MzZ3oyeThoY2lFM2hiZUk2NkZiRmhSN0VqZ0tBeGtjNXNua1pham1mS1d3bkRtbWdmU2otaFd0aGgtYVA5WGJXRGJnYlE?oc=5"
+    },
+    {
+     "source": "Dealroom",
+     "title": "Nonprofits sue OpenAI, Anthropic, Google, Meta and SpaceX to freeze frontier AI at today's level",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbUJVWnRhQ2VRU1pXc3JORWhVOXNKTjRTYjJxS04wVjV5Skp5bWpGU3hwX1lfaEJlZklQSXpxeDU2V3JwWDEwOVltaXY2VnhOTGlnS1BUNHR2c3l4NVU3QTNvd2R0VlBXamFXU2k3aklYdnIxQ01wLVIxNzJ1RV9jcWlFNjE5Vm83c1ZZS095dFB5RC1iVjYtNzBYWVBpRUc0ZGl3R2czM3A1QnM5dkdhMjB6RGt6MXV6Qy1pNnZNZWRySXB2eVE?oc=5"
+    },
+    {
+     "source": "Pasquale Pillitteri",
+     "title": "Four nonprofits sue Anthropic, OpenAI, Google, Meta and SpaceX to freeze the most powerful AI",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcDdQcllBa0MzY1JPa2VabTFoS09SR090M09qbVIyU3JrTVgwc2gtbTN1eENOR3JNd1FJQ2JydHdvcmIxT0NQemVZYzJOemJmUV9NNGNvUHJUTHRneGh1b18zMGZQNjloZmlLbzJDTFhkUFJwQzhKQTMxSFJ5eG10OFQ3c3QyZS11ckw1R09MVXBfVUNOQUFxMkhjS1JSX2xtUXBFVlNB?oc=5"
+    }
+   ]
+  },
+  {
+   "reason": "Other",
+   "explanation": "Anthropic's official post about a London event on AI and science came without any detail of a product, policy or other change to report.",
+   "items": [
+    {
+     "source": "Anthropic",
+     "title": "Anthropic in London: AI and Science",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QV0g3WHluSnFnU1Y2QWlHSkx5RTZwd25fZEhkM28wZ3U2S0pFczdhQUZBOHFibVh1N2kyUWIyMjdIVUtld0EyeDg3Q2cyNWZUQi1BMFBWTWE2bmJKYkdGS0xzNGdZeHFyVVVDa0QzaENYU0xSZXc?oc=5"
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "items_read": 283,
+  "official_posts": 4,
+  "outlets_read": 185,
+  "feeds_failed": 0,
+  "reading_minutes": 2
+ },
+ "previous": "2026-11-14",
+ "checks": [
+  "OpenAI: \"Second outlet reports OpenAI's Daybreak security agents\" has one outlet, marked unconfirmed.",
+  "Resolved 13 of 13 Google News links to their original sites."
+ ],
+ "usage": {
+  "model": "claude-opus-5-5",
+  "via": "claude-code",
+  "input_tokens": 26223,
+  "output_tokens": 14189
+ }
+}
