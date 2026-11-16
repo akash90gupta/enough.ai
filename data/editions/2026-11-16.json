@@ -1,0 +1,1041 @@
+{
+ "date": "2026-11-16",
+ "written_at": "2026-11-16T22:23:54.717Z",
+ "the_day": "OpenAI announced healthcare agents, free model access for 200,000 researchers and outside safety assessments; Anthropic shortened its bug disclosure window and reportedly launched Claude Sheets; Google added Gemini voices and Maps features; Meta and xAI were quiet.",
+ "companies": [
+  {
+   "id": "anthropic",
+   "name": "Anthropic",
+   "items": [
+    {
+     "headline": "Anthropic launches Claude Sheets spreadsheet tool, outlets report",
+     "points": [
+      "Several outlets report Anthropic has launched Claude Sheets, a spreadsheet product.",
+      "Crypto Briefing describes it as a move into Microsoft's spreadsheet territory.",
+      "Cloud Wars reports Anthropic is bringing a range of productivity tools together inside Claude."
+     ],
+     "reported_at": "2026-11-16T21:08:02.000Z",
+     "x_keywords": "Claude Sheets",
+     "for_you": "Claude users may have a new spreadsheet tool, but today's items give no details on which plans include it or what it costs.",
+     "kind": "Launch",
+     "status": "reported",
+     "continuing": false,
+     "outlets": [
+      "Crypto Briefing",
+      "The Motley Fool",
+      "Cloud Wars",
+      "Yahoo Finance"
+     ],
+     "sources": [
+      {
+       "source": "Crypto Briefing",
+       "title": "Anthropic launches Claude Sheets, taking aim at Microsoft’s spreadsheet turf",
+       "link": "https://cryptobriefing.com/anthropic-launches-claude-sheets-microsoft-office/",
+       "published": "2026-11-16T20:52:02.000Z",
+       "official": false
+      },
+      {
+       "source": "The Motley Fool",
+       "title": "Anthropic Launches Claude Sheets. Is Microsoft's Stock in Trouble?",
+       "link": "https://www.fool.com/investing/2026/11/16/anthropic-launches-claude-sheets-is-microsoft-s-stock-in-trouble/",
+       "published": "2026-11-16T20:48:00.000Z",
+       "official": false
+      },
+      {
+       "source": "Cloud Wars",
+       "title": "Anthropic Consolidates a Range of Productivity Tools and Functions Inside Claude",
+       "link": "https://cloudwars.com/ai/anthropic-consolidates-a-range-of-productivity-tools-and-functions-inside-claude/",
+       "published": "2026-11-16T15:00:00.000Z",
+       "official": false
+      },
+      {
+       "source": "Yahoo Finance",
+       "title": "Anthropic Launches Claude Sheets. Is Microsoft's Stock in Trouble?",
+       "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-launches-claude-sheets-microsofts-210802535.html",
+       "published": "2026-11-16T21:08:02.000Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "headline": "Anthropic shortens its vulnerability disclosure window to 30 days",
+     "points": [
+      "Anthropic updated the timelines in its coordinated vulnerability disclosure policy.",
+      "The Next Web reports the disclosure window is now 30 days.",
+      "The Next Web links the change to AI finding software flaws faster."
+     ],
+     "reported_at": "2026-11-16T21:10:27.000Z",
+     "x_keywords": "disclosure policy",
+     "for_you": "If Anthropic reports a flaw in software you maintain, The Next Web's report suggests you will have less time before it is disclosed.",
+     "kind": "Policy",
+     "status": "official",
+     "continuing": false,
+     "outlets": [
+      "The Next Web"
+     ],
+     "sources": [
+      {
+       "source": "Anthropic",
+       "title": "Updating our coordinated vulnerability disclosure policy timelines",
+       "link": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
+       "published": "2026-11-16T14:32:51.000Z",
+       "official": true
+      },
+      {
+       "source": "The Next Web",
+       "title": "Anthropic cuts its bug disclosure window to 30 days as AI finds flaws",
+       "link": "https://thenextweb.com/news/anthropic-disclosure-window-30-days-ai-vulnerabilities",
+       "published": "2026-11-16T21:10:27.000Z",
+       "official": false
+      }
+     ]
+    },
+    {
+     "headline": "Anthropic says a recursive self-improvement risk alarm was triggered, Gizmodo reports",
+     "points": [
+      "Gizmodo reports Anthropic says its recursive self-improvement alarm has been triggered.",
+      "Investor's Business Daily separately reports a group says Anthropic's AI acceleration is nearing risk thresholds.",
+      "Today's items do not say what steps, if any, Anthropic is taking in response."
+     ],
+     "reported_at": "2026-11-16T21:22:00.000Z",
+     "x_keywords": "self-improvement",
+     "for_you": "",
+     "kind": "Safety",
+     "status": "reported",
+     "continuing": false,
+     "outlets": [
+      "Gizmodo",
+      "Investor's Business Daily"
+     ],
+     "sources": [
+      {
+       "source": "Gizmodo",
+       "title": "Anthropic Says Its Recursive Self-Improvement Alarm Has Been Triggered",
+       "link": "https://gizmodo.com/anthropic-says-its-recursive-self-improvement-alarm-has-been-triggered-2000840253",
+       "published": "2026-11-16T10:00:29.000Z",
+       "official": false
+      },
+      {
+       "source": "Investor's Business Daily",
+       "title": "Anthropic AI Acceleration Verges On Risk Thresholds, Group Says",
+       "link": "https://www.investors.com/news/anthropic-ai-research-development-model-capabilities-growth-compute-ipo-ant-stock/",
+       "published": "2026-11-16T21:22:00.000Z",
+       "official": false
+      }
+     ]
+    }
+   ],
+   "quiet_line": "Nothing new from Anthropic today.",
+   "coverage_only": false
+  },
+  {
+   "id": "google",
+   "name": "Google",
+   "items": [
+    {
+     "headline": "Gemini app adds 66 regional voices on Android and iOS",
+     "points": [
+      "The Gemini app now offers 66 regional voices on Android and iOS.",
+      "Google says users can pick a voice with a natural, local dialect."
+     ],
+     "reported_at": "2026-11-16T18:45:00.000Z",
+     "x_keywords": "regional voices",
+     "for_you": "If you use the Gemini app on your phone, you can now pick a voice with a local dialect.",
+     "kind": "Launch",
+     "status": "official",
+     "continuing": false,
+     "outlets": [],
+     "sources": [
+      {
+       "source": "Google",
+       "title": "Regional voices are rolling out in the Gemini app.",
+       "link": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
+       "published": "2026-11-16T18:45:00.000Z",
+       "official": true
+      }
+     ]
+    },
+    {
+     "headline": "Google adds holiday travel planning features to Ask Maps",
+     "points": [
+      "Ask Maps can now help plan holiday road trips and give route tips.",
+      "Google says it can also find local appointments and search your saved lists."
+     ],
+     "reported_at": "2026-11-16T14:00:00.000Z",
+     "x_keywords": "Ask Maps",
+     "for_you": "Google Maps users can ask Maps to help plan trips and to search their saved places.",
+     "kind": "Launch",
+     "status": "official",
+     "continuing": false,
+     "outlets": [],
+     "sources": [
+      {
+       "source": "Google",
+       "title": "New Ask Maps features to help with holiday travel and prep",
+       "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+       "published": "2026-11-16T14:00:00.000Z",
+       "official": true
+      }
+     ]
+    }
+   ],
+   "quiet_line": "Nothing new from Google today.",
+   "coverage_only": false
+  },
+  {
+   "id": "meta",
+   "name": "Meta",
+   "items": [],
+   "quiet_line": "No new product, policy or deal from Meta in today's items.",
+   "coverage_only": false
+  },
+  {
+   "id": "openai",
+   "name": "OpenAI",
+   "items": [
+    {
+     "headline": "ChatGPT for Healthcare adds computer-use agents and clinical plugins",
+     "points": [
+      "OpenAI introduced computer-use agents for ChatGPT for Healthcare that work across healthcare software.",
+      "OpenAI says it also improved clinical answers and added new healthcare plugins."
+     ],
+     "reported_at": "2026-11-16T06:00:00.000Z",
+     "x_keywords": "ChatGPT for Healthcare",
+     "for_you": "Healthcare teams on ChatGPT for Healthcare get agents that can work inside the software they already use.",
+     "kind": "Launch",
+     "status": "official",
+     "continuing": false,
+     "outlets": [],
+     "sources": [
+      {
+       "source": "OpenAI",
+       "title": "More ways to move care forward with ChatGPT for Healthcare",
+       "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+       "published": "2026-11-16T06:00:00.000Z",
+       "official": true
+      },
+      {
+       "source": "OpenAI",
+       "title": "Advancing computer-use agents for healthcare teams",
+       "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+       "published": "2026-11-16T06:00:00.000Z",
+       "official": true
+      }
+     ]
+    },
+    {
+     "headline": "OpenAI expands free frontier model access to 200,000 researchers",
+     "points": [
+      "OpenAI is expanding its ChatGPT for Academic Researchers program to give 200,000 researchers worldwide free access to its frontier models.",
+      "OpenAI also started a science blog and published a survey of more than 1,800 scientists on how they use ChatGPT."
+     ],
+     "reported_at": "2026-11-16T17:00:00.000Z",
+     "x_keywords": "academic researchers",
+     "for_you": "Academic researchers may now qualify for free access to OpenAI's frontier models through the expanded program.",
+     "kind": "Launch",
+     "status": "official",
+     "continuing": false,
+     "outlets": [],
+     "sources": [
+      {
+       "source": "OpenAI",
+       "title": "Broadening access to AI for scientists",
+       "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+       "published": "2026-11-16T17:00:00.000Z",
+       "official": true
+      },
+      {
+       "source": "OpenAI",
+       "title": "Our new blog for science",
+       "link": "https://openai.com/index/our-new-blog-for-science",
+       "published": "2026-11-15T22:00:00.000Z",
+       "official": true
+      },
+      {
+       "source": "OpenAI",
+       "title": "Science at the Frontier: How scientists use ChatGPT",
+       "link": "https://openai.com/index/science-at-the-frontier",
+       "published": "2026-11-16T12:00:00.000Z",
+       "official": true
+      }
+     ]
+    },
+    {
+     "headline": "OpenAI gives four outside groups embedded access to evaluate its models",
+     "points": [
+      "OpenAI began embedded assessments with Apollo Research, METR, Transluce and Goodfire.",
+      "The groups will independently evaluate model alignment, safeguards and monitoring systems.",
+      "OpenAI calls this the first phase."
+     ],
+     "reported_at": "2026-11-16T08:00:00.000Z",
+     "x_keywords": "embedded assessments",
+     "for_you": "",
+     "kind": "Safety",
+     "status": "official",
+     "continuing": false,
+     "outlets": [],
+     "sources": [
+      {
+       "source": "OpenAI",
+       "title": "Our first phase of embedded assessments",
+       "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+       "published": "2026-11-16T08:00:00.000Z",
+       "official": true
+      }
+     ]
+    },
+    {
+     "headline": "OpenAI announces new tools against online child sexual abuse",
+     "points": [
+      "OpenAI announced new tools, practical guidance and partnerships against online child sexual exploitation and abuse.",
+      "OpenAI says they are meant to help prevent, detect and respond to it."
+     ],
+     "reported_at": "2026-11-16T17:00:00.000Z",
+     "x_keywords": "child safety",
+     "for_you": "",
+     "kind": "Safety",
+     "status": "official",
+     "continuing": false,
+     "outlets": [],
+     "sources": [
+      {
+       "source": "OpenAI",
+       "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+       "link": "https://openai.com/index/strengthening-online-child-safety",
+       "published": "2026-11-16T17:00:00.000Z",
+       "official": true
+      }
+     ]
+    },
+    {
+     "headline": "LVMH's media division signs partnership with OpenAI",
+     "points": [
+      "LVMH's Media Division and OpenAI announced a partnership to support journalism with AI.",
+      "The deal aims to make LVMH's publications more accessible through ChatGPT."
+     ],
+     "reported_at": "2026-11-16T09:00:00.000Z",
+     "x_keywords": "LVMH",
+     "for_you": "ChatGPT users may see more content from LVMH's publications.",
+     "kind": "Business",
+     "status": "official",
+     "continuing": false,
+     "outlets": [],
+     "sources": [
+      {
+       "source": "OpenAI",
+       "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+       "link": "https://openai.com/index/lvmh-media-division-partnership",
+       "published": "2026-11-16T09:00:00.000Z",
+       "official": true
+      }
+     ]
+    }
+   ],
+   "quiet_line": "Nothing new from OpenAI today.",
+   "coverage_only": false
+  },
+  {
+   "id": "xai",
+   "name": "xAI",
+   "items": [],
+   "quiet_line": "Nothing new from xAI today; most coverage was about Elon Musk's other ventures or about Grok Bot, which launched earlier.",
+   "coverage_only": false
+  }
+ ],
+ "left_out": [
+  {
+   "reason": "Stock and valuation chatter",
+   "explanation": "Most of today's Anthropic coverage was about its IPO, expected to price this week: market moves, previews, Altimeter's reported $5 billion order and employee trading plans, with no new formal step from Anthropic.",
+   "items": [
+    {
+     "source": "The Motley Fool",
+     "title": "Could Anthropic’s IPO Reverse the Market’s Sentiment on AI?",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdTZrQVB3LWJSdGhaem52ZjJ2cXVlbURnd05NWTgzVTNGQzlGQmVzRGg5RHBWOWh6ek40b0RTdnl4a3R3c0ZaLU1ERGtzdFRUdnhUUEpaU2NfXy1adHFsWkVhVUpualZXZUlxeVZab09vVDJpR2JkTF9pVUFSUGRlU3RBQTNCYjlRWnd0MzZsUlNzVEFnM2ZmR2xFRjJIX0xwUVR3?oc=5"
+    },
+    {
+     "source": "Reuters",
+     "title": "Anthropic IPO will be 'super healthy' for the AI industry, says expert",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvYVA2RVNRYW5vQ0ozaVVZUVE1eDJOU2xYa3Y3ejJLOHJRVkFvUnRFMEwxN2w1Tmo3ZENSSlpjbjdhcHZQZkhHYjZJNXBRZlNNVnFkRGU3dWdTX0JkdmVWN252YWFIOU0?oc=5"
+    },
+    {
+     "source": "AFP.com",
+     "title": "Tech shares slump ahead of Nvidia earnings, Anthropic IPO",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR0lkZXRNQ0hxS043UDlWWWNJR29TVzFkSG5zdXd4VDZZUFhDand1Z1RKTkZkRXp1QnJIdHRFUzhlYjYyX05CQ2ZvazBnQlNPdWxVdVJpX1RwaDBsQnBEV3dHVXl4dWtXRm1CYVN4NWxfbTdKczRBYXFqRzV3Wkhaa2tR?oc=5"
+    },
+    {
+     "source": "CNBC",
+     "title": "$1.5 trillion Anthropic IPO looks attractive, says William Blair's Arjun Bhatia",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNjRsTUQ3X3ExQ2RKMmdnTHI0bzVBVTZVWk9fTm1SczVTNzZiWWxiVnRpaE5qWG9WYmUycFpSU3RrZmdYbHBxN2NhcnV2OTFDMWVRUWladEpuVVI0U3lHWGlIWko5bm41c2ZvRzY5NmtfUGhJZnUwamZBdDVfVUJxcEhYakxjdkpJNVlBRTVBdWNLc1hWTXNHaUsxUi1hRFhnZC1GOGlYWmpTUXl6Y3ZtN2xvRTdOMkRscnlmbmRPek8?oc=5"
+    },
+    {
+     "source": "TradingView",
+     "title": "Anthropic IPO: 5 Big Ways It Could Boost NVIDIA Stock",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdDVRYkRsdklrYk02clgwZDk2bUp3T0tzb05DdFJCTW9Fd1I2dXJ5MENRZ3oteUFLN1ZqNVJheS1wb1VQZS1EQ2Z4dTFLbmZOSWhYU3hPWFJFUUNvWXdHM25SblI3RjM5emFlWURKMkxsdmtIdHdMTWV5bnYyZXpoVjd2elNRX2lyM0dXY3NHdlZLOFlWdEFsRzE0aS11eFNvVXhHdWJFSkVsajJF?oc=5"
+    },
+    {
+     "source": "Bloomberg.com",
+     "title": "Watch Anthropic Fervor, Vanguard's 'Hot Sauce,' \"ETIFs\" Emerge",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mRGJNYkwwclJaYzJseVh4MjF1S3JHV3RHMGtxRmZHdGVpeU5XSjIyR1JnM1ROQmJ5bXZhcGZMN1kzUHlITDZWcEhTMnhWbFJmWHJQVzVyZ3VYeHRwRk5LSlBRNFFyYnFUV21zdDFRRmdMTm1RY0lJNjV5dmo?oc=5"
+    },
+    {
+     "source": "Crypto Briefing",
+     "title": "MSCI eyes November 30 index entry for Anthropic after expected IPO",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41YVlJdTloY1JRSFotZUg4dXV4dHpYSDliWGRKX084dmQ5amZjUkp3cjJITlQtWGpGVDlvTXRQV3hUaDJoOVAxaHRxSUhaam1VNlRiWHpmTThGQWxuQnQ2ZlliMHFFa2o4c2RoaTZOUQ?oc=5"
+    },
+    {
+     "source": "Yahoo",
+     "title": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSQ1pDVlVaUHk1NHkyN0FyMkhmQlJubU9XRGNTRWk4aTBUWTFwVDAzUlUxbjY0NDRYMEtGckhpN2loa3lQR2NreXB0QWxUVUs0VEIxYmkzYmFNWUFHLURDMk0wQ0ZYVlJhVnZkWWt3UWY?oc=5"
+    },
+    {
+     "source": "Bloomberg.com",
+     "title": "Nasdaq 100 Plunges as Nvidia Earnings, Anthropic IPO on Horizon",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWtEOGtHd0VyaHpJRnEzcDYtRklURlFfcFByaFNfQ2dhLVJTbkFoSklXeDd3X1dwdVRRR2JVYVRxazF4NGFzd1o5TVZsR0xWbWFuYnd3eU1fRzNBMWNUY1FzeFZLcWQzWFRPT0Y4SmRCUUVleTVIZzFkRmhCQ1pKMjNlSTVjMGI4aTZnd3k5d3lPUG1XTFpnSHlHN2Zoa3BKUk1hUFdKdUczX20xNFEwNDU1Yw?oc=5"
+    },
+    {
+     "source": "Crypto Briefing",
+     "title": "Anthropic IPO fuels US luxury home sales surge: Serhant",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQk1GLWt6dE9XbldBM1lIaEhCbUd0V0pmeDVMemJoM1dmZ05OQ1cyYnVabjV2RUZKcUVyUDZEMzJacmxIMDhrenppeEVNbUI3N0J0OThtekdlMF9neFctWFM0ajZGLVl0U3NEWTFMbHlpRW5ZejFvYy1RUG16VW5Zd3VtNGFma0lMakE?oc=5"
+    },
+    {
+     "source": "Kiplinger",
+     "title": "Nasdaq Falls 626 Points to Start Nvidia-Anthropic Week: Stock Market Today",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUzdLbW5LS0V4WDkzdi1Ca0pUQW9sV2lKdzhpWnZFcGpVQnVVc3Z1d2ZmcGVuclBQQkpCSE1PakxVMHI0SzNyejNhdlM4WkdMNTFlZmtTSTRFQ0Z0azBJWmFzc2Q4d3hLX2JEWldlV2dBa055OXo4M1VOalA5UWtNU2M1UkNYYm1vc3NwOTVWZzZFXzM3eEgyVC1zczkzejhHMGgzd0daVmRJZndKakgtV0JNTXJnUHc?oc=5"
+    },
+    {
+     "source": "Reuters",
+     "title": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEJobHpHMl90WUdVbnpzSGxLb1l3bi1BczhrN29iVW9rUzBtQWE4aFNuM2ZGS1RIQThLdEZPWmZjeExVaHhRaXBubkdqR3R3TXJYTlRqUmRYcXZxYS1pV1lyRlExUDdEUWJ3cTg4aktJVWcxbkg5UW9oeVRXLXhCZjdRQmFNeFJlLXhpWTRMM1lEUVlodGwxVHNCSE9ONTlnem0yekw1dDNraElYZGc?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "title": "The Anthropic IPO Is Coming. I Wouldn't Buy on Day 1, I'd Do This Instead",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVVlncHhXUkVTcDZ3cFFWVU9ZWWtHX2FZLUN4MThsLTlwNkpyUTVIRGR1Z2VQZXFsblVFOWNncnF0VkJiNFNrZUtmcUQzRTd4TV9RRW13cFdUNTdaTmJvaklsRmU3UjNfSWx2NHJQV3R3RGtoY3UtcUxJX0d4SW5DeUFWSFNBRzYwckZ4Z1F1TkZYUV9xVDRMVGhmNW9uZw?oc=5"
+    },
+    {
+     "source": "Bloomberg.com",
+     "title": "Watch Anthropic IPO Is Creating Luxury Home Buyers, Says Realtor Serhant",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNakFIUDVtNlZUOXE2Yk1kOVBhbzlXWmxJY21zYmxhcFdBSU4zYnBIQzR5RWhEa0drOEhjdEI3TElqa3dYbUFwMDlVQjBfXzFLVUkzQ1dnZjN6cTRkTVJNa21KRnA5T2tpd1BKM296V3V6OTlMbTNsV19PYTJKTEtvQTVxQWJmNW85NFJyYUY5TGN2U3hrYVViMVRLOEhwR1RTaVNlaWdIeU1aWjg?oc=5"
+    },
+    {
+     "source": "Breakingthenews.net",
+     "title": "Anthropic to likely extend exec trading plan to employees",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOWZTWnhGa0RGa25lYTRVbWtZWmhFM3FNS04yNTg2cUdBUEViSUZLOGtrd256ZGgwU1U0SFF6aE1PbUlZakY3bk5OUXRBWE13UGFTVkVqQVB2dUxxZkIyYWx2MjNHZ1BhSVlBS08xWUZiOGJ4M1h3QzFCbXNZZmlHSzgyV2lBMEJRdEFtWV94QzVWREJjUk54dmhTaElqaVJsZVRxUg?oc=5"
+    },
+    {
+     "source": "WGN Radio 720",
+     "title": "Noon Business Lunch 11/16/26: Nvidia future, Anthropic IPO, Uber parking app, Hey Nonny",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU25TX0J3dml0a0JIWlhLWnBRaENGWTNuTThZemlMTmFSYUVUYmlfXzBHQTU0NkVKc1VZNjdwc1BvMEN6ZGMwOTNUWjZQRXptNFUtbm1BbTdPRXNiWkt1VGY0NDMtcHhNOE1xM0R1WjR6SUNXSENOUnhfWUlQUmpYaWtzTHNVdFhHM2RvVmdhVGo5Y3VnNUJsVmZmTW5fdnhGXzZNbFJmTGd1UEpBRl9PV3lmdnltVHVBcjZJcdIBwgFBVV95cUxPb3hiY2NVYkQxRmtCTThqbElBdkpfSnhQaFJub1pqNlU3RnlJTHZRVndXZldxSkNfZTBCT3dnWXBpY2IySWlXbWRBT3I3aVppdmlNRE9qSHJjcUUwZ0o2dDdpYkhzejFQZzJQa1UwbGpXWTlHZ01pZDFmZ0VVRVRmYUR0LXkzLXBTUUp2WHV6QVdidDE4cjBjb1NlWWhBRnJrTUNDTGpSMzQzOWo2eHg0OXlxYXpVREJWRE1ySjJJVHVoUQ?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNmszM1lzclB2RFRmdXhEOE54WUJHUUUwNnl5MzVPVXpRS2hIS0t3Xy02dExtRnFUb21aWmNmc3pWTDBYb1ZpVWZMQUdLU01xQndwOEV0THZhWGp4bUZhX19tUnlmNGszYjF3a1ItVGhJRlNrR2ZlTVJ3ZzJZNG01MnNucnRkS0xwN3NnOUZFTTVTLXZ5bzRkVkUzSW4?oc=5"
+    },
+    {
+     "source": "WSJ",
+     "title": "U.S. Stocks Fall as Nvidia Drama Continues",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS3NsU18tTmdONnFEdnZIZzUyb3JXVFVpQjhhQ04tcG15MFpUclFpeTVUczh3X3RmRWZ4eWQ2Tk5SbUwtVlBvaGNSQ3N6MXRYa0tSVk43alVlMFZNTGZRdnNDWHlQcUwxMjNtR3lnVU5zbkJpQkpta0R5anRiQ01rVTZhNDdqbEtsMWFnWms2ZzFHVUJLSWlZdXhlZFlIWXk0dUVOS3M2elFGOFhuRFU3bk9MOVgtMnJ6azltUGktWXdhd2lRaUZMYkp5UQ?oc=5"
+    },
+    {
+     "source": "CNBC",
+     "title": "The excitement is Anthropic is the first AI product company to go public: NYU's Aswath Damodaran",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbXJ4cDBKeUtFby1vWkhpY1dtVjFQWWJEeXFZSWluX1EwUjhlUFBlLXFIOWFCdHRQaVlxSXhBWVVwaXMzRWJsb1RGd0dvcXB2d3BKSXMwWktpLVpnRXJZVzduTGdMWEdwcE9Ic0tQVHdGcXo4TjFGbmpVUDh3TzB4U0UyNEpMTHhSY1kzZnpZY1lwY3RtMmZzeTlIeUJwT0pENkt1RlhFbUdMQVhYT05uX1JNVU8wcWZ1VU9fWUVySUFvR3VaU2JlX2VSMGhiY1k2cVJr?oc=5"
+    },
+    {
+     "source": "Business Insider",
+     "title": "Anthropic is putting every employee on a trading plan usually reserved for executives",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYjNSSlhMdnBsYUNPLUZ4YV83aXcxUXBvYVBnblEtNWt3cjktWmlxdlNUalFKTUlXcEhjSkNmNjBOelJGcDZwYkZ4UkdrTzlkZmVic1d2R1dTMDk0dG1ialljZlZMcldvb3p2OXdBQVFxTzE2a1FxSFdUQmlhYmViazRLZHBHbWZySGxiTGdodmphUWozMGI2M193bUVBdw?oc=5"
+    },
+    {
+     "source": "Bloomberg.com",
+     "title": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3BQd2lUam5YX1RGekdqV203U1BmRzNUQnlhem10ajRycVpfTUYzRWtOM2h1ZDd5M2tvUnNXeG1VOHRGTEl4VkJsSUhuQk41UlcyNU1EZDJaSTNTd2NvM3lDUDV5NU95SUtxSHZaZEpjSnMxRGgtamUtb0lYWUtHMTFZZDBLblVaeXhVTEhSa2ZPeF9y?oc=5"
+    },
+    {
+     "source": "TradingView",
+     "title": "Altimeter's Brad Gerstner to invest $5B in Anthropic IPO - CNBC",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTGV1MWhLRGlSeUl4MkVNM1ZPOG9TR2NoV2RqYnZYYkVwdXBmUVlnYzRxVVpxMjkwckRJal9JQ19jaHlCT3kwSUJvcTFMeXo3d2F4Ri05UmZFazJjWEFnT3lCSWJ6aUtObGs0UkhwdHQ5azJ5TXNxakZGWEZzOExEQjRzeWplTU8wUTBtUWRTclVYSVdSeXlHOU1SRnczS2VTSUpCSmxGaFEwRGcxLUN3NkQwY0t2VVE0OGV6UUo0eXg?oc=5"
+    },
+    {
+     "source": "Seeking Alpha",
+     "title": "Altimeter's Brad Gerstner to invest $5B in Anthropic IPO - CNBC",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQXREQVdpXzZsMTFUVko1Sk0xR1RZZEg1MUtFLWN0VzBGUEFaWDVjaEw4dmpiUG5zQmN4a1VDNUkwWkZ5ZTJDSGFnRll0RDF1ODlzcTEwY0YwN01aX0V6ampPZDBCOVpnS1RJU2ZkX3N2bUZsVTFqTDFpaFF6cG1iNUZqUkFwLVRoekEzTEJVM2VyV0Y0T09YM0xHZlRMUQ?oc=5"
+    },
+    {
+     "source": "TradingView",
+     "title": "Microsoft Stocks Move Lower as $1 Billion Anthropic Bet Precedes Ignite",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOVoybWdIQ2tHakc1SFItZW9rY0dwOTlKZUlnNElFTnBIWHJJd25YQ0dUcTBSTnA4VjZPRGMxMmJ4QmdnTmdGTmhqemMxdlpQX0t0aHIzTmN5aG51Z3AyV2pOSkR6X09pbllPVHFRRlpHQ290THlERmktQnhsOVdrbVlxSnBRcUg0cjNXaDlHdE9xRG1Cc0RRWGYxdl94VkIxbXZ0WkNXb1BmOFptODcxbWRkT3FfQmJzR0RsNFN4WXYwZ0V6Z1JnZU9R?oc=5"
+    },
+    {
+     "source": "Benzinga",
+     "title": "Palantir Dips as Anthropic IPO, Nvidia Turmoil and Rate Hike Bets Rattle Tech",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTmV6UkQ4ckNDMUlmeE82OFZlM2NsTHJ2OWVhOERFRENvSHRHTlRhd1ZsWWw0cXNqT0dQTWk2ZWlta2lvb2pSZS1yRUs1VlhHTzVjT3NlMWlzaHQ0ckNfakU5QmR4c2R6emJnMWxXSS1nUXRta1V4dm5FdGEyYWhfdW9kZEVCSWNiV0hadVI1dEwxelhYb1RWTDFhSlZGNGtJbERjcUl0VzlzaE1ycE5rR0VoWGxINXRhSjAydDlxaDJjTTZSSWoyYWc4R1RRTDVnRmhR?oc=5"
+    },
+    {
+     "source": "Seeking Alpha",
+     "title": "IPO: Eyes On Anthropic, Cheaper Go-Public Names Today, Technical Support (NYSEARCA:IPO)",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbjhodVdHT2kzdVNIU3dwUTFuYWdNcmpLeDhMeW5paF8wa0JWME5lcDBveS1QVUFZRkRmZ2k0U0pJUnNsbUhMYjhLcURLbDhjNlVNQjM3VlR6VDFzRko3SzNjVnEyazVMaGdUVmo0c0VxaDBhZ2FWSW5RNFpkNGh0dzNBWC1OWlowMklhSmVnNGpkNUszWDFzdUc4M2phZ3ZzUTRrN0tHT0luSVpMWmtj?oc=5"
+    },
+    {
+     "source": "Barchart.com",
+     "title": "A $658 Billion Reason to Buy ANT Stock After the Anthropic IPO",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMF9lOGplQ0p2bzRtMzlGZTlLLVlpeXh4M0lCeDRyb3ZFM1pJdkVEdmdobXBEY3puQTZJRDNQUGg5cmlLczBDTkQtUzh3VnBRWFpQaTJSak4tREtMRldsV3J0SE9NNGNBUHNJcktDMzVmaVZPaFNYckZFVTAxcEVtZjhYU3dBMkNlNXprZllZSEJQbS1MM04wNlhUdDBIRUdIeGlrSnhDOHM?oc=5"
+    },
+    {
+     "source": "TradingView",
+     "title": "Alphabet Stocks Decline 3.1% as $10 Billion Anthropic Buy Lifts Stake Before IPO",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRW1mUXB0RVhOTnNkbE5OUHV0YnlQbkhFb0dHenhPM1YzQ0lIWEMzdm5Hc1R1eG5SdkpjV050eVV3ZlF3SThyQl91OENxRWJPaXY0QTRNTEhfM2FJeVJhV3dBWHFsUlc1aERQN0RWMWV6SXVjY2gzNUdmYkRYMzdNbHpoVXpCVkhNYjd2S3g3QmR6UnFiRVc2YVJnLVFXMTNiYi1OQzJJUkhiaWZhMEdKb19JRkJTaXkxaFdBSVlPU1dPNmh1M0JVQndQMXE4V29neWhBbQ?oc=5"
+    },
+    {
+     "source": "Euronext Markets: Real-time Stock Market Data | live",
+     "title": "Stocks fall ahead of Nvidia earnings and Anthropic IPO; oil drops",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaGpsMG1TRTNPVGJhRVJ2ajVPMnBOTzUzV0hvb080MU0wcVc2QWhXdjM4eHRSTDk4Y0RkV0dZN08tX20xR01nV2FEUHpUQllZSkFLTFN1S0VLNXpORnFFd2ZHVHhjR1RIQW5fWHlVNTBTQmpSTzd4OVdaTi1pYmpsV0xqUG1hX0g2S0FDYUQxYVRnMW9lQW16TzZRSlBQNGFscGpWUGFqMkU?oc=5"
+    },
+    {
+     "source": "CNBC",
+     "title": "This Anthropic proxy play is getting traders' attention - here's where they see it going",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PWHljLVlQOE40YnVQZnN6STRfUFRvX1Bvck1Ca2pnVUFLd2NrdklBV29VQkQ2S3I2MWJwZHNUMnJ6UmlJdjJvZ2JUcFZRVUVfeTBXTFBadjAxblhWT185aUNrQ21Wc1FzUFpQbTVGOGNZaEVZaHZBQTl4ZTJoZ9IBgwFBVV95cUxPOVUyTExtT3dOZFdMaDhSVXJVSEl2Zmsxb2Z3Qk51dFhvY2E1VTBPLVNwS2FpYVRaUEF5aXZZUHQyVEhHcFYxSUlzZk43Y1NmVFQyU0xSNFRZQlI4UUFDSXdCNWMydkp0aGw4emJiVFR4RFVyRWh4RTFMak5SdGRzcXRfRQ?oc=5"
+    },
+    {
+     "source": "CNBC",
+     "title": "AI 'doomers' some of Anthropic IPO's biggest winners",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS1poQmoyZGcwTUdOQ2Y5cHRNV1BsRlltYTlGYmpla19iZUtwbXVuN1N3NTVnemx0eDlPNG1JMmVTRGZEZ2dUb2Z5MVFGWVZzNEs2UkJnc2NFWW05MDZIbmNhM3FsVXhWaWQxSTZ1RmpMUVBUOXItTF9OdEd0TGJpX011bTgzTnhjdVA1Um01TV93UmgtNGNJ?oc=5"
+    },
+    {
+     "source": "Investopedia",
+     "title": "Anthropic Prices Its IPO Wednesday. Here’s What Investors Need To Know",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS2Yyd1R5SkNxSldhdjFxZUU2a21FM3c4eVdFTl96Z3loeHk5cjBYYlNuVzhNdXRNaU1OREVUZHRoWUY0Z1l2UDNQV3dtX1JEU2dBOTZDNUxvaHRPTWxUYzFyNHpjeC1acVJJSjM0d3BYOVp2SE9rMGdqVkVyaHhybXVmMnhhQmZkQUZDa1FRWmVOeERib0dFMDMtTENpaV84Zk1mQmVHT2ZJaTA?oc=5"
+    },
+    {
+     "source": "Bond Buyer",
+     "title": "Public pension funds already hold Anthropic before IPO",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeTNKYmdESUR0SWhGX0w3RFF3ZVFqd0pCRVRTNDZ2bzNjcUdoX0VIcGFleGV6UE1XV1dyOEVhandRR0tDNWt4NlpOUzBuWlp0NlFycURZQldSZkZ1aE83R2ZDMlNMMXN3Wm1CcjNIbTU5T2ZMSXZxemU4dy1tY3dXdHlYanlGd2hNSGhWNjN3?oc=5"
+    },
+    {
+     "source": "Business Insider",
+     "title": "A struggling AI trade is dragging stocks lower ahead of Anthropic's mega-IPO and Nvidia earnings",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZHJ4NHBWRFpWeGdJRzl3OWJuNjhqTDRDX0dLX3FvMW1RNmdnNE5MajNCRkE0UUtWSDJyZTVjby12UTlmS1JOOGJ4UUcwcVd2VEhpeTlyd0Z3WF9rZWlEdHhpV1ozajBDZ0dZZ3UyemQ2U3JHNEM5VUNxaGFqQnE0bmtiNm1xZG5ONFpWTVFEOHZvTVk?oc=5"
+    },
+    {
+     "source": "Investing.com",
+     "title": "Altimeter Capital to invest $5 billion in Anthropic IPO - report By Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUlQ5cTZKYVpVRnNZTWJMZDV3MzBTbVZMb1dDVmVuaTdZMDQ3R2NXLU9TZDQyRkJxZFlwcWo2YXU3bzc4RER3VTNnRjRMbUJ1SFpqQWh1NVdtU0pFYXVUcWlKcENNbTlQRWYtZW8zbzNZV1dHeU5sVkU2NG56Z0xGc1FENWlzTXNUUjJRVmtyNF9HVTY5U3JDUS1DeTZpbzZaOGpTNG84QmpjMGhPaWJlYUNlMzVYcEtrVThj?oc=5"
+    },
+    {
+     "source": "Benzinga",
+     "title": "Amazon’s Big Week: First a New James Bond, Then Anthropic’s IPO",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYVJaM01EbGdwNWJCZENoT21oVnVjcGo4MzJ2ajQ2MG5FWTRaYkJtakZfSnQ2OExsVUphYmlkTlB5NEQ2Q0FJc1Y4UzZnR2luTWhJVjBfeHhMUEtMQmx6VlZPRllPR1Fjd1B4WEFfRVBYVXFxR0NWZG11V1NJaEEzY0RzcElUQklIUkV5Tl9fbDA2S0ZsUElFcFV1WFNSUQ?oc=5"
+    },
+    {
+     "source": "Bloomberg.com",
+     "title": "Watch Nvidia, Anthropic Put the AI Trade On Trial",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUHlaSUxOU2dRUXJ5MkczTnRjNVZpaGRfZzBkd1ZIVVdyZm1XWk04MlBkc2l0cHVxYVV3cGNqS1lkdnRUYm9oSHdzem9haGR0YzcxZFNEUk1HU0p2TTVXRXNyT1kzc1l3RFhub3M2cVhfQllMUXJWSFBmaUlZMzU2V1dhQWlqZw?oc=5"
+    },
+    {
+     "source": "Bloomberg.com",
+     "title": "Watch Stocks Fall Before Nvidia Earnings, Anthropic IPO",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZUtXTmpwaEtJUFJCQk5sM2ZWVlQxZ24wYURNTGN2R2JBdkxqMlJrLTBXS3ppUlU3VGNnb1pheTlqQlRWOGVUTEV4Qk5hT3V2WG1uVDB4Rk1ERU90OHFKTE5xOVU5OXhLWXI4cFpKbUs0bVBXTEQ1ZGF1aFdYcm82c1ViY3p5WGczMFFLMzFMTllVZw?oc=5"
+    },
+    {
+     "source": "TradingView",
+     "title": "Altimeter's Brad Gerstner Investing $5 Billion In Anthropic IPO - CNBC",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTkhZVWc0RUVRYTZmYm5mbFdZdFZZdmU2TmdOdERuZmdUNmRibzNSU3ZSY1JPNldFTExCanlubTRNSVVZa3FwaXVuWUQ1TDlGWjhscGJyNkZhLUZpR2FXbi1KbW1SaGFvcEJkX0lmTTVuV3BuWHE2UmU2Nm5QRVhuRS1XcnhGRjZja3hwX3JXNF9yMXlZOGRFd1JfZ09SbXN0MzJXVjhRdFl3MTVaVHZvLTIycTFwOWtPbTgxdW1hczNLNF9NbjMyRjRkMXFCNjFyd1Vr?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "title": "Anthropic's IPO Takes Place on November 19. Investors Will Learn These 3 Key Details.",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmdkNWxJVjFsb28zUVFzSDdVTEF0NUdDVmRXZnlXdWpqRFVObDVDa01iM2Y0aU1JR3pJQzZJOGhtZmppMDlzSF9LZGl4cEZFYkxwRy1LdlhGT1FrdTlqNmtRMVBkOHZJSUYzaXA4ekZ4MjJkTFN4TjNHR181S2xrall1VFBYUklxa0ZRRzB2ZlFJOEplVnF1TndNaFQ5Z0lr?oc=5"
+    },
+    {
+     "source": "CNBC",
+     "title": "Altimeter's Brad Gerstner aims to invest $5 billion in Anthropic IPO",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZWsta3NJMEZJLTlRcHl5TGVlU0oyODVkT2xJV3NmWWR2dXhOSTZCeTBRSFlQV180eTNHbW9hM0ZwaTZaejNQMUU4SHZpQm5aRnFodkNrQVFrNUFTV2I5bHBJUk5URDFmTm1UQnRQcXpVbDgyb3hreGowR0otMDZweHVMbFhuT1A4MWpyNnNPc2VJNUZOckhaQWR2cWxGZEHSAaQBQVVfeXFMT2ZTeDRvb2NxdVZfVUNtelBYSGVjY1NodS1UVXJxb21CV05PYkVLOEN4VGpUa0Y0bXRVaHdJQlN5dzY4U1pRakxpMjVod05TSnU5UmVJel9pRkhReDlNd1ZuOWNDSGxRU0RjaGdDdUsxTVduRGdXU0RPQmlBTFdpRjdnT3h3LVJ5WEk2c3cxUFozeGVGZEhWSFdkRnNoVHdPOFptLWw?oc=5"
+    },
+    {
+     "source": "Bitbo",
+     "title": "Bitcoin Slips Under $65K Ahead of Nvidia Earnings, Anthropic IPO",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJNWUtbkdDX09wSVo0QzNEV2xZckdYYnZRa1lBWDRtNkx0Nm52QkZESjUyc0N2dk15V1RKcW9aR2JSbUhEU1lwME8xZnhhYW5Ic3lzVUhCVGRmc1dmZVN1X1poWktYYUxr?oc=5"
+    },
+    {
+     "source": "CNBC",
+     "title": "Altimeter's Gerstner: We're putting in for $5 billion on Anthropic's IPO",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeWtBdGJTSWNZS2NVWi1ZTkM0VzNfZ3JEY2NRZldXNkJxNlIxYU8zaEx0T1ljT1NNdHA4bWhfN0h4VmFIVWM0NzhJaC05VXpVWmRsZm9pbVFZWkVyZWdFdXJoLTVtZEdhRm0tY1huNFV4dkRNMGNjRHRPT3o0R21VMGZUUnBXak9sWWZ6czc4NjVvRE1yUHA5YlRjb0lWT1h0TUR0TUc4S19rV0dweXVZ?oc=5"
+    },
+    {
+     "source": "Bloomberg.com",
+     "title": "US Futures Drop as Market Looks to Nvidia Results, Anthropic IPO",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcFhFeVFsT0wxMG1zZWtMN1gzNzV5XzN2aUJtclZEa2NaUTN0a2Y3cV83djJMeWZ0Zk5uUThTa2o0SGhQb1NrUGJVWXBLV2xoRzFyUC1mU0s1bXJfekVJaDl2RndqTGJfN0Vkd25OS0JROUNZQ0V3bjJ0b0dkUDIwNlpCcXl4NVpHX3pGQkNCZjZOOFliV0JjaG96NnJVM1BfVDRIa2x1MElXNVZXZ1VHNXdyaXE?oc=5"
+    },
+    {
+     "source": "Investor's Business Daily",
+     "title": "Bitcoin Tumbles Ahead Of Anthropic IPO. Is It Paralleling Its SpaceX Sell Off?",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMEVodHE0bjlsNW9qcmxpcDQzYXoyb0FZcjF5cm94b242TV9aOFRjUkMwRXI0LUhpRl8ta0xPSTN3SVA2VG9tcE5Yd1FZMFhfcldCVm5HSmJyMjNVZVhYZm5fX2c4V2hZRTNka1AyX3JtNFJxS0tOQXRaWnA5Y3FOUm1ScUVNTElZMjRVVk10V1RXRmpqLTBSZHZ2dDlzekg0cGZYTS1ra2w0R3VyQi10a0lwdkxTYTk4MHpWUw?oc=5"
+    },
+    {
+     "source": "Benzinga",
+     "title": "Anthropic IPO: Can SpaceX's $19B Playbook Work? - SpaceX (NASDAQ:SPCX)",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOUI4ZFVfcGF6bUVzNEpaX2luTjJINm4ydU13T0lzdDVOWmNJUjlENnJuT2NPaDl3ZjdhNmt5d3R3emVOV0Z2Z295di1ELWNlQ1h5dFVEM0pGa3E0SWczU3dncUc4cm13YkQzaTYxMVJ1QzlWMkNKVEU5MS1tRkhNeFNZanRSbHBwdkE?oc=5"
+    },
+    {
+     "source": "CNBC",
+     "title": "Citizens' Mark Lehmann: Anthropic's IPO will give more clarity for consumers, institutional buyers",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYjhBRHFudk5SWnBfRW14eXBsVDVMUjVUeXRxUlhVX2V2UFFFc0pUVGYzZkR5cDhmdk92dGtjcGtyd19OQXhDbGtiN0VtMnJfRWlzY2JqdVhNZ0xXcVFFdG5YR1RrMlJnVWE3Q0JyQ2M5T0FWUk9CdjFqREVZa3liWnRMcG5OUWtMQmRWWUNkR25ubFM4cS1uc05QMDB5NFBGX0lHc0pmbmc1VEcwM0xFWkZWNklXNWx5NV9BSmFKYmdncy1hRk9MRWNOV1piN0NLUFNN?oc=5"
+    },
+    {
+     "source": "Barron's",
+     "title": "Nvidia and Anthropic Will Really Test the Stock Market. Only One Thing Is Certain.",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHNBeWZmdmgyeDJLV2FtWXRCNkdid0pVVE9ncnl5MHZfb1NBOFI1Rks2V1V3Mm53OGpJbERpa0pYcFVMSlJUSHc3VmhXdXh5V25tcUNhR2pxdGVZZlV0d0pYRmtXR050Rl9hbnNhcmNHLWFjNWpoN0V6a3BDMURacA?oc=5"
+    },
+    {
+     "source": "CNBC",
+     "title": "Options Action: Crypto drops into Anthropic IPO",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV1oxZW9wVkZ4bF9IUWYxZWFxQnRkcm1QcnpxRm5pUnNlLXYtTl9UcGkxbEFNU1l0VllmZlZhc2hEbzg3bmJNNzdqcS1QQTZhSTlielBjWXk2S0MxT2dmQXdpNXp0ZWtqNHdOZmo4YzlmazhmMzdaYlhGSGFxUkY2QnBlRENrZzFoZFZmVlhIRElYSWc?oc=5"
+    },
+    {
+     "source": "Fortune",
+     "title": "AI stock boom nears its end as Anthropic IPOs, with hiring near 50,000 a month and growth slowing",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaUVEcERRWEhnamZGX2xOMmZfRnJ3NHowR1pCRGVoOThUVk5VUm1Tb1gxZFlMcUlkc1R5RG1PUFktaG9ZQTFxM0lVWXBUNW8waGFubzNtZlExdXdLYU9VM29EUFdrcjlfb3FJc21CMGxLVUpvSjFpNTdpRThhOHhFckczdjVraTVnbU5kQzNaQzV2bGVpMHhrVFZITnIzZWVMT2c?oc=5"
+    },
+    {
+     "source": "Morningstar",
+     "title": "Anthropic IPO: Which Funds Own It, and Which ETFs Will Follow?",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMmsxZEZzYml5YzdXODI5S1BJS2xhTDN2UWhTZ09ubmVnTFdCOWVhNUtLY0NTTGEwUGpYdnNLZHBCS1N0aWVOMGg3b1NORkljU3BZUjZsazE1dGlzYUhnSlAtZEs3YTdtaVY2VnhpSHdMa0YxUkxoWEpZUE9kRWF5WHI3LTBzMHI5Vk5KUnZJanpvdE1yWWtMRmhOY24yX3c?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "title": "Anthropic's IPO keeps getting revised ahead of the IPO",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZXMzY1g5a1hzRnl0UjEtSnh4aFNrekNsaTJCVnQtdi1mN2xRZXJ3eGxEaDZVODFsODdMWkxibGhwTmFyNTNKSl9uR3RIcGVrOWRhWGFTRFphRGFoakNyZ05PZnRMcXJYWmJjVlpoRzNfN1N6OVdYOXBXY3pyQjd0VTRUakgydUJBSUptXzdPMHpoTS1uQWlJdE90eG9KNmt2d3c?oc=5"
+    },
+    {
+     "source": "Fox Business",
+     "title": "Nvidia future, Anthropic IPO valuation analyzed by Kevin Mahn",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ENkdhUVBObUZtdGFqV2dkYmlhOHhjb1dCOTNveHNrNFhycl80Y1dxbmYyOXFaZWs1X243WFBrNTkxRmlIWkJpM3FudmZEamh1OGxudWFVLTNOU1k?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "title": "A high-stakes week for tech: Anthropic IPO and Nvidia earnings",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3k5RE5laXJ4cTVjUEFCNEE2VndJWlpQaWczeHlsZEhzaTZNOExHZG55bHJzdDMwQ283dE9ybVBqMTlWQkxaMHpCR2l4MkpKRHJfNkNjOFp2MXlPZVBGdlcwX1lHV3dXT1ZKMTZJanc1UkdDSXExcERkajJMZ3FUTF9IUjNTdzJXUnpYQ1Q1S2EyTF9Odkx2TWw3QV9HRnNMY2tGXzE5OXhTMXJv?oc=5"
+    },
+    {
+     "source": "Barron's",
+     "title": "Chip Stocks Are Falling. Anthropic’s Trillion-Dollar IPO Is a Big Test.",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORHU4VHMtOFlfVmVwMDZVUURuR040RC1CMDd6bFpsUHJaZEhzb0U5ZnNmS2ZFN1doelpOcUpfU1Y0elZ6eWZjWHp2MEFUWjg3SnRxUE1ONW9IeTYwVFo2V3l4b1BsWVdJM2lVM2NYVjBhMWMxQTZZWlk0NUJILVdIN0xSckl1TFM0T3Vn?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "title": "Tom Lee Says Ethereum’s Slide Ahead Of Anthropic IPO Mirrors Its Sell-Off Before SpaceX IPO",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb3RvMTFyNE9QY0FtOE5oTncwdzhwYnhxZ1ZYdndOTDl6ZnBCR1F1T2lGYVVfcWpYV2ZDc01GUHJrX3prOVV0OE53Tm54aHhNUUNmY1RFLXJRS09YNUstcUlsbE1KNV9paWlHaHdhaHZ1MUhZZnFVTFEtOHdTUTc4Qmg1VGcyNTFVbjZ2WEFFMUQ0N2Y1NWhF?oc=5"
+    },
+    {
+     "source": "CNBC",
+     "title": "Anthropic IPO guide: Everything you need to know",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLU0lVTlg1SkFpbXFSd2FtWk9CUndzSjNqV0U3TUNMazRUV0hySTJNQTl1WlB5czJXZHF0a3BGZnVzTW1vN1d2U1Zuem9sdjBvRHJDOHIyTXhYQ3hTOWlrdjI2ZmE5LXZyNTFsa3VPNW9lUTlKT1E?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "title": "Anthropic's Dario Amodei is 'just setting himself up' with IPO, veteran tech investor warns",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNR0VnRWFnN0o3am4ydmh5a3hTenhOU29heTF4MGxYZy03R1VGNC1FNU5Wd2lDRzhMLWJoYmQydTk1ZzlOTXNHaGVhVlFiUmNSUGkzUjdkSGtDemJXTWdITkZGdzlKZDByR2Zhb05pZ1dOOV9yeG9HclNXb2xFbF9yZFMxelMxb0l4SF9RRGFrUnlXa1JQSGR2aFVubW9mNzB2bWZfa0FkMXhpbUx0MVNOYnEyUTRHbFhLOFhWR1AxMU9FTnNTVmJQU3V3WFFpa1JEb2FJb3A1OTgxMFB1RklMTlQzdkVZdw?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "title": "Stocks dip ahead of Nvidia earnings, Anthropic IPO",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGZzZDFSWFBvQXlyc0lqaEdJNEVmQkhRMmJsa0I1bm9sdF9Vd3FKZ21hT1NROFpUVkRLTzZVMnYwd01RTWpiaHBGMzd4RGdsWDBEWXhOUTFMVC13MEg4SWRxNkJ5UWdOb2RZQ0pGYlZELVYwWTNkOWFlaG0wS3A2WVNsUWEtUk1hRUV1VU5iRnFaSDBMTHdyQUUyZDdOM3M?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "title": "Everything you need to know ahead of Anthropic's IPO",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUkN1VHFrREJneU9DdUV5UVBuT29PM1hOdXN5aU5udTZqc21yV1VMS0VySEJqa1NrLWlhcTdYdVM1Nmo3MDdJWWtEc2JRWDVrVXBKX2tJS0t4TTg0eG4zLVJqWFBNNUlCd1hDR3YxeHlvUmFqdks1cHFQUGk5U2RaX2JuYnl5REFlN0pRX25DdU9SX2s?oc=5"
+    },
+    {
+     "source": "WSJ",
+     "title": "Nvidia Earnings, Anthropic IPO Ahead in New Test for AI Economy",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbjM3c3k5Q2otRklJTDllbEJZR1N1VUMwQ3NoajUtV1k0bWkyZmg1eDJZbkxZRmlWdzBCSko1d0laWnVQaFhYN2RYNFAyUjN1R0VxaU1GbjcteC0tQ252bkRZWFhSb3ZjWEhNd2JMdVRwR0hXVmM5SzliNmtiWU5IN3Y2Y3ZHSmdURWZnY1doTzA2cmdVLXExYUNrMXU3VGw5WXNUblBR?oc=5"
+    },
+    {
+     "source": "MarketWatch",
+     "title": "Anthropic’s IPO is forcing investors to assess uninsurable risks they’ve never encountered before",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWnBkQWJxaWFDWXZ1WFdWMFN5RzFWLWJQbFYzanpZVTdiSG5ReklUTF94MU1iQ0NWOEhyRGRTNEJaX0lhSDF4YzROZXMyVk5mdV9tUlRibkZma1c2cGlXREg3RHljR3Y4d3NfclpBd1BzbWdRbFQ3RW9UUUNOOHM0Z0lvOEdoOWlTYnI4d0FKSE8wYi1VdFMxVnhBMVZpb1o0Qzg5b2pjUlQ0VWJKSlhNb3ZETzlqd05CVTdzc2ptRG8zdmJOcVRPRV8wNzd5WjAyeTNTUw?oc=5"
+    },
+    {
+     "source": "Bloomberg.com",
+     "title": "Anthropic Holds the Key to the Future of the AI Trade",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU1FzNzR6RDRPLVdrcFBxeTlfLXBUNTNVSGFoQW1sWFRscnIzbXNyLUtIY1RXN29mVGI5WlhsZUp2T3VTdjRLTjNyVFJVdW9wdmpkNzNNVFFmTTNFWkJZNTdPWS1GcFZ0N0xUbUZ2RFF3V3QyUE1keE9PQS11MjBWVFV2RmZqZzdoZC1DeWc1WkdxT19ZeGplTTRmaFMxWEJzeDVSeUtjQTcwQkU?oc=5"
+    },
+    {
+     "source": "WSJ",
+     "title": "The Investors Set to Win Big in Anthropic’s IPO",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWGJLdWJHSUxsNW9wWEdzVEVVazhoUF9JelpHaWVfS2l2N0NUQ1VLdktRdlZnMW1taDQ0cGpuQ3pWVGZaMW9jc3JTZmJ3WDQtZnBVeEtwbjB2QW90OGlVV3hXWGVhQVJpMGJfR3h1S0JrdnVGdXBiZm1yemh5VkRfV2NGcXozRWdQcUNUUFdraFVjQnliVEU5Qw?oc=5"
+    },
+    {
+     "source": "Morningstar",
+     "title": "Anthropic’s IPO Won’t Dramatically Alter the Stock Market, but It Will Increase Concentration",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZHRsTmd2T2oycVB5ZVQzWlV6Uk1GTGFFX2xHLWRfVTN6MGpTakk1UTlUdXoxcGFJMmxWanh4UEZUNE84NzhWOFJQQ1ZqRkNSNUVMYzkxNGN4M0EzaHZnVmh5N09Wd1ZrM2VsWlg5R19nR05NUnlRQ3psY1Z4M3JZY1oySmpFcGpWOFN5WGJ3czBWT1AzMmRUcHFHcnJkdEVpR09PUEdsM0NjTGl2NEJqNVVqV0pGMUQtVUVwRUlsWDh0RFdV?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "title": "Nvidia's first post-Jensen earnings and Anthropic's IPO: What to watch this week",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRGowX3ljRUhFOUtMR2diRUJHR2xTalpGZExTNFRKTExUQTQ2cUtNQXZfWEVRM3BMYldsOEh2czRtSmJZVExCakN0Q2VaWVRWWmFSYjRsRFBqNzRucXh1c2pIcW84aDUzdkhjY3pyZFFkVjRSN2gzU0dNM1NEWXI2WHIxdXl0OTB4OVM3QVVsSXg5V2NUQVVLVmZJWURyaWhXOUxyTWE3cm1qVXRQTFktZWQ0Y3hmaWlaenFrTi1jc3ZPSTFlWUVEbXRaYUVQOU0?oc=5"
+    },
+    {
+     "source": "NerdWallet",
+     "title": "What to Know Ahead of Anthropic’s IPO This Week (NASDAQ: ANT)",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNFNBR2Q0SFRtdTdYRW90WUJnX0dDSGhEVHhlSTdRSjBVX3JzQ1ltbEtFb3VuakNSY0dLSlJrei1iS3dPTm1ZWGk2M0hKTHJvdC1PbmhPZFE3dDZNcE1CU252cG0tWUtNdXkyc05OazVkbXFxM01LSldyc1B3MjJlQ0hDSi1MNTQ?oc=5"
+    },
+    {
+     "source": "The New York Times",
+     "title": "Wall Street Braces for Anthropic’s Aggressive Spending",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTVpSYzU1cWtsQ0gxRXJPRUdXZlVmc1c5T1V4SlcySnEtd051UUIweW52UzhGOExhNTNrNklaaS1vTmFWZnozN3dic0dVcTZFMVdpRzFYY0FEX3pteHVjSTBmTEZiTjBVWlRKd0FzeFpGazN3Q2NXY1V0SmMxUWxxaW1UOXhDUQ?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "title": "Anthropic IPO Reportedly Oversubscribed 7 Times - But Will The AI Euphoria Survive The Stock Market Debut?",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQckw3X3Rrb0lZaUgyX3ljNzhPQW1PdUFhR3k2c2txMjdGNHBzQ1JoTXk5NlZLU2xKWlNrU2U0SkZKZzJRNnFycWtjdnVmWmdwTW9adlBubnhvS3Y3VTFsSkY3bzFVRDd1eTZ2ME03RXZNTXRNcHFlbl9GaEFST2VXZ2xkcnkxSXhTUEo3dGZYQngySHpFWkREZ3NPclEwYl9IY1pGNlR4dDJGdw?oc=5"
+    },
+    {
+     "source": "Seeking Alpha",
+     "title": "ARKQ's Concentrated Portfolio Faces AI And Elon Musk Risk",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS3BSLUdDSVIwa0o0MFlUclhpakstLXBsM3JueU9UamVhSXEwQzVZeERHeGNMdXdCUUJUTDd3MGRBRVhUZHNPZ1dlYWphR3B2WXpZTFdhc09rQThyYUt4TXNKUUdZZ1hVMUl5WENhTHI2SWlPN3BjQ0R1S1g1bHVJMEZMRVA0bzBBOC1ScnZfNGlXWEU5aW1QMkR6RmMxdw?oc=5"
+    },
+    {
+     "source": "OfficeChai",
+     "title": "The 30 Most Valuable AI Startups [November 2026]",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQcWk4Q2hUZzJVRXpjNzRJNkZlYnNvNDhZXzZpeUFRSzVSeTFCc0xBMDd5QW4wSUdyZUQyUm1pb2dLLXNRdEZQVlM4UTFYcExSZ2xWWVlIWlJxX180UWliZXF0cmROUElOaGJUSWxn?oc=5"
+    }
+   ]
+  },
+  {
+   "reason": "Not really about the company",
+   "explanation": "Chatbot crypto price predictions, Grok's 'scariest thing in the universe' answer, Musk's support for Jensen Huang's return at Nvidia, the FTX windfall from selling Anthropic shares, Alibaba's new Qwen model and GitHub retiring older models from Copilot were not changes at these companies.",
+   "items": [
+    {
+     "source": "Yahoo Finance",
+     "title": "Alibaba's new Qwen AI model poses challenge for Anthropic",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXhnNGhVWkw1M0QxTzVYdVg3Rjg2Wk5EVXp2MU1wd0NQSXJMdU5hRFl0YnJwOTFVa29fZDFXVE5CMjRMdHdRdklvOTlwYnJHakRiZ0JyeHkzTlUtNFYydGVCRWhMMFR2Ni1mbC1Qdi1KZ0p3eUotalR0dUl4QVZoWQ?oc=5"
+    },
+    {
+     "source": "PYMNTS.com",
+     "title": "Alibaba Takes on Anthropic With New Qwen AI Model",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcGttNXBHbVBUMmE2bVpXOE5FMkpVcENuSEhuYl9pY21pdFhEU1RBUHhyWjF5dnN5eEd3MmE2VnA5bVhrZjZmZExQOW5zd2t3aW82ajZoY3ZtN2R5akxyc2Naa2ktRnJPMkRtS1plQXE1XzVyOXpPalFVbG9zQzNJQVlqSDV1b0Q1VmVqYjlLWjJxZGlDVUVtNy1ybzRDdlJRMjhqMHBEUDk1azg?oc=5"
+    },
+    {
+     "source": "Cryptonews",
+     "title": "Anthropic Claude AI Predicts a Historic BTC Price Reversal",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUVgtSURWa0JBYVJyUm1YV0RfcDEta1dwSU5jX2NRVWM2b3Zub0I5YVFpTWxCbmpOenREZGxEUHJHeWV1V0ZpdXVpV2s5YmZCT0I2NDE0bGtURWtSOWxsQl9Ya1Y2NlUyVmltNEVkZFJhWDJsTVRSNlZ3TUtPTV9nb1cyemtoTnVX?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "title": "Claude AI Predicts What a December Fed Hike Could Do to Bitcoin",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTgwZGxHVGJCMm1uZHhTWU9xTEpkc3dCbTdoQ0xNcWJWQXFtTkNmc2lJUVdBSEZNX3NWNnMtR01UM2YzNVlWMS1leW03VmhaY0lPdXVrLU04cEoyenNZbzBFX01tMVU3UXpFQkVHdWROeVJqbnQ2Sm1Edk14THJ5SlVKUS1ULXM1Q1R4VUV3aHZ6UWR1SC0xZmt0SEw?oc=5"
+    },
+    {
+     "source": "24/7 Wall St.",
+     "title": "Claude AI Predicts What a December Fed Hike Could Do to Bitcoin",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcmpFOUFUZ0ZtNnBYbjZTbGdTc3BjWEdQU1F6RVQzN2dCNXU1WlZxYnBrbHJkZ3I4UW9ITEwzV1pjSVJsZWE1M09aUi1QM0xCdE90TENwTFhLTnIzaUdNdDNkenV3R0hFT05CRmJrdmczLVp0eHBrb3l2YlEwellXSks3NEF2alVzdVVuNFpwaDc4VE9JUmtSN0ZkOEZZa01RaUVueXU5QkdiZ1FPQ2lWWmNLNl9uaFU3NmZrdC1Zaw?oc=5"
+    },
+    {
+     "source": "Fortune",
+     "title": "Sam Bankman-Fried’s former employer Jane Street could share in $35 billion windfall from FTX’s Anthropic sale",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUGpsVHl5ekdBYVgtSnZLVVl1VWtYQXNvS0oxemtBOFhwd015WmZUZXVQb1RsRDh0STRaa0JMOFFuMl9RNEJ4ZnNDUGxiZWE3UVp2Xy1KQ0NmOE5yTTJhMjRuZkZqNTRpMllCczB1UEc1N1VtQl8zQTMtUG4zVmtpWi01U0wwN2RoblM0dV9NaTRPcUNNNHB5aWdTSnR1c1RPaGZYV0R3NXQtZjBFQy1EUFlZOVkta1JnRnI1azAzY01BY0VOb1E0SXRuQmdUWVdYbzVNRQ?oc=5"
+    },
+    {
+     "source": "The New York Times",
+     "title": "How Sam Bankman-Fried Lost Out on a $35 Billion Jackpot From Anthropic",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmQ2UENEQ05IbkRrX01ER2xvVTNnR3Bwc3ZUd3JKaVg0MkRUbk9ob2JVYXZzdmJLQnpabXBXUG9JT1RGaWxvYzdNOElpRzJYMi1jLURUVU5MSGR1NjB1ekZJN0paTWNaQXRHSWJBRmg1LWs2S2hHOWhsMW5rczllb1JwYlc?oc=5"
+    },
+    {
+     "source": "Coinspeaker",
+     "title": "Musk Joins 160,000 Signers Calling for Jensen Huang’s Nvidia Comeback: How Is NVDA Stock Reacting?",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kbWVNZTBuTGNtOTdNSkxMaHBuRnhxa0s0dE9uck5NR3hVN29OTjdZUjFlM2oyaHcyQnlvcGdBSTB3YlVsVklXNVg0YU5ZNVZkX3N6QkxlYmxVTGc4OGhmWmtUUm82S2xaaE43LWx5c2p6bkUwR0hxY1pRTdIBgAFBVV95cUxQZ3RqUFplM2RpSkNuZGlJbDZwbzAxaDFqQ3RzTy1QTVpybEI5US1tNE5UelJtRUI3ZjNpdEhOM2ZQbmNKSy1KYXFPY0kzS0tjYnNFZ25fcnNWS2FIc1hoV0xwRDBrY2RqU2pMNTE2SjJjeFdqZDFZRkowUlJ2T3Vtbw?oc=5"
+    },
+    {
+     "source": "24/7 Wall St.",
+     "title": "NVIDIA Falls 4% Ahead of Earnings as Elon Musk Joins Calls to Reinstate Jensen Huang; AMD Drops 6%, Taiwan Semiconductor Slides 5%",
+     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTlF0QzdtLURGTVV5cHVhYzlGdXdHMG80eFVuWVk1QVlQOU5kWHo3d0l1cjBxYmlYT0E2Y0pzNnA3cEQxNUpmX0ZOSDk3d2ZIbkl2WkkxMTdDZTV0d0dPcWFQc1haX19jbmdzLS0xSWY4WGJUcGFBY0FKYVF6YVJxb3JPc3RwVVRZRF9VMXB4MXFuM09Sazk0ZlJaSS11UnRhMWpSZzVvOTNYY3Q4TWhvaV9tSGlEMU5vaHY3ZFRnamU2bV9zc3VUWnVOMnJqSFM3WHNGaUV0c2hKY0F4MF9MWnJDTGNqc2VnWUt5V3JVeHAwVWVQWjV1ZVBqb1RFUQ?oc=5"
+    },
+    {
+     "source": "WION",
+     "title": "Grok reveals the 'scariest thing in the universe' that could kill all instantly without any warning",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY1Rja2VFR09zcDlNaFIteG1TaThOZzNOZWRSejZkamNyb3BnWERrTFBDZ2JrZk1pN2NMMk1CNmVLNi1kemFGRjViSUFMczhNYWtuR091MnVXdjZmYW9URzF0ck1RY0dEdW5WVXJDa2NVc3ZiZ1lzajU2NlQzdjNPN2h4WGgxNGowc3VlZmJxY2VIY3FreGNCcS1RelBBYkU5LVpWT25FRnY5MWFjM1Y1SkNTdG00ZU5WYUd6THpYamZ4czRmZ25QdUZuSzE0U0NGUm15MzkzOU9GY0pn0gHiAUFVX3lxTE5sWXY3V0FoOTRzLXFic1hKZFBHN3A0YXZwbmpBVFlBLWlDLXh0akItdEdfWHVYUmk2UTV1LVBNa0xFSFBBNlJSR0EzUXFRTUJYdDZuaXpSSmdjamJTMzlIb2xoLXpQYThtR1JQdzdEM3ZGZXd0VFFiWXJvYlVVLUZ2SnRoaXZzaHpsTXBwQmI4YzBIU0RsQ3VLVHh6SU5iTWFyY2NVampfd0N4dEdiQWpybUYyMDUyMUg4ZlhjZW1iSXVwZC1RY2t1d29wRlAzUkp1VTJ4ZlFkd215dm1LVEpoLVE?oc=5"
+    },
+    {
+     "source": "24/7 Wall St.",
+     "title": "Only Elon Musk Can Get Jensen Huang His Job Back",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR0xVVDJCdElFcWM0LUplLWc3Uzh2bzhfOENuYmdMX0s1SC0yUlhqRmNINzlMUVVzZkQtTWZwZWtFMzMxek5nZ2ZtbWRrSnZ3NjBxWVpJWmN2a2F5cU11d3N2Wl9mRDhfMERyRFhqajVZUmwzaEtoVVFqNlBOZzB3UHoyWENuc0NwMzdQclV0Zk1GTHk5NTQ4?oc=5"
+    },
+    {
+     "source": "Coinspeaker",
+     "title": "Elon Musk’s Grok AI Predicts an Explosive Move for Solana Crypto",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSEFWNEc2NERyeFdqUDFCaUhNMF9SUURwQW1nalJKOHVfZzl4djFiMWhlbERtNUFKUEZhUUQtNjdMX2E5WEZDVVJILW9wSndRWmtTZUxJeElBTlFVMVM0eGZlTFlnSnVuQ0kzSWxteHVkeC0ycVlRczB0WFE4bEZ5UGt3SDRVSkRBWFZGRjlZb1FtSGl2WUE00gGcAUFVX3lxTFBLck03ajFzeWdScnJUQTJzZ2kxa0QwaUtqcnJDcUZPNzFzeFlYT1JuV3gwdnJtQmRhczhwNkVla3VTbkRKWmRtb1JvN1Axdzl5RDdxN3hHd3pkTHlNaUZmdUxGWkVkNFpWZllmSW9BVURoajdQcXczbjlRZTRrYjJmTV9HQ0E5dC03Rm54aUd0ZWtoVFBZLXJCb2ktbA?oc=5"
+    },
+    {
+     "source": "UNILAD Tech",
+     "title": "Elon Musk’s Grok leaves users creeped out after revealing ‘scariest thing in the universe’ no one knows about",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdVdhdS1uOGprX01iSlNHSkRDMXRqRlJNRlMzREo2TEtCTS1lRno2NlpIUkdUeFJDNVFwQjM0SDZ6OEU3bXVvWWhGSDFhb3VYRjM5SWFqNHhCWWcwYjlHamZVYy00emY5cWJSN205TW1EQ0ZiaXQ3bDlDSVhremJFVUdvUW12c1o2RF9qdVBIMHpiWTdaSVFWYTlSY1doNm8tWlF0VE5FZFdUMV8x?oc=5"
+    },
+    {
+     "source": "Forbes",
+     "title": "Forbes Real Time Billionaires List - The World's Richest People",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tWGpuSWp1NnhPS1p2YXlkcUpaSFA1ZmszSWFySnk5dnVSTE5uQm5VU3VJN1dJamZYV21mcGVKU2pKeEJfUXF1NFNxNUlzYzNqU2ZpZjQ5bFJyUQ?oc=5"
+    },
+    {
+     "source": "The Times of India",
+     "title": "Elon Musk is back with 'population prediction'; warns: This country will be gone soon if birth rate does",
+     "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQR0ZNR2I3VmNfUWRmYXl0a2V2Wm9oMnVDTHBZNl9ab3k2Q3Y5YmR6S3lMa3c0RHBXX2RsVnJjeGZSR1FnVE1la3pXUkl2VEZTOVpvNjZ3MTdzUTh1aGI0RE9GMmJUWl9YMmdMNVFHQmpzRmtkQV9POGhlVlRWSW1GLWhxbHBrbmk2M2JNek9MdGM3RFVveGdNZ1BITkw4bG5qelF0NDRham9pTVcyNmtKaWhIMm14Y256YUl6QWcxaHF6TGQyN2ZuYVFIVmliek9SMHhOaWItd20xNXU4TlBmVHNEMkVXc0U1bWIxYXc5RHh6cFdnaDhsLUw0dkpqT1JFRm5XMlBjYUhvQWpiS0cwQy1SZ1NXYlpIUjlzb2ZDNDfSAaYCQVVfeXFMTVVEd1ZYNVhTM2lvVXd6M2JuZEk5N1ZPZm50MzQ3QlVpYUhEOUxualJ3c1cxSWJFbjRTUDRGMmNIUFU2cnQ0TUhpQTZsdERLVkhENERJd3VsOWFQQUVVMzhoVzJyaWtpQnhHN0hoMVp6VS05eThIWEZCSmFZcDdIOVNPcnlLQzNFQ2ZmYVBsazVKNElsVUtyRzR2VkFrLS1vUHRIVjJGalJyendRWHgzTEVraFpaTG9WTzdzLVh0Y2pXRnI2dzNvNTdzVEROR2E5NzkyUDN0amZxNjJRdFZjSWZpMG5WVHczZFh4QVJuVlo2ZzJjNFNWckV2a0Y1aG84QmV3QzBxUEhicVJKSE40UGM5dGJNR0NfZzVhdFBERWFjNnZ3b1l3?oc=5"
+    },
+    {
+     "source": "Bitcoin Foundation",
+     "title": "Grok AI XRP Price Prediction Lacks a Cited Forecast as XRP Holds Below $1",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVkdEX2VUSUpFUEFmU3pwSF9QRkFzX3ZTbS1PQld5QlRFTVRFVG9CbHBhUHdoWFMtVUIyV1VmdmlZSUF4eFR6ZzVRRGhqOEdvZ0p3bU1NNHV0WnFPVEhPYllmalJ3aVdqU3hOMVRNeGlxamNKYkRQVWNoSDVjeHZCY2FYNTEzUzUzdVZHaG1nbkp0NnQzVVBNTktwR0J6bkVMSzVndE5XSDFQYUlTelJoSkdwRW8wdlFX?oc=5"
+    },
+    {
+     "source": "Armenpress",
+     "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzdlZrWDVsU2NQMDRpemtZWkFXNVBNYksyVHMyWFdoMHk5cE53WmZudXNpQi15Q29xQks2d1FHYWxDdVNXMGZIRmZqZkIyTWtSY1HSAVdBVV95cUxOa09zSUhOdkt1U1dwUHVIVVdsZFFLbGlmNks5djlpWEVjR3U1cnR2Z0ZpcWpqbUMwTkRDQXc0X0d0eVdJMVZCX3pvOGtsVzV4TkIxZGZ4NDg?oc=5"
+    },
+    {
+     "source": "CaptainAltcoin",
+     "title": "Grok AI Makes a Surprising Choice Between Bitcoin, Stocks and Real Estate",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQUx4SnExQ0pFN25ZR3FwdVJ4TU5mYkpCRURZOXE1QktaUTNFUUZsN3l4T2ZmWVJQMXpyTU1KT2E5Z1VCTExpUmw3aTUteGw2X1Rub3JZLWxTdld3NjNfRG5kdFQ0Q05jU3YxM2lrdWhLUTRXV0VRam40aWw1ZWFIUDFUcEsySWNnb0RsSTd6OGU0SVF5NTVKc0QwUFhCS05haWc?oc=5"
+    },
+    {
+     "source": "www.techtimes.co.uk",
+     "title": "Elon Musk's Grok AI Points to Terrifying Theory That Could Wipe Out the Universe Without Warning",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd0dGR25VdlFMNFM1b2VkTXZEUnNnSThBdEgzUjNld1Z4U0c4TVhxd1ByRXh1UTZJeGQ0VnVfeXdGbnN4d2ZRTVBvZ01EalEzeEtybDJVSDRsOGtfOFRJSEl1SldJcjhnSzlpa0taX0xWTDJ5eDRwQW9CQWpjeHp2OWt4cEZuUnJzYXUw?oc=5"
+    },
+    {
+     "source": "www.techtimes.co.uk",
+     "title": "Trump’s AI Slop Habit Strikes Again With Bizarre Tribute to Cabinet Ally’s Brain-Injured Son",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdTJMMmg0SkpHSGk3RUY0VW5wNnNndmJFdFBYSkhnS3FPVXNCTlhWVFlmZFNVeHdRUGtxZjg2Vm5NSm9YWFFaQzA5Y0ZmOEwxdWw3ZjR0WU0tQzlSRFVuMlJnckQxOExpNXVhM19zb1Y2SDJaSnhrdmV2Yy1hYzROUlNkb1d6UQ?oc=5"
+    },
+    {
+     "source": "Business Insider Africa",
+     "title": "Elon Musk, Nvidia employees and Silicon Valley executives back Jensen Huang’s return as $720 million AI expansion targets five African countries",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQThUZTRhVDdyaWhOcnJzaWRxNmd4UzhBeXNmaU53MW5hbFRKcFFGWllTcEtQWDJoZ3E3Q3pvdU1waVR3UEJ3NFlobldHX2laVjNIN05aQTdER2xBMkZBLWNRaVpSRDJkSkNvRzRzdnNrYk5hZ1ljblVld0RsdlRDWWg1RkZSQldwMWtocVhKbjB2LUc3RC1xNkFaV1NTY25YdHM1MWFzTXoxaERzWHdLajdpRERfSzdZVGpuc01hVzhWWS0tTU1KYm5SWGt1VmM1d0dNTndSUHVkdw?oc=5"
+    },
+    {
+     "source": "Make Tech Easier",
+     "title": "GitHub is retiring six AI models from Copilot on 14 December, including Gemini 3.8 Flash and Grok 4.6, across chat, inline edits and code completions.",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMcjM0YVhWNXpyRklDOFVCTzNBME12VE1KS2wybHhGZUkwMk1TR0dpWjhTS3RRdmFYRnhtanpocks2cThiUnppbzFxSWJrNnl5Qkg4eHIxTW5vcFhaTmtTU0JGYkVETkJ6aERPSnRGaHZlbWc4c3V5MQ?oc=5"
+    },
+    {
+     "source": "Cryptonews.net",
+     "title": "Binance's CZ Debunks False Elon Musk Banter With AI",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QMVZjeGJEY3o4NXZkTUxMdTFkRXJKMW83aEVXVkJ5WTRodEx5QzlveDNtbTVpZkpuX1pLQldsT3JlU3U3WDYzWmc3eEVNdjJpVERZZVV6bw?oc=5"
+    },
+    {
+     "source": "The Guardian",
+     "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGVtNVJwRV8wTl9BUEQ4ZXBIT0V6aHVHdEt2NHk3ZWhHVzZkek5RX0pZN1lnSmN4cVNvOEtvVmttTXpLbkVGU0JmNXRVd3N1T1B4dlg4YWNEbjE4UjAwckdqREthS3BrQy1rSFdydzlNMlB0cTk5Z2NuZnhTZ0IzV2EzOTRObkJUQUdwcnViZ2dUTk5QaVVlbDFYQXVySVp4cWNTVlNGN1BXXzBQOVIzVjhiMWc?oc=5"
+    },
+    {
+     "source": "France 24",
+     "title": "Musk, Uber co-founder join calls to reinstate Huang as Nvidia chief",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGFBampUZ0hYOXJ1UUY2ZkFDdVlBSVZDeVBnejB5dUpiUHU4ZG1kVDM2VHRkSTV5V3Z2cjQyVjJ3dkhoZ0wxWmRFb3dxWllvRUROUi1RWUhRYmtZcWNLVlZpV2UtOGhRZ1RXZHNLZDJOQ0gydllNUTZGWG82MUhoZGhaYjJzZFJqQ05oeENEQ2ZXVHlSM0U1RmlIVzQ0Q1N1VXVtWnF3?oc=5"
+    }
+   ]
+  },
+  {
+   "reason": "Opinion and analysis",
+   "explanation": "Columns on Anthropic's governance and IPO filing, Claude Code how-tos, a Grok Bot design essay and political commentary offered views, not news.",
+   "items": [
+    {
+     "source": "The Guardian",
+     "title": "Anthropic recognises the risks to humanity - but is its governance really up to the job? | Nils Pratley",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSlluMXIxaW5WNnczSmtqcW1GdmFsRVhUMldKQnFINmpsUUJCaWlydThINlk5MTBGM1FCbl9rWGk5ZXYySkVLQzA0SFh0N0syeXphN0x6OTN6SXhRTWZLWWV1TlR0OUN5VjdQYXpqU2tTTkRSeTVBSGl3YUl5ZDRkMHl5WWxNSUFadDN2cl9tV1dYRWstalc1Wl8xTF96bUM1cUVfemdQLTNPbkxETzVEYy1QVUZidFpmU0JEdkFR?oc=5"
+    },
+    {
+     "source": "The Denver Post",
+     "title": "Anthropic promises to pursue humanity’s benefit. Its IPO filing gives it wiggle room",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SNENxd2RnSk9PbUJBWFZiVFJzNFRjUmdsdTNOemZGR2hjNzJ0M3dicXFwZXVqSkd2cjBxR2l0SFRwekJkaFhMLUNJM3NuaTdHT1gwaERPdUIzZE5PaWQwT2RYZXFBa29Wd040a04zczBpZ0VHSDRYYw?oc=5"
+    },
+    {
+     "source": "Exponential View | Azeem Azhar",
+     "title": "🔮 What Anthropic is really listing",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJTV92dWk0czQ3NWRZYzg2RXNQZFBWVnFBcHU3dnFBeHFWbXl1djFRX3RsNjRBaTFoXzA0Wl93Z3o3THRrR0s4T0VEVDU1WkdqaXBJOXdCTEZpOGdhN1g1S0E0dXo5M1ZOVGlHc2paeTBnY1E?oc=5"
+    },
+    {
+     "source": "CNBC",
+     "title": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oLVJBMUQycUtqY2tvU1p3WlRDVW5sa0h6Z1V3SzBNb1BwMVZRSF9sdkV5NmtJVVk5NVlNOUhtUXp0YlF6UFRWZHlWMXN5d0hzNERQSDRZYUUxRHZydVFDYkxOZGVxOFBkcHlOc0xaMGx0UXIy0gF6QVVfeXFMTlk4eUZfR2ZwYVJqd1ZfOGlnM2duYi1vSmlmbU1Wb1RpZUtSRFpIdmRpbC1CVEY5YVMyVEhZLWlTNXpubXBveDdrZkoxVWwxMXk0SlJHMDVnTTZibzlncEJ5M29rUEM1RV9WUDR4UjVrMHV1aG4td2dLelE?oc=5"
+    },
+    {
+     "source": "Yahoo Finance",
+     "title": "How Anthropic’s IPO Pitch Turns Mission Into A Selling Point",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdkF2cjZCb01HVm94UGVZaHNweTJ4eEE4SkVYVmxmcE1vZEJ0VVhTMzA0a3FQV05rNTZVMWlhbTdsRjBhaTRSUDVib1gwakVqdXVDeWo2YjhFc2lHTlpITENzTFR1OWtBSnBCTzNQd1RVWXRxLWxJQ0JrWGtyZDV2UGZBeFdwUmtVUHdRci1RMjUwbmJEZmtEd2F5QVc5dw?oc=5"
+    },
+    {
+     "source": "XDA",
+     "title": "Claude Code isn't just for building apps anymore, and I'm using it to bring back what I miss",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeVpXdDJIOTJrX1ROdUlHMkNJZEQxMThZZWhLMWNIcEZKUUFNaWpNbjBGYmRGUk95RWlUdFhIZmIxVnl5MDFveWo0WkZmcE51R3JiVW1IWWtnc3g2b29XNm9IVTNpSkVBeHdTeHVLc3l3bU44VkZWWG84bmFBZWprMWJOODZGMlhnajJHbkxOcTNPOWxReXF3eWZ3RHh6ZlQ5NDFndU0zV0U1QUhGanZQeTN4eVg?oc=5"
+    },
+    {
+     "source": "KDnuggets",
+     "title": "How to Give Claude Code Up-to-Date Documentation With Context7",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR3dGT09iRHB4aEk3eFB2UERENEtkWUJKVTdBTXlfSG5yRjJiaUR6MlVFSW00T1B6MFRlSW5GMHUtcVdoVDdaQnc1Wk92cndybmhvYnVLcU9TSTctT3Jnd2dlMXptbWtfTm1MU0FwUkpDUWs3aVlKV1R1cEpLaVZnZXZXMUVMZUttallVV1QtX2Nvdw?oc=5"
+    },
+    {
+     "source": "AP News",
+     "title": "Anthropic promises to pursue humanity’s benefit. Its IPO filing gives it wiggle room",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONDBQUWx1WG8xT3E3UVgzQUpRUEVJNnhmWElUMk1ESEZWWEZ0TWNUQzA5SzhsZEV0Zk94bXptUTNaREtaUmRIT0RtWE1tTHpVRDFmUWtleFJrTXBkVEx0TENpZXZHX3NhVmd5eUVwdEQ2YmVJRHV2anFPRjBrSl82Wnp3anRGemY2V3lvUzBjamhpdkVWZXZWWQ?oc=5"
+    },
+    {
+     "source": "The Atlantic",
+     "title": "Who Is Anthropic Kidding?",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeXcxRTJRa2oySnFCTk1vaERsVVFxTzZ2dW4zcU9oSU9oZVIyOGZxdU81M2habUtrTFFCSDhkRXg3bzMzWWZHYnBMUmx1TVQzZjc5Si00UzlMZFM0cEtHaUc2WDBXcE5SSjhmdFZEY19xeVpKX2pBSE4zM3cxZWY5Yg?oc=5"
+    },
+    {
+     "source": "The Verge",
+     "title": "The Democrats figured out something Elon Musk didn’t",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUFkzbTJJbkh5VHpSNW50TUpsWExfSDRWdjVoSXpPT2o4UHN1c0c5MmI1S0dSa3E4RDB3TzhoWEJjVVdrREtrT2hIcGJTUmNQdTJUQjFSRUlnemRLR3hCZGNRdFpYLWtHblZMd0J6ekJLWXZHdTJMS1ZCakI5WmF5V29SdjRBZw?oc=5"
+    },
+    {
+     "source": "Substack",
+     "title": "Opinion AI (@opinionai)",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92SU11VkRnbWh4YV9UTUZ2a2tMRjNDTEV0bkdSZlZ3U3pQX0ViN3VRU0lCRFQtakpzZzhDYkU5LUFTQWxqTUl1cTZpYUVmUzhoSmJJT2pHekZ5NGV2?oc=5"
+    },
+    {
+     "source": "The Federalist",
+     "title": "Did AI’s Biases Sway The 2026 Election?",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYTJQcUNjSlhKR0paNldXbnNiZmJjQ3NidFdCNjBWdVprcDd0WEpqSkkySkJQOHR6MkdHZ0lXUWRuRmpuMHMtemFvWk1mWWNTdVgzazFyRU9mVjRTWWtEdk5Kb0lFY0ZINExma3RhT1hFdzNaOEFGYVp6Vk1nTENWeA?oc=5"
+    },
+    {
+     "source": "Diggit Magazine",
+     "title": "The Body as Capital: AI Deepfake Pornography and Digital Extraction",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZkt3TFRKaHA4NVlhekp5a1BMZnBSXy01eGZoV2M5MW9zQkxHb3NYdDBOODBHZ2VMQy1ZczB1bjc2VDZWaXlKcjVnbkREYmFUYzJRSmJpdnVFcTVCOVQ5RzJsOUZnektZQjcwRE5QT2RweVNGNTNfNmdMTml1VGU1R3MtM1UxYW92eWg1d0xtYm95dFl6?oc=5"
+    },
+    {
+     "source": "Fello AI",
+     "title": "Best AI Image Generator: Ranked by Blind Votes, Picked by Job",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTYnktVU1HWkJzdURlaHF1NTNmeG9qV3hIX1BXSDZfZXZmV0R4UG1vQlVQazhvT2Frd3kyd3FTX0xCYUFsSUVFbjdfUml5RUY4YVVSN1FzYw?oc=5"
+    }
+   ]
+  },
+  {
+   "reason": "Other",
+   "explanation": "Several items were real but narrow: OpenAI's £1m King's Trust skills partnership, a physics proof OpenAI credits partly to GPT-6 Astra, an OpenAI customer story, a Meta small-business survey in Singapore, an ESG rating, a commencement video and an untitled Calcalist piece.",
+   "items": [
+    {
+     "source": "Meta",
+     "title": "94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed",
+     "link": "https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/"
+    },
+    {
+     "source": "OpenAI",
+     "title": "The King’s Trust and OpenAI launch £1m partnership",
+     "link": "https://openai.com/index/the-kings-trust-and-openai"
+    },
+    {
+     "source": "OpenAI",
+     "title": "At Holiday Extras, dots get to work before anyone asks",
+     "link": "https://openai.com/business/customer-stories/holiday-extras-dots"
+    },
+    {
+     "source": "OpenAI",
+     "title": "A step toward defining the Standard Model on a lattice",
+     "link": "https://openai.com/index/step-toward-defining-the-standard-model"
+    },
+    {
+     "source": "The Wellesley News",
+     "title": "Anthropic president commends Wellesley’s motto in unseen video address",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNTA3QUg1NVMwdFJKcy1GSzk0SFBRdFF4MjNXM1ZpWnJ1QmF1VXFueVlETDkyYUlWRUFRVHl0Mm1qUFlLcDBrMG5vYjRXT2lfQWZuSmZVX1ZBM09ZWFlDWlA1aURGeVVrTVRvcnNvN2ZDcGZWcl96Z1NKX2tva09FeGlkTkI1V2VsVVVVakNHWF9QUVAzWmxvS2F0UkRsSXpjT0Itd2VuQ0c1blViUGFCY185M092eUNIQndyUVAzMlBtQQ?oc=5"
+    },
+    {
+     "source": "www.calcalistech.com",
+     "title": "Former Biden national security adviser Jake Sullivan and Anthropic executive Rob Bair",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hZFBOX1dTYjMwdDljMGNDaUFkeTQ1QWJpRXBNc1RPdGRFT0F2bzdiS3Vmem5mSnJNaENuRV92RlIwRmEyckZZaTVhMVBXanZxM3NueVZlTVVtU0haQ2NoZEpVVl82U3RK?oc=5"
+    },
+    {
+     "source": "Responsible Investor",
+     "title": "Anthropic designated ‘high ESG risk’ by Sustainalytics before IPO",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVU9nOG82RmEzWE83eTRtY2dMYnh0OEJNSDVka1hOUHVZNTNnc2FiZU43MnB6SHlVeDRJeExRVmpqQWJMeHo4bVdkWC01OTBHWUF3UENnYTczcDVyTWhjdVgtY3ZKZVQ4dnh5Ul9IeDdEZE5hNG11VEp0M2dqZDdmWTJyUnphLTlWTm03WXF4RjFDSklFVzBpdmFWcUtOWlYyeG5B?oc=5"
+    }
+   ]
+  },
+  {
+   "reason": "Single-source rumors",
+   "explanation": "Google's AdMob letting agents like Claude Code set up ads, Anthropic's claims about Mythos and agent memory, agent-filed records requests, Grok Bot on the Las Vegas Sphere and malware using Grok each came from only one outlet.",
+   "items": [
+    {
+     "source": "The Next Web",
+     "title": "Google’s AdMob lets AI agents like Claude Code set up app ads",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT211X3IydGRuNUR4QmE3ZVF2X250NWRuN2taTk9QR3pfN2dza1JUMkNReC1rdDdiQ1lNdEFmN0hzLVc0Z1h4ZkZxU0FreUQ3UVlMdUZMV01Ic250ZDJWYkVzYWUxMVpZRXJTUVdHUG96ZHdWenU1WkhrTmMtTlpWMW1fdEY?oc=5"
+    },
+    {
+     "source": "Tom's Hardware",
+     "title": "Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days",
+     "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPOU9Ya2ZrUXUyZExIcjU2VnhsYXBZY0cxWEplUlNTY29BTVp5ZjRtaDlzZWNHLWNUTnhRMFdJaHpsMGlUV1k0dUhDOFc5OE95MWZBYjB4eHBNa0RVaWktY3FUNFpYMm9ibGRfQW1PdE5oa1RXSm4yNTkwM0dka3dRUUlicEllMlF2Q21vcWxRRGtCNGRZRExnUUVLaXFjLWJ1M2w4NFF0X1NwMmtVUHp0ZUM3TmptcjBEZDFUOXplOXJHcTJFUXExOFpickhnNXJ0QnBNbllJajQ5cERWRjA1VzJoU2xpeHItMHZHX2VjQmp1WmR1UVBBSVlkMmFzbVc4Y2d4X0U1djF6QlBZUUhSYmRJdzZLeEVqcHhNT3d1d2ZmN3Y2dHM3dU80XzZhMVpzeEkyTlZlMWpSUERkLU80WjZuenZvMGlNbXdienBrRFRJZkFuNldZVzJid1F6NEZMVDhJTUpHZmhJaEpzSEdZblFYcEJtZzI5VFE?oc=5"
+    },
+    {
+     "source": "The Decoder",
+     "title": "Anthropic says the key to agent memory is knowing what to forget, not how much to store",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWhFZVFnTkdRQWhrTDVESTlxZjJ5X2tQWXM5UzBVU0VPUjRtand3X3NEbC1zWHhyQzlhaDVRcFNTOVhhUGNYWi0wN3cxQk51OU9oRGhIdVBiSEJUNk12NlN3WlZmYTZqR1NMcVNKR1hMVC16RGNWbldIX0tWb21scDB0T3FRaVhiR042NWMySGlzMzAyZVA1c1ZLUlBFWlVEWlFTb0tTbU9QZlpBVkVUcQ?oc=5"
+    },
+    {
+     "source": "WMRA Public Radio",
+     "title": "Anthropic AI agents submitted records requests to Virginia’s education department",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWU9zbE1Xc2NDRXlEcmVMOTM2bWoyOE50UEJUZE9aOEgxMmkta18tSmdzbGlvM3VRcTNQOVhmNGp4YUMwaTRYLXktUkt5RWJCeFVBUUU2ZGdXU0RlUWZrNkowVkdpaGFJUGJsZDh3THJvTUpaZ0YwTjVBaDIzQk43UEY4QXZ4akZjUW1yMnMzdDlSTTZSMVdCSzRFbTF5UVJ4ZUdUcmItdS1nYTVpZU9oOTd3?oc=5"
+    },
+    {
+     "source": "BASENOR - Tesla Accessories",
+     "title": "Grok Bot Is Now on the Las Vegas Sphere: What to Know",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMDBFdTBRVi0wa0czMHhhVXllTXhhX2hSbGswV1ZtdXZUUjJVZUxFZFdBWjgtTTM0YWs2VEZodEEza1dtZzQ4U1c2NVQ5NUxIZVNnNmlFR1BpSmY1aFdoUTV5WHIwX3cyZDR2SDZWM2E4NUNXZE95aHRpSm5JSXAtRU9tbUc3dHNNT1F2aE9WVUU?oc=5"
+    },
+    {
+     "source": "Hackread",
+     "title": "ArcticRAT Android Malware Uses Grok AI to Analyse Stolen Banking Texts",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUVkcllUSVkydVdPTUFuUTdnUzB4NmpwZmN4YUVFUkxpblhoTmlnWHB0SFZiS2xrbmRvT0gtd1U1NzJBeWxhU3hxUVRtaUYzTjRBRGpHbS0tUGNDYm1MUEFPSGRFRDlpbWpDQkNfTjk5aUhjVkJhMFQwdzRBTHppQWkxYw?oc=5"
+    }
+   ]
+  },
+  {
+   "reason": "Hype and speculation",
+   "explanation": "Two pieces discussed Elon Musk's wish to merge Tesla and SpaceX; nothing has been announced.",
+   "items": [
+    {
+     "source": "The New York Times",
+     "title": "Elon Musk Dreams of Merging Tesla and SpaceX in Move Toward Tech Supremacy",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPazJram9ValE5cjMtTEg4dDczeXc3d3Y1VW9KaldhbHl2ZUhISjBHbzFBZ3FXWExFWGxEVlNwMHpZU0xvcEdkQkpaMURmQldKdE1TUkIyMENXTU4wTWpCTkNtLS01OGY3Qnp0X1BVYlM0NU96RkFxeE12YjRRZ1pKUUpRUFpjOFc1eGswVQ?oc=5"
+    },
+    {
+     "source": "The New York Times",
+     "title": "Elon Musk Wants to Merge Tesla and SpaceX. Their Businesses Already Overlap.",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ELUVFNFBiWjJzc1Nzc1RmbFkzRV9UVEtwN2VQRlBtV1VuVjR1aThINEpLOUhMYXRLRGF0N0lCbDZJWldSbERPYWxSWHFZQlVPZVlHWnpJa09sc01lRFFXR1JBU2ZrY3dFZnpJNFpLYnZRTWJVYUpxZnFnZw?oc=5"
+    }
+   ]
+  },
+  {
+   "reason": "Older news",
+   "explanation": "xAI's Grok Bot post and a review of Grok Bot 1.0 cover a product announced earlier this month.",
+   "items": [
+    {
+     "source": "xAI",
+     "title": "AI teammates that finish the work | Grok Bot",
+     "link": "https://news.google.com/rss/articles/CBMiMkFVX3lxTE9KUlpuaWtVOGw0VTlVRGlxYVdJZUZRQ3BPakJPYVQ5UjNyaGQyVHk3RWdn?oc=5"
+    },
+    {
+     "source": "36Kr",
+     "title": "Grok Bot 1.0 Launch: Why \"Fewer Buttons\" Design Drives Real Product Improvement",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKRjdLdkxQR003UnJIdEozcEFUYXZCNFNhVGFfQ00xZ0s0b0VFeC10azJYM2M3NDlKYjlyOHpjQWNQczRuNnpyeC1HNFR0QWoxTURn?oc=5"
+    }
+   ]
+  }
+ ],
+ "stats": {
+  "items_read": 145,
+  "official_posts": 16,
+  "outlets_read": 76,
+  "feeds_failed": 3,
+  "reading_minutes": 3
+ },
+ "previous": "2026-11-15",
+ "checks": [
+  "Resolved 8 of 8 Google News links to their original sites."
+ ],
+ "usage": {
+  "model": "claude-opus-5-5",
+  "via": "claude-code",
+  "input_tokens": 17778,
+  "output_tokens": 11900
+ }
+}
